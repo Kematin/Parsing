@@ -1,0 +1,1563 @@
+[
+    {
+        "tittle": "Винегрет",
+        "callories": "130,1 кКал",
+        "proteins": "1,7 г",
+        "fats": "10,3 г",
+        "carbohydrates": "8,2 г"
+    },
+    {
+        "tittle": "Винегрет из овощей",
+        "callories": "176,9 кКал",
+        "proteins": "1,9 г",
+        "fats": "13,9 г",
+        "carbohydrates": "11,7 г"
+    },
+    {
+        "tittle": "Винегрет из овощей и фруктов",
+        "callories": "137,4 кКал",
+        "proteins": "1,9 г",
+        "fats": "9,5 г",
+        "carbohydrates": "11,9 г"
+    },
+    {
+        "tittle": "Винегрет из овощей, яблок и зелени",
+        "callories": "104,2 кКал",
+        "proteins": "1,6 г",
+        "fats": "7,3 г",
+        "carbohydrates": "8,6 г"
+    },
+    {
+        "tittle": "Винегрет из перца с картофелем",
+        "callories": "97,4 кКал",
+        "proteins": "3 г",
+        "fats": "6,2 г",
+        "carbohydrates": "7,9 г"
+    },
+    {
+        "tittle": "Винегрет из фруктов и овощей",
+        "callories": "128,5 кКал",
+        "proteins": "2,1 г",
+        "fats": "8,2 г",
+        "carbohydrates": "12,4 г"
+    },
+    {
+        "tittle": "Винегрет овощной",
+        "callories": "76,6 кКал",
+        "proteins": "1,7 г",
+        "fats": "4,9 г",
+        "carbohydrates": "6,8 г"
+    },
+    {
+        "tittle": "Винегрет овощной",
+        "callories": "158,7 кКал",
+        "proteins": "5,7 г",
+        "fats": "8,4 г",
+        "carbohydrates": "16,2 г"
+    },
+    {
+        "tittle": "Винегрет по-румынски",
+        "callories": "208,1 кКал",
+        "proteins": "6,2 г",
+        "fats": "16,8 г",
+        "carbohydrates": "8,7 г"
+    },
+    {
+        "tittle": "Винегрет с консервированным мясом",
+        "callories": "215 кКал",
+        "proteins": "10,3 г",
+        "fats": "15,4 г",
+        "carbohydrates": "9,5 г"
+    },
+    {
+        "tittle": "Винегрет с селедкой",
+        "callories": "119,1 кКал",
+        "proteins": "4,5 г",
+        "fats": "6,9 г",
+        "carbohydrates": "10,5 г"
+    },
+    {
+        "tittle": "Винегрет с сельдью",
+        "callories": "179,2 кКал",
+        "proteins": "9,1 г",
+        "fats": "13 г",
+        "carbohydrates": "6,8 г"
+    },
+    {
+        "tittle": "Диетический салат из свеклы и яблок",
+        "callories": "94,2 кКал",
+        "proteins": "0,8 г",
+        "fats": "3 г",
+        "carbohydrates": "17 г"
+    },
+    {
+        "tittle": "Жареный салат \"Универсал\"",
+        "callories": "26,6 кКал",
+        "proteins": "1 г",
+        "fats": "0,2 г",
+        "carbohydrates": "5,5 г"
+    },
+    {
+        "tittle": "Морковный салат",
+        "callories": "88,2 кКал",
+        "proteins": "0,8 г",
+        "fats": "7,5 г",
+        "carbohydrates": "4,7 г"
+    },
+    {
+        "tittle": "Морковь с помидорами и яблоками",
+        "callories": "44,4 кКал",
+        "proteins": "0,8 г",
+        "fats": "1,6 г",
+        "carbohydrates": "7 г"
+    },
+    {
+        "tittle": "Огуречный салат",
+        "callories": "131,5 кКал",
+        "proteins": "3,7 г",
+        "fats": "12 г",
+        "carbohydrates": "2,2 г"
+    },
+    {
+        "tittle": "Окрошка",
+        "callories": "75,7 кКал",
+        "proteins": "3,7 г",
+        "fats": "5,1 г",
+        "carbohydrates": "4 г"
+    },
+    {
+        "tittle": "Окрошка",
+        "callories": "57,2 кКал",
+        "proteins": "2,4 г",
+        "fats": "3,2 г",
+        "carbohydrates": "5 г"
+    },
+    {
+        "tittle": "Окрошка мясная",
+        "callories": "89,1 кКал",
+        "proteins": "7 г",
+        "fats": "4,8 г",
+        "carbohydrates": "4,6 г"
+    },
+    {
+        "tittle": "Окрошка овощная",
+        "callories": "48,1 кКал",
+        "proteins": "1,9 г",
+        "fats": "1,9 г",
+        "carbohydrates": "6,4 г"
+    },
+    {
+        "tittle": "Окрошка сборная мясная",
+        "callories": "95,1 кКал",
+        "proteins": "5,1 г",
+        "fats": "6,4 г",
+        "carbohydrates": "4,6 г"
+    },
+    {
+        "tittle": "Оригинальный салат",
+        "callories": "0 кКал",
+        "proteins": "0 г",
+        "fats": "0 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "tittle": "Пестрый летний салат",
+        "callories": "0 кКал",
+        "proteins": "0 г",
+        "fats": "0 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "tittle": "Пестрый салат",
+        "callories": "73,9 кКал",
+        "proteins": "3,7 г",
+        "fats": "1,9 г",
+        "carbohydrates": "11,2 г"
+    },
+    {
+        "tittle": "Печеночный салат",
+        "callories": "104,7 кКал",
+        "proteins": "8,2 г",
+        "fats": "7,5 г",
+        "carbohydrates": "1,1 г"
+    },
+    {
+        "tittle": "Пикантный салат",
+        "callories": "0 кКал",
+        "proteins": "0 г",
+        "fats": "0 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "tittle": "Помидоры с огурцами и перцем",
+        "callories": "30,7 кКал",
+        "proteins": "1 г",
+        "fats": "0,9 г",
+        "carbohydrates": "5 г"
+    },
+    {
+        "tittle": "Помидоры с огурцами и яблоками",
+        "callories": "65,7 кКал",
+        "proteins": "0,8 г",
+        "fats": "4,9 г",
+        "carbohydrates": "4,8 г"
+    },
+    {
+        "tittle": "Помидоры с чесночной заправкой",
+        "callories": "70,9 кКал",
+        "proteins": "3,9 г",
+        "fats": "1,9 г",
+        "carbohydrates": "10,1 г"
+    },
+    {
+        "tittle": "Помидоры, фаршированные  салатом из яблок и огурцов",
+        "callories": "0 кКал",
+        "proteins": "0 г",
+        "fats": "0 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "tittle": "Помидоры, фаршированные салатом из яблок и огурцов.",
+        "callories": "53,5 кКал",
+        "proteins": "0,7 г",
+        "fats": "3,2 г",
+        "carbohydrates": "5,8 г"
+    },
+    {
+        "tittle": "Редиска со сметаной",
+        "callories": "103,5 кКал",
+        "proteins": "2,7 г",
+        "fats": "9 г",
+        "carbohydrates": "3 г"
+    },
+    {
+        "tittle": "Редька в сметане",
+        "callories": "111,8 кКал",
+        "proteins": "2 г",
+        "fats": "9,2 г",
+        "carbohydrates": "5,5 г"
+    },
+    {
+        "tittle": "Рыбный салат",
+        "callories": "145,6 кКал",
+        "proteins": "5,1 г",
+        "fats": "12 г",
+        "carbohydrates": "4,5 г"
+    },
+    {
+        "tittle": "Рыбный салат",
+        "callories": "207 кКал",
+        "proteins": "9,3 г",
+        "fats": "18,3 г",
+        "carbohydrates": "1,4 г"
+    },
+    {
+        "tittle": "Салат \"Ак-идель\" (рыбный с рисом по-башкирски)",
+        "callories": "368,8 кКал",
+        "proteins": "18,4 г",
+        "fats": "29,6 г",
+        "carbohydrates": "7,5 г"
+    },
+    {
+        "tittle": "Салат \"Архиерейский\"",
+        "callories": "221,5 кКал",
+        "proteins": "5,9 г",
+        "fats": "20,8 г",
+        "carbohydrates": "3 г"
+    },
+    {
+        "tittle": "Салат \"Весна\"",
+        "callories": "90,3 кКал",
+        "proteins": "3 г",
+        "fats": "7,4 г",
+        "carbohydrates": "3,1 г"
+    },
+    {
+        "tittle": "Салат \"Гнездо глухаря\"",
+        "callories": "0 кКал",
+        "proteins": "0 г",
+        "fats": "0 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "tittle": "Салат \"Гранат\"",
+        "callories": "225,9 кКал",
+        "proteins": "4,7 г",
+        "fats": "18 г",
+        "carbohydrates": "12 г"
+    },
+    {
+        "tittle": "Салат \"Гранатовый браслет\"",
+        "callories": "166,6 кКал",
+        "proteins": "3,9 г",
+        "fats": "14,2 г",
+        "carbohydrates": "6,1 г"
+    },
+    {
+        "tittle": "Салат \"Грибки\"",
+        "callories": "77,6 кКал",
+        "proteins": "6,5 г",
+        "fats": "4,7 г",
+        "carbohydrates": "2,6 г"
+    },
+    {
+        "tittle": "Салат \"Золушка\"",
+        "callories": "0 кКал",
+        "proteins": "0 г",
+        "fats": "0 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "tittle": "Салат \"Киевский\"",
+        "callories": "160,9 кКал",
+        "proteins": "5 г",
+        "fats": "12 г",
+        "carbohydrates": "8,8 г"
+    },
+    {
+        "tittle": "Салат \"Копенгагенский\"",
+        "callories": "75,7 кКал",
+        "proteins": "3 г",
+        "fats": "4,8 г",
+        "carbohydrates": "5,4 г"
+    },
+    {
+        "tittle": "Салат \"Кремлевский\"",
+        "callories": "252,3 кКал",
+        "proteins": "5,8 г",
+        "fats": "22,1 г",
+        "carbohydrates": "7,9 г"
+    },
+    {
+        "tittle": "Салат \"Летний\"",
+        "callories": "102,5 кКал",
+        "proteins": "3,6 г",
+        "fats": "7,5 г",
+        "carbohydrates": "5,4 г"
+    },
+    {
+        "tittle": "Салат \"Матрешки\"",
+        "callories": "125,9 кКал",
+        "proteins": "11,4 г",
+        "fats": "8,4 г",
+        "carbohydrates": "1,2 г"
+    },
+    {
+        "tittle": "Салат \"Мимоза\"",
+        "callories": "296,6 кКал",
+        "proteins": "6,3 г",
+        "fats": "28,3 г",
+        "carbohydrates": "4,4 г"
+    },
+    {
+        "tittle": "Салат \"Молдова\"",
+        "callories": "283,5 кКал",
+        "proteins": "5,5 г",
+        "fats": "20,4 г",
+        "carbohydrates": "20,7 г"
+    },
+    {
+        "tittle": "Салат \"Московский\"",
+        "callories": "280,3 кКал",
+        "proteins": "4,7 г",
+        "fats": "24,7 г",
+        "carbohydrates": "10,5 г"
+    },
+    {
+        "tittle": "Салат \"Невеста\"",
+        "callories": "218,7 кКал",
+        "proteins": "4,3 г",
+        "fats": "18,5 г",
+        "carbohydrates": "9,4 г"
+    },
+    {
+        "tittle": "Салат \"Нежность\"",
+        "callories": "211 кКал",
+        "proteins": "5,1 г",
+        "fats": "8,7 г",
+        "carbohydrates": "30 г"
+    },
+    {
+        "tittle": "Салат \"Обжарка\"",
+        "callories": "132,6 кКал",
+        "proteins": "3,8 г",
+        "fats": "11,9 г",
+        "carbohydrates": "2,7 г"
+    },
+    {
+        "tittle": "Салат \"Осенний\" из свежих овощей с рыбой",
+        "callories": "123 кКал",
+        "proteins": "8,3 г",
+        "fats": "7,7 г",
+        "carbohydrates": "5,5 г"
+    },
+    {
+        "tittle": "Салат \"Острый\" из картофеля с ветчиной и чесноком",
+        "callories": "175 кКал",
+        "proteins": "5,9 г",
+        "fats": "10,3 г",
+        "carbohydrates": "15,5 г"
+    },
+    {
+        "tittle": "Салат \"Петровский\" грибной с квашеной капустой и огурцами",
+        "callories": "110,5 кКал",
+        "proteins": "1,5 г",
+        "fats": "10,3 г",
+        "carbohydrates": "3,1 г"
+    },
+    {
+        "tittle": "Салат \"Приятное с полезным\"",
+        "callories": "101,7 кКал",
+        "proteins": "8,5 г",
+        "fats": "0,7 г",
+        "carbohydrates": "16,5 г"
+    },
+    {
+        "tittle": "Салат \"Тихая заводь\"",
+        "callories": "259,9 кКал",
+        "proteins": "7,8 г",
+        "fats": "23,5 г",
+        "carbohydrates": "4,6 г"
+    },
+    {
+        "tittle": "Салат \"Универсал\"",
+        "callories": "27,2 кКал",
+        "proteins": "1 г",
+        "fats": "0,2 г",
+        "carbohydrates": "5,6 г"
+    },
+    {
+        "tittle": "Салат \"Фантазия\"",
+        "callories": "0 кКал",
+        "proteins": "0 г",
+        "fats": "0 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "tittle": "Салат \"Цезарь\"",
+        "callories": "303,6 кКал",
+        "proteins": "14,8 г",
+        "fats": "17,2 г",
+        "carbohydrates": "24 г"
+    },
+    {
+        "tittle": "Салат \"Цезарь\" классический",
+        "callories": "0 кКал",
+        "proteins": "0 г",
+        "fats": "0 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "tittle": "Салат \"Эгоист\"",
+        "callories": "252,3 кКал",
+        "proteins": "10,5 г",
+        "fats": "19,5 г",
+        "carbohydrates": "9,2 г"
+    },
+    {
+        "tittle": "Салат \"Эксклюзив\"",
+        "callories": "100,4 кКал",
+        "proteins": "7,2 г",
+        "fats": "6,8 г",
+        "carbohydrates": "2,9 г"
+    },
+    {
+        "tittle": "Салат \"Экспериментальный\"",
+        "callories": "85 кКал",
+        "proteins": "2,6 г",
+        "fats": "4,2 г",
+        "carbohydrates": "9,8 г"
+    },
+    {
+        "tittle": "Салат \"Эстонский\"",
+        "callories": "166,2 кКал",
+        "proteins": "2,3 г",
+        "fats": "14,2 г",
+        "carbohydrates": "7,8 г"
+    },
+    {
+        "tittle": "Салат витаминный - 1",
+        "callories": "101 кКал",
+        "proteins": "1,3 г",
+        "fats": "7,4 г",
+        "carbohydrates": "7,8 г"
+    },
+    {
+        "tittle": "Салат витаминный - 2",
+        "callories": "113,7 кКал",
+        "proteins": "1,4 г",
+        "fats": "7,7 г",
+        "carbohydrates": "10,3 г"
+    },
+    {
+        "tittle": "Салат гороховый с яблоками",
+        "callories": "102,3 кКал",
+        "proteins": "3,3 г",
+        "fats": "5,3 г",
+        "carbohydrates": "11,2 г"
+    },
+    {
+        "tittle": "Салат греческий",
+        "callories": "188,5 кКал",
+        "proteins": "3,9 г",
+        "fats": "17,8 г",
+        "carbohydrates": "3,4 г"
+    },
+    {
+        "tittle": "Салат для мужчин",
+        "callories": "127,5 кКал",
+        "proteins": "1,6 г",
+        "fats": "10 г",
+        "carbohydrates": "8,3 г"
+    },
+    {
+        "tittle": "Салат из апельсинов и лука-порея",
+        "callories": "0 кКал",
+        "proteins": "0 г",
+        "fats": "0 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "tittle": "Салат из белокачанной капусты",
+        "callories": "67,9 кКал",
+        "proteins": "1,8 г",
+        "fats": "3,6 г",
+        "carbohydrates": "7,6 г"
+    },
+    {
+        "tittle": "Салат из белокочанной и морской капусты",
+        "callories": "84,6 кКал",
+        "proteins": "1,8 г",
+        "fats": "5,1 г",
+        "carbohydrates": "8,4 г"
+    },
+    {
+        "tittle": "Салат из белокочанной капусты с кальмарами",
+        "callories": "229,5 кКал",
+        "proteins": "14 г",
+        "fats": "17,7 г",
+        "carbohydrates": "3,7 г"
+    },
+    {
+        "tittle": "Салат из белокочанной капусты с сельдью и шпиком",
+        "callories": "185,6 кКал",
+        "proteins": "13 г",
+        "fats": "13 г",
+        "carbohydrates": "4,4 г"
+    },
+    {
+        "tittle": "Салат из белокочанной капусты с яблоками и сельдереем",
+        "callories": "85,3 кКал",
+        "proteins": "1,6 г",
+        "fats": "5 г",
+        "carbohydrates": "9 г"
+    },
+    {
+        "tittle": "Салат из белых грибов или шампиньонов",
+        "callories": "62,3 кКал",
+        "proteins": "5,2 г",
+        "fats": "2,5 г",
+        "carbohydrates": "5,2 г"
+    },
+    {
+        "tittle": "Салат из бобов",
+        "callories": "157,4 кКал",
+        "proteins": "3,3 г",
+        "fats": "13,9 г",
+        "carbohydrates": "5 г"
+    },
+    {
+        "tittle": "Салат из грибов и квашеной капусты",
+        "callories": "120,3 кКал",
+        "proteins": "2 г",
+        "fats": "8,7 г",
+        "carbohydrates": "8,9 г"
+    },
+    {
+        "tittle": "Салат из грибов с сельдью",
+        "callories": "135,7 кКал",
+        "proteins": "8,2 г",
+        "fats": "10,8 г",
+        "carbohydrates": "1,6 г"
+    },
+    {
+        "tittle": "Салат из зелени с дичью",
+        "callories": "230,4 кКал",
+        "proteins": "6,8 г",
+        "fats": "18,5 г",
+        "carbohydrates": "9,7 г"
+    },
+    {
+        "tittle": "Салат из кабачков и помидоров",
+        "callories": "103,4 кКал",
+        "proteins": "1,1 г",
+        "fats": "9 г",
+        "carbohydrates": "4,8 г"
+    },
+    {
+        "tittle": "Салат из кальмаров с яблоками",
+        "callories": "315,3 кКал",
+        "proteins": "16,4 г",
+        "fats": "21,6 г",
+        "carbohydrates": "14,7 г"
+    },
+    {
+        "tittle": "Салат из капусты с апельсинами",
+        "callories": "99,1 кКал",
+        "proteins": "2,5 г",
+        "fats": "5,3 г",
+        "carbohydrates": "11,1 г"
+    },
+    {
+        "tittle": "Салат из капусты с грибами",
+        "callories": "106,6 кКал",
+        "proteins": "5,9 г",
+        "fats": "5,5 г",
+        "carbohydrates": "9 г"
+    },
+    {
+        "tittle": "Салат из капусты с яблоками",
+        "callories": "32,4 кКал",
+        "proteins": "1,5 г",
+        "fats": "0,2 г",
+        "carbohydrates": "6,5 г"
+    },
+    {
+        "tittle": "Салат из капусты с яблоками",
+        "callories": "60,2 кКал",
+        "proteins": "2,5 г",
+        "fats": "3,1 г",
+        "carbohydrates": "6 г"
+    },
+    {
+        "tittle": "Салат из капусты с яблоками и луком",
+        "callories": "71,7 кКал",
+        "proteins": "1,1 г",
+        "fats": "2,3 г",
+        "carbohydrates": "12,4 г"
+    },
+    {
+        "tittle": "Салат из картофеля с морской капустой и свеклой",
+        "callories": "114 кКал",
+        "proteins": "2,1 г",
+        "fats": "7,8 г",
+        "carbohydrates": "9,4 г"
+    },
+    {
+        "tittle": "Салат из картофеля с редькой и яблоками",
+        "callories": "205,8 кКал",
+        "proteins": "4,2 г",
+        "fats": "17,9 г",
+        "carbohydrates": "7,5 г"
+    },
+    {
+        "tittle": "Салат из квашенной капусты",
+        "callories": "77,8 кКал",
+        "proteins": "1,6 г",
+        "fats": "3,1 г",
+        "carbohydrates": "11,6 г"
+    },
+    {
+        "tittle": "Салат из квашенной капусты и свеклы",
+        "callories": "69,9 кКал",
+        "proteins": "1,9 г",
+        "fats": "5 г",
+        "carbohydrates": "4,6 г"
+    },
+    {
+        "tittle": "Салат из квашеной капусты",
+        "callories": "101,7 кКал",
+        "proteins": "1,4 г",
+        "fats": "8,1 г",
+        "carbohydrates": "6,2 г"
+    },
+    {
+        "tittle": "Салат из квашеной капусты с селью",
+        "callories": "165,3 кКал",
+        "proteins": "8 г",
+        "fats": "11,4 г",
+        "carbohydrates": "8,3 г"
+    },
+    {
+        "tittle": "Салат из кильки в томатном соусе",
+        "callories": "283,5 кКал",
+        "proteins": "5 г",
+        "fats": "27,2 г",
+        "carbohydrates": "5 г"
+    },
+    {
+        "tittle": "Салат из кольраби",
+        "callories": "144,8 кКал",
+        "proteins": "2,1 г",
+        "fats": "12,3 г",
+        "carbohydrates": "7 г"
+    },
+    {
+        "tittle": "Салат из крабов",
+        "callories": "171,8 кКал",
+        "proteins": "14,7 г",
+        "fats": "9,5 г",
+        "carbohydrates": "7,3 г"
+    },
+    {
+        "tittle": "Салат из красного сладкого перца, зеленого горошка и риса",
+        "callories": "247,2 кКал",
+        "proteins": "10 г",
+        "fats": "5,3 г",
+        "carbohydrates": "42,4 г"
+    },
+    {
+        "tittle": "Салат из краснокачанной капусты",
+        "callories": "64,4 кКал",
+        "proteins": "0,8 г",
+        "fats": "3,6 г",
+        "carbohydrates": "7,8 г"
+    },
+    {
+        "tittle": "Салат из краснокачанной капусты с яблоками",
+        "callories": "38,1 кКал",
+        "proteins": "0,7 г",
+        "fats": "0,3 г",
+        "carbohydrates": "8,6 г"
+    },
+    {
+        "tittle": "Салат из краснокочанной капусты",
+        "callories": "86,8 кКал",
+        "proteins": "0,5 г",
+        "fats": "6,1 г",
+        "carbohydrates": "7,8 г"
+    },
+    {
+        "tittle": "Салат из краснокочанной капусты с грибами",
+        "callories": "97,4 кКал",
+        "proteins": "1,8 г",
+        "fats": "6,5 г",
+        "carbohydrates": "8,4 г"
+    },
+    {
+        "tittle": "Салат из креветок с рисом",
+        "callories": "310,1 кКал",
+        "proteins": "25,6 г",
+        "fats": "10,3 г",
+        "carbohydrates": "30,6 г"
+    },
+    {
+        "tittle": "Салат из кукурузы",
+        "callories": "317,6 кКал",
+        "proteins": "8,8 г",
+        "fats": "8,5 г",
+        "carbohydrates": "54,8 г"
+    },
+    {
+        "tittle": "Салат из курицы по-архангельски",
+        "callories": "195,9 кКал",
+        "proteins": "4,7 г",
+        "fats": "15 г",
+        "carbohydrates": "11,3 г"
+    },
+    {
+        "tittle": "Салат из маринованной свеклы с яблоками",
+        "callories": "90,1 кКал",
+        "proteins": "1,3 г",
+        "fats": "6,1 г",
+        "carbohydrates": "8 г"
+    },
+    {
+        "tittle": "Салат из моркови",
+        "callories": "191,8 кКал",
+        "proteins": "5,7 г",
+        "fats": "7,6 г",
+        "carbohydrates": "26,8 г"
+    },
+    {
+        "tittle": "Салат из моркови и капусты",
+        "callories": "140,6 кКал",
+        "proteins": "1,7 г",
+        "fats": "11 г",
+        "carbohydrates": "9,2 г"
+    },
+    {
+        "tittle": "Салат из моркови с курагой, помидорами и яблоками",
+        "callories": "78,2 кКал",
+        "proteins": "1,2 г",
+        "fats": "2,8 г",
+        "carbohydrates": "12,8 г"
+    },
+    {
+        "tittle": "Салат из моркови с орехами и медом",
+        "callories": "219,4 кКал",
+        "proteins": "4,9 г",
+        "fats": "15,2 г",
+        "carbohydrates": "16,7 г"
+    },
+    {
+        "tittle": "Салат из моркови с хреном",
+        "callories": "141,2 кКал",
+        "proteins": "1,9 г",
+        "fats": "12,6 г",
+        "carbohydrates": "5,4 г"
+    },
+    {
+        "tittle": "Салат из морского гребешка с огурцами",
+        "callories": "148,2 кКал",
+        "proteins": "9 г",
+        "fats": "11,1 г",
+        "carbohydrates": "3,3 г"
+    },
+    {
+        "tittle": "Салат из овощей с капустой морской",
+        "callories": "136,8 кКал",
+        "proteins": "2 г",
+        "fats": "10,6 г",
+        "carbohydrates": "9,1 г"
+    },
+    {
+        "tittle": "Салат из огурцов",
+        "callories": "57 кКал",
+        "proteins": "1,1 г",
+        "fats": "4,5 г",
+        "carbohydrates": "3,2 г"
+    },
+    {
+        "tittle": "Салат из огурцов",
+        "callories": "0 кКал",
+        "proteins": "0 г",
+        "fats": "0 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "tittle": "Салат из перца",
+        "callories": "173 кКал",
+        "proteins": "1,1 г",
+        "fats": "16,9 г",
+        "carbohydrates": "4,4 г"
+    },
+    {
+        "tittle": "Салат из помидоров",
+        "callories": "146 кКал",
+        "proteins": "4,4 г",
+        "fats": "12,4 г",
+        "carbohydrates": "4,4 г"
+    },
+    {
+        "tittle": "Салат из помидоров и огурцов",
+        "callories": "89,2 кКал",
+        "proteins": "0,7 г",
+        "fats": "7,7 г",
+        "carbohydrates": "4,5 г"
+    },
+    {
+        "tittle": "Салат из помидоров по-чилийски",
+        "callories": "19,9 кКал",
+        "proteins": "0,6 г",
+        "fats": "0,2 г",
+        "carbohydrates": "4,2 г"
+    },
+    {
+        "tittle": "Салат из помидоров, огурцов и сладкого перца",
+        "callories": "25 кКал",
+        "proteins": "1,1 г",
+        "fats": "0,2 г",
+        "carbohydrates": "5,2 г"
+    },
+    {
+        "tittle": "Салат из птицы  или дичи",
+        "callories": "198,8 кКал",
+        "proteins": "5,6 г",
+        "fats": "15,1 г",
+        "carbohydrates": "10,9 г"
+    },
+    {
+        "tittle": "Салат из птицы или дичи",
+        "callories": "243,5 кКал",
+        "proteins": "11,2 г",
+        "fats": "19,4 г",
+        "carbohydrates": "6,3 г"
+    },
+    {
+        "tittle": "Салат из разных фруктов",
+        "callories": "147,3 кКал",
+        "proteins": "1 г",
+        "fats": "11,9 г",
+        "carbohydrates": "9,5 г"
+    },
+    {
+        "tittle": "Салат из редиса",
+        "callories": "0 кКал",
+        "proteins": "0 г",
+        "fats": "0 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "tittle": "Салат из редиски со метаной",
+        "callories": "106,4 кКал",
+        "proteins": "2 г",
+        "fats": "9,3 г",
+        "carbohydrates": "4 г"
+    },
+    {
+        "tittle": "Салат из редьки",
+        "callories": "204,2 кКал",
+        "proteins": "2,2 г",
+        "fats": "19,1 г",
+        "carbohydrates": "6,3 г"
+    },
+    {
+        "tittle": "Салат из редьки и картофеля по-кабардински",
+        "callories": "128,4 кКал",
+        "proteins": "4,7 г",
+        "fats": "9,2 г",
+        "carbohydrates": "7,3 г"
+    },
+    {
+        "tittle": "Салат из редьки с орехами",
+        "callories": "0 кКал",
+        "proteins": "0 г",
+        "fats": "0 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "tittle": "Салат из репы",
+        "callories": "142,6 кКал",
+        "proteins": "1,8 г",
+        "fats": "9,4 г",
+        "carbohydrates": "13,6 г"
+    },
+    {
+        "tittle": "Салат из рыбы",
+        "callories": "184,9 кКал",
+        "proteins": "10,5 г",
+        "fats": "13 г",
+        "carbohydrates": "6,9 г"
+    },
+    {
+        "tittle": "Салат из свежей капусты с мясом",
+        "callories": "143,1 кКал",
+        "proteins": "3,7 г",
+        "fats": "12,8 г",
+        "carbohydrates": "3,6 г"
+    },
+    {
+        "tittle": "Салат из свежих овощей",
+        "callories": "77,5 кКал",
+        "proteins": "1,6 г",
+        "fats": "4,4 г",
+        "carbohydrates": "8,3 г"
+    },
+    {
+        "tittle": "Салат из свеклы и хрена",
+        "callories": "95,6 кКал",
+        "proteins": "1,3 г",
+        "fats": "5,2 г",
+        "carbohydrates": "11,6 г"
+    },
+    {
+        "tittle": "Салат из свеклы с орехами",
+        "callories": "117,8 кКал",
+        "proteins": "1,7 г",
+        "fats": "8,8 г",
+        "carbohydrates": "8,5 г"
+    },
+    {
+        "tittle": "Салат из свеклы с сыром и чесноком",
+        "callories": "211,6 кКал",
+        "proteins": "7,1 г",
+        "fats": "17,1 г",
+        "carbohydrates": "7,8 г"
+    },
+    {
+        "tittle": "Салат из свеклы с хреном",
+        "callories": "46,8 кКал",
+        "proteins": "1,5 г",
+        "fats": "0,1 г",
+        "carbohydrates": "10,7 г"
+    },
+    {
+        "tittle": "Салат из свеклы с черносливом, орехами и чесноком",
+        "callories": "284 кКал",
+        "proteins": "7,1 г",
+        "fats": "15,6 г",
+        "carbohydrates": "30,7 г"
+    },
+    {
+        "tittle": "Салат из сельди",
+        "callories": "204,1 кКал",
+        "proteins": "11,9 г",
+        "fats": "14,7 г",
+        "carbohydrates": "6,4 г"
+    },
+    {
+        "tittle": "Салат из соленых огурцов и брюквы",
+        "callories": "66,6 кКал",
+        "proteins": "1,9 г",
+        "fats": "3,7 г",
+        "carbohydrates": "6,8 г"
+    },
+    {
+        "tittle": "Салат из соленых огурцов и редьки",
+        "callories": "90,8 кКал",
+        "proteins": "1,2 г",
+        "fats": "7,7 г",
+        "carbohydrates": "4,3 г"
+    },
+    {
+        "tittle": "Салат из соленых огурцов и свеклы",
+        "callories": "95 кКал",
+        "proteins": "1,4 г",
+        "fats": "7,6 г",
+        "carbohydrates": "5,6 г"
+    },
+    {
+        "tittle": "Салат из спаржи",
+        "callories": "237,5 кКал",
+        "proteins": "2,1 г",
+        "fats": "23,9 г",
+        "carbohydrates": "3,6 г"
+    },
+    {
+        "tittle": "Салат из стручковой фасоли",
+        "callories": "215,9 кКал",
+        "proteins": "16,1 г",
+        "fats": "3,9 г",
+        "carbohydrates": "31,1 г"
+    },
+    {
+        "tittle": "Салат из стручковой фасоли",
+        "callories": "132,5 кКал",
+        "proteins": "2,8 г",
+        "fats": "10,5 г",
+        "carbohydrates": "7,2 г"
+    },
+    {
+        "tittle": "Салат из сырой моркови и репы",
+        "callories": "115,9 кКал",
+        "proteins": "1,5 г",
+        "fats": "8,8 г",
+        "carbohydrates": "8,2 г"
+    },
+    {
+        "tittle": "Салат из сырой моркови м яблоками",
+        "callories": "82,2 кКал",
+        "proteins": "1,2 г",
+        "fats": "4,8 г",
+        "carbohydrates": "9,1 г"
+    },
+    {
+        "tittle": "Салат из сырой свеклы",
+        "callories": "76,7 кКал",
+        "proteins": "1,2 г",
+        "fats": "4,7 г",
+        "carbohydrates": "8 г"
+    },
+    {
+        "tittle": "Салат из сырых овощей",
+        "callories": "94,3 кКал",
+        "proteins": "1,6 г",
+        "fats": "7,6 г",
+        "carbohydrates": "5,3 г"
+    },
+    {
+        "tittle": "Салат из сырых овощей с яблоками",
+        "callories": "58 кКал",
+        "proteins": "1,1 г",
+        "fats": "3,3 г",
+        "carbohydrates": "6,4 г"
+    },
+    {
+        "tittle": "Салат из творога",
+        "callories": "246,4 кКал",
+        "proteins": "12,6 г",
+        "fats": "19,2 г",
+        "carbohydrates": "6,1 г"
+    },
+    {
+        "tittle": "Салат из трески с майонезом",
+        "callories": "184,6 кКал",
+        "proteins": "9,9 г",
+        "fats": "15 г",
+        "carbohydrates": "2,6 г"
+    },
+    {
+        "tittle": "Салат из трески с хреном",
+        "callories": "164,8 кКал",
+        "proteins": "8,9 г",
+        "fats": "10,1 г",
+        "carbohydrates": "10 г"
+    },
+    {
+        "tittle": "Салат из тыквы",
+        "callories": "73 кКал",
+        "proteins": "0,9 г",
+        "fats": "6,1 г",
+        "carbohydrates": "3,8 г"
+    },
+    {
+        "tittle": "Салат из тыквы по-чувашски",
+        "callories": "82,9 кКал",
+        "proteins": "1,2 г",
+        "fats": "0,2 г",
+        "carbohydrates": "20,4 г"
+    },
+    {
+        "tittle": "Салат из тыквы с яблоками",
+        "callories": "35,7 кКал",
+        "proteins": "0,6 г",
+        "fats": "0,3 г",
+        "carbohydrates": "8,2 г"
+    },
+    {
+        "tittle": "Салат из фасоли",
+        "callories": "345,2 кКал",
+        "proteins": "0,9 г",
+        "fats": "0,9 г",
+        "carbohydrates": "88,9 г"
+    },
+    {
+        "tittle": "Салат из фасоли",
+        "callories": "336,6 кКал",
+        "proteins": "13,8 г",
+        "fats": "19,6 г",
+        "carbohydrates": "28,1 г"
+    },
+    {
+        "tittle": "Салат из фруктов",
+        "callories": "95,2 кКал",
+        "proteins": "0,8 г",
+        "fats": "4,9 г",
+        "carbohydrates": "12,9 г"
+    },
+    {
+        "tittle": "Салат из цветной капусты",
+        "callories": "53,2 кКал",
+        "proteins": "1,8 г",
+        "fats": "3,8 г",
+        "carbohydrates": "3,1 г"
+    },
+    {
+        "tittle": "Салат из цветной капусты",
+        "callories": "69,1 кКал",
+        "proteins": "1,2 г",
+        "fats": "5,7 г",
+        "carbohydrates": "3,5 г"
+    },
+    {
+        "tittle": "Салат из цветной капусты, свежих огурцов и помидоров",
+        "callories": "77,3 кКал",
+        "proteins": "2 г",
+        "fats": "5,3 г",
+        "carbohydrates": "5,6 г"
+    },
+    {
+        "tittle": "Салат из шампиньонов",
+        "callories": "143,1 кКал",
+        "proteins": "3,9 г",
+        "fats": "12,5 г",
+        "carbohydrates": "4 г"
+    },
+    {
+        "tittle": "Салат из щавеля",
+        "callories": "200,1 кКал",
+        "proteins": "2,3 г",
+        "fats": "18,8 г",
+        "carbohydrates": "5,8 г"
+    },
+    {
+        "tittle": "Салат из яблок и брусники",
+        "callories": "78,6 кКал",
+        "proteins": "0,8 г",
+        "fats": "5 г",
+        "carbohydrates": "8,1 г"
+    },
+    {
+        "tittle": "Салат из яблок и лука",
+        "callories": "111,1 кКал",
+        "proteins": "1 г",
+        "fats": "8,3 г",
+        "carbohydrates": "8,6 г"
+    },
+    {
+        "tittle": "Салат из яблок и моркови  с орехами",
+        "callories": "152,6 кКал",
+        "proteins": "4,1 г",
+        "fats": "6,8 г",
+        "carbohydrates": "19,9 г"
+    },
+    {
+        "tittle": "Салат из яблок и помидоров",
+        "callories": "67,1 кКал",
+        "proteins": "0,8 г",
+        "fats": "4,1 г",
+        "carbohydrates": "7,2 г"
+    },
+    {
+        "tittle": "Салат из яблок и сливы",
+        "callories": "97,9 кКал",
+        "proteins": "2,6 г",
+        "fats": "2,2 г",
+        "carbohydrates": "18,1 г"
+    },
+    {
+        "tittle": "Салат из яблок и тыквы",
+        "callories": "36,2 кКал",
+        "proteins": "0,6 г",
+        "fats": "0,3 г",
+        "carbohydrates": "8,3 г"
+    },
+    {
+        "tittle": "Салат из яблок с орехами",
+        "callories": "75,8 кКал",
+        "proteins": "1,7 г",
+        "fats": "0,3 г",
+        "carbohydrates": "17,6 г"
+    },
+    {
+        "tittle": "Салат картофельный",
+        "callories": "127,9 кКал",
+        "proteins": "2,5 г",
+        "fats": "6,6 г",
+        "carbohydrates": "15,5 г"
+    },
+    {
+        "tittle": "Салат картофельный с грибами и брусникой",
+        "callories": "123,6 кКал",
+        "proteins": "4,2 г",
+        "fats": "9,1 г",
+        "carbohydrates": "6,7 г"
+    },
+    {
+        "tittle": "Салат картофельный с грибами и клюквой",
+        "callories": "123,6 кКал",
+        "proteins": "4,2 г",
+        "fats": "9,1 г",
+        "carbohydrates": "6,7 г"
+    },
+    {
+        "tittle": "Салат картофельный с яблоками",
+        "callories": "109,5 кКал",
+        "proteins": "2 г",
+        "fats": "7,9 г",
+        "carbohydrates": "8,2 г"
+    },
+    {
+        "tittle": "Салат любительский",
+        "callories": "97,3 кКал",
+        "proteins": "1,5 г",
+        "fats": "5,5 г",
+        "carbohydrates": "11,2 г"
+    },
+    {
+        "tittle": "Салат Муравейник",
+        "callories": "235,4 кКал",
+        "proteins": "12,6 г",
+        "fats": "7,9 г",
+        "carbohydrates": "30,2 г"
+    },
+    {
+        "tittle": "Салат мясной",
+        "callories": "205,1 кКал",
+        "proteins": "7,1 г",
+        "fats": "15,5 г",
+        "carbohydrates": "9,9 г"
+    },
+    {
+        "tittle": "Салат мясной",
+        "callories": "254 кКал",
+        "proteins": "11,8 г",
+        "fats": "20,7 г",
+        "carbohydrates": "5,4 г"
+    },
+    {
+        "tittle": "Салат овощной с редькой и яблоками",
+        "callories": "157,3 кКал",
+        "proteins": "2 г",
+        "fats": "13,5 г",
+        "carbohydrates": "7,4 г"
+    },
+    {
+        "tittle": "Салат овощной с яблоками и сладким перцем",
+        "callories": "123,8 кКал",
+        "proteins": "1,4 г",
+        "fats": "10,8 г",
+        "carbohydrates": "5,7 г"
+    },
+    {
+        "tittle": "Салат освежающий с редькой",
+        "callories": "47,9 кКал",
+        "proteins": "1,7 г",
+        "fats": "0,3 г",
+        "carbohydrates": "10,3 г"
+    },
+    {
+        "tittle": "Салат осенний",
+        "callories": "82,1 кКал",
+        "proteins": "1,6 г",
+        "fats": "6,1 г",
+        "carbohydrates": "5,6 г"
+    },
+    {
+        "tittle": "Салат по-берлински",
+        "callories": "219,7 кКал",
+        "proteins": "1,9 г",
+        "fats": "21,6 г",
+        "carbohydrates": "4,8 г"
+    },
+    {
+        "tittle": "Салат по-деревенски",
+        "callories": "113,7 кКал",
+        "proteins": "2,6 г",
+        "fats": "7,2 г",
+        "carbohydrates": "10,1 г"
+    },
+    {
+        "tittle": "Салат по-коми-пермяцки (из квашеной капусты с мясом)",
+        "callories": "143 кКал",
+        "proteins": "10,5 г",
+        "fats": "10,1 г",
+        "carbohydrates": "2,8 г"
+    },
+    {
+        "tittle": "Салат по-французски",
+        "callories": "166,6 кКал",
+        "proteins": "2,1 г",
+        "fats": "14,3 г",
+        "carbohydrates": "7,9 г"
+    },
+    {
+        "tittle": "Салат по-чешски",
+        "callories": "196,6 кКал",
+        "proteins": "4,2 г",
+        "fats": "18,4 г",
+        "carbohydrates": "3,8 г"
+    },
+    {
+        "tittle": "Салат рыбный",
+        "callories": "153,3 кКал",
+        "proteins": "6,4 г",
+        "fats": "12,4 г",
+        "carbohydrates": "4,4 г"
+    },
+    {
+        "tittle": "Салат рыбный",
+        "callories": "204,2 кКал",
+        "proteins": "12,1 г",
+        "fats": "15,7 г",
+        "carbohydrates": "3,9 г"
+    },
+    {
+        "tittle": "Салат рыбный с морской капустой",
+        "callories": "119 кКал",
+        "proteins": "8,8 г",
+        "fats": "7,5 г",
+        "carbohydrates": "4,2 г"
+    },
+    {
+        "tittle": "Салат с кальмарами",
+        "callories": "0 кКал",
+        "proteins": "0 г",
+        "fats": "0 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "tittle": "Салат с колбасой",
+        "callories": "182,5 кКал",
+        "proteins": "4 г",
+        "fats": "14,8 г",
+        "carbohydrates": "8,9 г"
+    },
+    {
+        "tittle": "Салат с копченой треской",
+        "callories": "122,2 кКал",
+        "proteins": "6,9 г",
+        "fats": "8,8 г",
+        "carbohydrates": "4 г"
+    },
+    {
+        "tittle": "Салат с креветками",
+        "callories": "250,9 кКал",
+        "proteins": "7,7 г",
+        "fats": "23,3 г",
+        "carbohydrates": "2,7 г"
+    },
+    {
+        "tittle": "Салат с кукурузой",
+        "callories": "319,9 кКал",
+        "proteins": "7,4 г",
+        "fats": "22,5 г",
+        "carbohydrates": "23,4 г"
+    },
+    {
+        "tittle": "Салат с маслом и уксусом",
+        "callories": "167,2 кКал",
+        "proteins": "1,4 г",
+        "fats": "15,8 г",
+        "carbohydrates": "5,1 г"
+    },
+    {
+        "tittle": "Салат с сардинами",
+        "callories": "85,1 кКал",
+        "proteins": "6,1 г",
+        "fats": "2,6 г",
+        "carbohydrates": "10 г"
+    },
+    {
+        "tittle": "Салат с сельдереем и творогом",
+        "callories": "0 кКал",
+        "proteins": "0 г",
+        "fats": "0 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "tittle": "Салат сезонный",
+        "callories": "129,8 кКал",
+        "proteins": "2,1 г",
+        "fats": "10,1 г",
+        "carbohydrates": "8,2 г"
+    },
+    {
+        "tittle": "Салат со сметаной и яйцом",
+        "callories": "81,4 кКал",
+        "proteins": "1,8 г",
+        "fats": "7 г",
+        "carbohydrates": "3 г"
+    },
+    {
+        "tittle": "Салат столичный",
+        "callories": "325,2 кКал",
+        "proteins": "15,9 г",
+        "fats": "27,8 г",
+        "carbohydrates": "3 г"
+    },
+    {
+        "tittle": "Салат фруктовый со сметанным соусом",
+        "callories": "137,7 кКал",
+        "proteins": "1,1 г",
+        "fats": "7,9 г",
+        "carbohydrates": "16,6 г"
+    },
+    {
+        "tittle": "Салат яичный",
+        "callories": "214,2 кКал",
+        "proteins": "7,3 г",
+        "fats": "19,5 г",
+        "carbohydrates": "2,6 г"
+    },
+    {
+        "tittle": "Салат-коктейль \"Экзотик\"",
+        "callories": "0 кКал",
+        "proteins": "0 г",
+        "fats": "0 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "tittle": "Салат-коктейль овощной",
+        "callories": "147,4 кКал",
+        "proteins": "1,8 г",
+        "fats": "12,8 г",
+        "carbohydrates": "6,6 г"
+    },
+    {
+        "tittle": "Салат-коктейль рыбный",
+        "callories": "217,6 кКал",
+        "proteins": "13,9 г",
+        "fats": "17,3 г",
+        "carbohydrates": "1,7 г"
+    },
+    {
+        "tittle": "Салат-коктейль с ветчиной и сыром",
+        "callories": "273,6 кКал",
+        "proteins": "12,4 г",
+        "fats": "23,8 г",
+        "carbohydrates": "2,6 г"
+    },
+    {
+        "tittle": "Салат-коктейль с курицей и фруктами",
+        "callories": "245,1 кКал",
+        "proteins": "10,3 г",
+        "fats": "19,1 г",
+        "carbohydrates": "8,6 г"
+    },
+    {
+        "tittle": "Свекла в сладком маринаде",
+        "callories": "48,6 кКал",
+        "proteins": "0,4 г",
+        "fats": "0,04 г",
+        "carbohydrates": "12,4 г"
+    },
+    {
+        "tittle": "Свекла с клюквой",
+        "callories": "103,7 кКал",
+        "proteins": "1,5 г",
+        "fats": "6,2 г",
+        "carbohydrates": "11,2 г"
+    },
+    {
+        "tittle": "Селедка \"под шубой\"",
+        "callories": "209,5 кКал",
+        "proteins": "8 г",
+        "fats": "18,2 г",
+        "carbohydrates": "3,7 г"
+    },
+    {
+        "tittle": "Сельдь протертая с маслом",
+        "callories": "319 кКал",
+        "proteins": "16,1 г",
+        "fats": "26,4 г",
+        "carbohydrates": "4,4 г"
+    },
+    {
+        "tittle": "Сыр картофельный",
+        "callories": "154,6 кКал",
+        "proteins": "9,1 г",
+        "fats": "9,6 г",
+        "carbohydrates": "8,5 г"
+    },
+    {
+        "tittle": "Сыр слоеный",
+        "callories": "196,1 кКал",
+        "proteins": "16 г",
+        "fats": "14,2 г",
+        "carbohydrates": "1,1 г"
+    },
+    {
+        "tittle": "Сырный салат",
+        "callories": "153,4 кКал",
+        "proteins": "5,6 г",
+        "fats": "11,6 г",
+        "carbohydrates": "7,2 г"
+    },
+    {
+        "tittle": "Сырный салат",
+        "callories": "0 кКал",
+        "proteins": "0 г",
+        "fats": "0 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "tittle": "Фальшивый Оливье",
+        "callories": "167 кКал",
+        "proteins": "11,1 г",
+        "fats": "8,8 г",
+        "carbohydrates": "11,5 г"
+    },
+    {
+        "tittle": "Черемша с маслом (национальное блюдо народов Севера)",
+        "callories": "124,3 кКал",
+        "proteins": "3,4 г",
+        "fats": "8,7 г",
+        "carbohydrates": "8,6 г"
+    },
+    {
+        "tittle": "Яблочный салат с сельдереем и помидорами.",
+        "callories": "0 кКал",
+        "proteins": "0 г",
+        "fats": "0 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "tittle": "Яичный салат",
+        "callories": "181,7 кКал",
+        "proteins": "9,7 г",
+        "fats": "15,1 г",
+        "carbohydrates": "1,9 г"
+    }
+]

@@ -1,0 +1,205 @@
+[
+    {
+        "tittle": "Aquarius [Coca-Cola]",
+        "callories": "18 кКал",
+        "proteins": "0 г",
+        "fats": "0 г",
+        "carbohydrates": "4,4 г"
+    },
+    {
+        "tittle": "Aquarius Lemon [Coca-Cola]",
+        "callories": "14 кКал",
+        "proteins": "0 г",
+        "fats": "0 г",
+        "carbohydrates": "3,3 г"
+    },
+    {
+        "tittle": "Cacaolat [Coca-Cola]",
+        "callories": "40 кКал",
+        "proteins": "2,7 г",
+        "fats": "0,5 г",
+        "carbohydrates": "4,3 г"
+    },
+    {
+        "tittle": "Cherry (Банка) [Coca-Cola]",
+        "callories": "150 кКал",
+        "proteins": "0 г",
+        "fats": "0 г",
+        "carbohydrates": "42 г"
+    },
+    {
+        "tittle": "Cherry [Coca-Cola]",
+        "callories": "150 кКал",
+        "proteins": "0 г",
+        "fats": "0 г",
+        "carbohydrates": "42 г"
+    },
+    {
+        "tittle": "Cherry Zero [Coca-Cola]",
+        "callories": "0 кКал",
+        "proteins": "0 г",
+        "fats": "0 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "tittle": "Cherry без Сахара [Coca-Cola]",
+        "callories": "0 кКал",
+        "proteins": "0 г",
+        "fats": "0 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "tittle": "Coca-Cola",
+        "callories": "42 кКал",
+        "proteins": "0 г",
+        "fats": "0 г",
+        "carbohydrates": "10,6 г"
+    },
+    {
+        "tittle": "Coca-Cola Cherry без Сахара",
+        "callories": "0 кКал",
+        "proteins": "0 г",
+        "fats": "0 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "tittle": "Coca-Cola Cinnamon",
+        "callories": "0 кКал",
+        "proteins": "0 г",
+        "fats": "0 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "tittle": "Coca-Cola Energy",
+        "callories": "42 кКал",
+        "proteins": "0 г",
+        "fats": "0 г",
+        "carbohydrates": "10,3 г"
+    },
+    {
+        "tittle": "Coca-Cola Life",
+        "callories": "90 кКал",
+        "proteins": "0 г",
+        "fats": "0 г",
+        "carbohydrates": "24 г"
+    },
+    {
+        "tittle": "Coca-Cola Light",
+        "callories": "0 кКал",
+        "proteins": "0 г",
+        "fats": "0 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "tittle": "Coca-Cola Orange без Сахара",
+        "callories": "1 кКал",
+        "proteins": "0 г",
+        "fats": "0 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "tittle": "Coca-Cola Zero",
+        "callories": "0 кКал",
+        "proteins": "0 г",
+        "fats": "0 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "tittle": "Coca-Cola Лайм",
+        "callories": "43 кКал",
+        "proteins": "0 г",
+        "fats": "0 г",
+        "carbohydrates": "10,6 г"
+    },
+    {
+        "tittle": "Energy без Сахара [Coca-Cola]",
+        "callories": "1 кКал",
+        "proteins": "0 г",
+        "fats": "0 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "tittle": "Fanta Apple [Coca-Cola]",
+        "callories": "51 кКал",
+        "proteins": "0 г",
+        "fats": "0 г",
+        "carbohydrates": "13,5 г"
+    },
+    {
+        "tittle": "Sprite [Coca-Cola]",
+        "callories": "19 кКал",
+        "proteins": "0 г",
+        "fats": "0 г",
+        "carbohydrates": "4,5 г"
+    },
+    {
+        "tittle": "Sprite Вкус Огурец [Coca-Cola]",
+        "callories": "39 кКал",
+        "proteins": "0 г",
+        "fats": "0 г",
+        "carbohydrates": "9,7 г"
+    },
+    {
+        "tittle": "Sprite со Вкусом Арбуз-Огурец [Coca-Cola]",
+        "callories": "1 кКал",
+        "proteins": "0 г",
+        "fats": "0 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "tittle": "Vanilla [Coca-Cola]",
+        "callories": "150 кКал",
+        "proteins": "0 г",
+        "fats": "0 г",
+        "carbohydrates": "42 г"
+    },
+    {
+        "tittle": "Vanilla [Coca-Cola]",
+        "callories": "45 кКал",
+        "proteins": "0 г",
+        "fats": "0 г",
+        "carbohydrates": "11,2 г"
+    },
+    {
+        "tittle": "Вода [Coca-Cola]",
+        "callories": "0 кКал",
+        "proteins": "0 г",
+        "fats": "0 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "tittle": "Кока-Кола Ванилла [Coca-Cola]",
+        "callories": "45 кКал",
+        "proteins": "0 г",
+        "fats": "0 г",
+        "carbohydrates": "11,2 г"
+    },
+    {
+        "tittle": "Кока-Кола Зеро [Coca-Cola]",
+        "callories": "0 кКал",
+        "proteins": "0 г",
+        "fats": "0 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "tittle": "Кола [Coca-Cola]",
+        "callories": "42 кКал",
+        "proteins": "0 г",
+        "fats": "0 г",
+        "carbohydrates": "10,6 г"
+    },
+    {
+        "tittle": "Кола Лайт [Coca-Cola]",
+        "callories": "0 кКал",
+        "proteins": "0 г",
+        "fats": "0 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "tittle": "Напиток [Coca-Cola]",
+        "callories": "42 кКал",
+        "proteins": "0 г",
+        "fats": "0 г",
+        "carbohydrates": "10,6 г"
+    }
+]

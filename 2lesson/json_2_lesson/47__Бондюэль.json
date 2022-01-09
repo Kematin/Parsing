@@ -1,0 +1,1017 @@
+[
+    {
+        "tittle": "Ассорти из фасоли с ананасами в соусе Карри [Бондюэль]",
+        "callories": "62 кКал",
+        "proteins": "3,8 г",
+        "fats": "1,1 г",
+        "carbohydrates": "9,3 г"
+    },
+    {
+        "tittle": "Ассорти из цветной капусты, романеско и брокколи [Бондюэль]",
+        "callories": "66 кКал",
+        "proteins": "1,8 г",
+        "fats": "2,7 г",
+        "carbohydrates": "8,6 г"
+    },
+    {
+        "tittle": "Баклажаны Гриль [Бондюэль]",
+        "callories": "43 кКал",
+        "proteins": "2 г",
+        "fats": "0,3 г",
+        "carbohydrates": "5,6 г"
+    },
+    {
+        "tittle": "Баклажаны по-Тоскански [Бондюэль]",
+        "callories": "100 кКал",
+        "proteins": "1,2 г",
+        "fats": "7,2 г",
+        "carbohydrates": "5,8 г"
+    },
+    {
+        "tittle": "Белая Фасоль [Бондюэль]",
+        "callories": "66 кКал",
+        "proteins": "7 г",
+        "fats": "0,4 г",
+        "carbohydrates": "6 г"
+    },
+    {
+        "tittle": "Белая Фасоль в Пряном Карри [Бондюэль]",
+        "callories": "100 кКал",
+        "proteins": "4 г",
+        "fats": "7,5 г",
+        "carbohydrates": "3,1 г"
+    },
+    {
+        "tittle": "Белая Фасоль в Томатном Соусе \"Пикантная\" [Бондюэль]",
+        "callories": "124 кКал",
+        "proteins": "5,8 г",
+        "fats": "2,8 г",
+        "carbohydrates": "19 г"
+    },
+    {
+        "tittle": "Белая Фасоль в Томатном Соусе [Бондюэль]",
+        "callories": "78 кКал",
+        "proteins": "5,5 г",
+        "fats": "0,4 г",
+        "carbohydrates": "13,2 г"
+    },
+    {
+        "tittle": "Белая фасоль консервированная [Бондюэль]",
+        "callories": "99 кКал",
+        "proteins": "6,7 г",
+        "fats": "0,3 г",
+        "carbohydrates": "17,4 г"
+    },
+    {
+        "tittle": "Белая фасоль Пикантная в томатном соусе [Бондюэль]",
+        "callories": "125 кКал",
+        "proteins": "5,5 г",
+        "fats": "3 г",
+        "carbohydrates": "19 г"
+    },
+    {
+        "tittle": "Брокколи [Бондюэль]",
+        "callories": "30 кКал",
+        "proteins": "2,6 г",
+        "fats": "0,2 г",
+        "carbohydrates": "5 г"
+    },
+    {
+        "tittle": "Брокколи замороженная [Бондюэль]",
+        "callories": "23 кКал",
+        "proteins": "2,7 г",
+        "fats": "0,1 г",
+        "carbohydrates": "4,9 г"
+    },
+    {
+        "tittle": "Брюссельская капуста замороженная [Бондюэль]",
+        "callories": "31 кКал",
+        "proteins": "4 г",
+        "fats": "0,5 г",
+        "carbohydrates": "8 г"
+    },
+    {
+        "tittle": "Букетики из Зеленой Фасоли [Бондюэль]",
+        "callories": "18 кКал",
+        "proteins": "1,6 г",
+        "fats": "0,2 г",
+        "carbohydrates": "1,3 г"
+    },
+    {
+        "tittle": "Вок [Бондюэль]",
+        "callories": "30 кКал",
+        "proteins": "2,8 г",
+        "fats": "0,2 г",
+        "carbohydrates": "4,5 г"
+    },
+    {
+        "tittle": "Галеты Овощные [Бондюэль]",
+        "callories": "83 кКал",
+        "proteins": "4 г",
+        "fats": "4,2 г",
+        "carbohydrates": "6 г"
+    },
+    {
+        "tittle": "Горошек Зелёный Быстрозамороженный [Бондюэль]",
+        "callories": "70 кКал",
+        "proteins": "5 г",
+        "fats": "0,2 г",
+        "carbohydrates": "13 г"
+    },
+    {
+        "tittle": "Горошек Консервированный [Бондюэль]",
+        "callories": "52 кКал",
+        "proteins": "6,6 г",
+        "fats": "0 г",
+        "carbohydrates": "15,4 г"
+    },
+    {
+        "tittle": "Грибное ризотто в томатном соусе [Бондюэль]",
+        "callories": "82 кКал",
+        "proteins": "2,4 г",
+        "fats": "0,8 г",
+        "carbohydrates": "16,3 г"
+    },
+    {
+        "tittle": "Зелёная стручковая фасоль замороженная [Бондюэль]",
+        "callories": "28 кКал",
+        "proteins": "1,9 г",
+        "fats": "0,2 г",
+        "carbohydrates": "7,6 г"
+    },
+    {
+        "tittle": "Зеленая Фасоль Резаная [Бондюэль]",
+        "callories": "18 кКал",
+        "proteins": "1,6 г",
+        "fats": "0,1 г",
+        "carbohydrates": "1,2 г"
+    },
+    {
+        "tittle": "Зелёная фасоль резаная [Бондюэль]",
+        "callories": "25 кКал",
+        "proteins": "1,4 г",
+        "fats": "0,2 г",
+        "carbohydrates": "4,4 г"
+    },
+    {
+        "tittle": "Зелёная Фасоль Целая [Бондюэль]",
+        "callories": "33 кКал",
+        "proteins": "1,8 г",
+        "fats": "0,2 г",
+        "carbohydrates": "7,6 г"
+    },
+    {
+        "tittle": "Зеленый Горошек \"Нежный\" [Бондюэль]",
+        "callories": "52 кКал",
+        "proteins": "4,8 г",
+        "fats": "0,2 г",
+        "carbohydrates": "7,5 г"
+    },
+    {
+        "tittle": "Зелёный Горошек [Бондюэль]",
+        "callories": "52 кКал",
+        "proteins": "4,8 г",
+        "fats": "0,2 г",
+        "carbohydrates": "7,5 г"
+    },
+    {
+        "tittle": "Зелёный Горошек в Овощном Салате \"Маседуан\" [Бондюэль]",
+        "callories": "43 кКал",
+        "proteins": "2,2 г",
+        "fats": "0,7 г",
+        "carbohydrates": "4,9 г"
+    },
+    {
+        "tittle": "Зелёный горошек замороженный [Бондюэль]",
+        "callories": "85 кКал",
+        "proteins": "6,9 г",
+        "fats": "0,4 г",
+        "carbohydrates": "19,4 г"
+    },
+    {
+        "tittle": "Зелёный Горошек Консервированный [Бондюэль]",
+        "callories": "74 кКал",
+        "proteins": "5,5 г",
+        "fats": "0,7 г",
+        "carbohydrates": "7,4 г"
+    },
+    {
+        "tittle": "Зелёный горошек Нежный [Бондюэль]",
+        "callories": "66 кКал",
+        "proteins": "5 г",
+        "fats": "0,3 г",
+        "carbohydrates": "10,7 г"
+    },
+    {
+        "tittle": "Зелёный Горошек Нежный 0,2% [Бондюэль]",
+        "callories": "52 кКал",
+        "proteins": "4,8 г",
+        "fats": "0,2 г",
+        "carbohydrates": "7,5 г"
+    },
+    {
+        "tittle": "Зелёный Горошек Нежный 0,7% [Бондюэль]",
+        "callories": "52 кКал",
+        "proteins": "4,8 г",
+        "fats": "0,2 г",
+        "carbohydrates": "7,5 г"
+    },
+    {
+        "tittle": "Зелёный Горошек Нежный 0% [Бондюэль]",
+        "callories": "89 кКал",
+        "proteins": "6,6 г",
+        "fats": "0 г",
+        "carbohydrates": "15,4 г"
+    },
+    {
+        "tittle": "Зелёный Горошек с Молодой Морковью [Бондюэль]",
+        "callories": "48 кКал",
+        "proteins": "2,7 г",
+        "fats": "0,4 г",
+        "carbohydrates": "6,5 г"
+    },
+    {
+        "tittle": "Зелёный Горошек с Морковью [Бондюэль]",
+        "callories": "49 кКал",
+        "proteins": "3,2 г",
+        "fats": "0,5 г",
+        "carbohydrates": "5,4 г"
+    },
+    {
+        "tittle": "Зелёный Горошек с Морковью в Кубиках [Бондюэль]",
+        "callories": "49 кКал",
+        "proteins": "2,5 г",
+        "fats": "0,7 г",
+        "carbohydrates": "5,8 г"
+    },
+    {
+        "tittle": "Икра Баклажанная [Бондюэль]",
+        "callories": "102 кКал",
+        "proteins": "1,7 г",
+        "fats": "7 г",
+        "carbohydrates": "8,1 г"
+    },
+    {
+        "tittle": "Икра из Баклажанов Запеченных на Гриле [Бондюэль]",
+        "callories": "102 кКал",
+        "proteins": "1,7 г",
+        "fats": "7 г",
+        "carbohydrates": "8,1 г"
+    },
+    {
+        "tittle": "Икра из Кабачков [Бондюэль]",
+        "callories": "97 кКал",
+        "proteins": "1 г",
+        "fats": "7 г",
+        "carbohydrates": "7 г"
+    },
+    {
+        "tittle": "Италия Микс [Бондюэль]",
+        "callories": "76 кКал",
+        "proteins": "2 г",
+        "fats": "3,5 г",
+        "carbohydrates": "6,8 г"
+    },
+    {
+        "tittle": "Кабачки по-Тоскански [Бондюэль]",
+        "callories": "72 кКал",
+        "proteins": "1,5 г",
+        "fats": "3,4 г",
+        "carbohydrates": "8 г"
+    },
+    {
+        "tittle": "Капуста Брокколи [Бондюэль]",
+        "callories": "30 кКал",
+        "proteins": "2,3 г",
+        "fats": "0,3 г",
+        "carbohydrates": "3,2 г"
+    },
+    {
+        "tittle": "Капуста Романеско [Бондюэль]",
+        "callories": "25 кКал",
+        "proteins": "2,9 г",
+        "fats": "0,5 г",
+        "carbohydrates": "2,2 г"
+    },
+    {
+        "tittle": "Коричневая фасоль со сладким перцем в соусе Кайен [Бондюэль]",
+        "callories": "44 кКал",
+        "proteins": "2,6 г",
+        "fats": "0,4 г",
+        "carbohydrates": "7,6 г"
+    },
+    {
+        "tittle": "Корнишоны Маринованные [Бондюэль]",
+        "callories": "20 кКал",
+        "proteins": "1 г",
+        "fats": "0,2 г",
+        "carbohydrates": "3,5 г"
+    },
+    {
+        "tittle": "Корнишоны маринованные 3-6 см [Бондюэль]",
+        "callories": "20 кКал",
+        "proteins": "1 г",
+        "fats": "0,2 г",
+        "carbohydrates": "3,5 г"
+    },
+    {
+        "tittle": "Красная Фасоль [Бондюэль]",
+        "callories": "87 кКал",
+        "proteins": "5,3 г",
+        "fats": "0,2 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "tittle": "Красная фасоль в соусе Чили [Бондюэль]",
+        "callories": "125 кКал",
+        "proteins": "5,5 г",
+        "fats": "3 г",
+        "carbohydrates": "19 г"
+    },
+    {
+        "tittle": "Красная Фасоль в Томатном Соусе Чили [Бондюэль]",
+        "callories": "124 кКал",
+        "proteins": "5,8 г",
+        "fats": "2,8 г",
+        "carbohydrates": "19 г"
+    },
+    {
+        "tittle": "Красная Фасоль Консервированная [Бондюэль]",
+        "callories": "87 кКал",
+        "proteins": "5,3 г",
+        "fats": "0,2 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "tittle": "Красная Фасоль с Кукурузой в Мексиканском Соусе [Бондюэль]",
+        "callories": "107 кКал",
+        "proteins": "4 г",
+        "fats": "2,8 г",
+        "carbohydrates": "14,7 г"
+    },
+    {
+        "tittle": "Кукуруза [Бондюэль]",
+        "callories": "58 кКал",
+        "proteins": "2,9 г",
+        "fats": "0,6 г",
+        "carbohydrates": "9,9 г"
+    },
+    {
+        "tittle": "Кукуруза золотистая [Бондюэль]",
+        "callories": "96 кКал",
+        "proteins": "3,2 г",
+        "fats": "1 г",
+        "carbohydrates": "18,6 г"
+    },
+    {
+        "tittle": "Кукуруза Консервированная [Бондюэль]",
+        "callories": "112 кКал",
+        "proteins": "3 г",
+        "fats": "1,3 г",
+        "carbohydrates": "20,5 г"
+    },
+    {
+        "tittle": "Кукуруза на Пару [Бондюэль]",
+        "callories": "80 кКал",
+        "proteins": "2,9 г",
+        "fats": "1,9 г",
+        "carbohydrates": "10,8 г"
+    },
+    {
+        "tittle": "Кукуруза Натурально Сладкая [Бондюэль]",
+        "callories": "80 кКал",
+        "proteins": "2,9 г",
+        "fats": "1,9 г",
+        "carbohydrates": "10,8 г"
+    },
+    {
+        "tittle": "Кукуруза Сладкая [Бондюэль]",
+        "callories": "58 кКал",
+        "proteins": "2,9 г",
+        "fats": "0,6 г",
+        "carbohydrates": "9,9 г"
+    },
+    {
+        "tittle": "Кукуруза сладкая в зёрнах [Бондюэль]",
+        "callories": "93 кКал",
+        "proteins": "3,3 г",
+        "fats": "2,3 г",
+        "carbohydrates": "14,7 г"
+    },
+    {
+        "tittle": "Кукуруза сладкая в зернах в вакуумной упаковке [Бондюэль]",
+        "callories": "115 кКал",
+        "proteins": "3,9 г",
+        "fats": "1,3 г",
+        "carbohydrates": "22 г"
+    },
+    {
+        "tittle": "Кукуруза сладкая в початках [Бондюэль]",
+        "callories": "101 кКал",
+        "proteins": "3,5 г",
+        "fats": "2,8 г",
+        "carbohydrates": "15,6 г"
+    },
+    {
+        "tittle": "Лечо [Бондюэль]",
+        "callories": "65 кКал",
+        "proteins": "0 г",
+        "fats": "0 г",
+        "carbohydrates": "16,6 г"
+    },
+    {
+        "tittle": "Лечо в томатном соусе замороженное [Бондюэль]",
+        "callories": "35 кКал",
+        "proteins": "1,3 г",
+        "fats": "0,9 г",
+        "carbohydrates": "5,4 г"
+    },
+    {
+        "tittle": "Маслины без Косточки [Бондюэль]",
+        "callories": "115 кКал",
+        "proteins": "0,8 г",
+        "fats": "10,7 г",
+        "carbohydrates": "6,3 г"
+    },
+    {
+        "tittle": "Маслины с косточкой / без косточки [Бондюэль]",
+        "callories": "115 кКал",
+        "proteins": "0,8 г",
+        "fats": "10,7 г",
+        "carbohydrates": "6,3 г"
+    },
+    {
+        "tittle": "Мексика Микс [Бондюэль]",
+        "callories": "49 кКал",
+        "proteins": "3,1 г",
+        "fats": "0,9 г",
+        "carbohydrates": "8,9 г"
+    },
+    {
+        "tittle": "Мексиканская Смесь [Бондюэль]",
+        "callories": "49 кКал",
+        "proteins": "3,1 г",
+        "fats": "0,9 г",
+        "carbohydrates": "8,9 г"
+    },
+    {
+        "tittle": "Мексиканская Смесь для Жарки [Бондюэль]",
+        "callories": "75 кКал",
+        "proteins": "3,5 г",
+        "fats": "0,5 г",
+        "carbohydrates": "14 г"
+    },
+    {
+        "tittle": "Молодая Кукуруза [Бондюэль]",
+        "callories": "70 кКал",
+        "proteins": "2,6 г",
+        "fats": "1 г",
+        "carbohydrates": "12,6 г"
+    },
+    {
+        "tittle": "Молодая Морковь [Бондюэль]",
+        "callories": "23 кКал",
+        "proteins": "0,6 г",
+        "fats": "0,3 г",
+        "carbohydrates": "3,4 г"
+    },
+    {
+        "tittle": "Молодая морковь Экстра [Бондюэль]",
+        "callories": "25 кКал",
+        "proteins": "0,5 г",
+        "fats": "0,7 г",
+        "carbohydrates": "4,2 г"
+    },
+    {
+        "tittle": "Молодой Горошек [Бондюэль]",
+        "callories": "72 кКал",
+        "proteins": "5,2 г",
+        "fats": "0,9 г",
+        "carbohydrates": "6,8 г"
+    },
+    {
+        "tittle": "Морковь молодая целая [Бондюэль]",
+        "callories": "27 кКал",
+        "proteins": "0,8 г",
+        "fats": "0,5 г",
+        "carbohydrates": "5 г"
+    },
+    {
+        "tittle": "Морковь Тертая на Пару [Бондюэль]",
+        "callories": "38 кКал",
+        "proteins": "0,6 г",
+        "fats": "0,4 г",
+        "carbohydrates": "6,5 г"
+    },
+    {
+        "tittle": "Нут на Пару [Бондюэль]",
+        "callories": "130 кКал",
+        "proteins": "3,5 г",
+        "fats": "3,2 г",
+        "carbohydrates": "21 г"
+    },
+    {
+        "tittle": "Овощи Гриль [Бондюэль]",
+        "callories": "61 кКал",
+        "proteins": "2,2 г",
+        "fats": "2,7 г",
+        "carbohydrates": "5,6 г"
+    },
+    {
+        "tittle": "Овощи для супа из шампиньонов [Бондюэль]",
+        "callories": "22 кКал",
+        "proteins": "0,3 г",
+        "fats": "0,3 г",
+        "carbohydrates": "6 г"
+    },
+    {
+        "tittle": "Овощная смесь Весенняя [Бондюэль]",
+        "callories": "35 кКал",
+        "proteins": "2,6 г",
+        "fats": "0,5 г",
+        "carbohydrates": "4,5 г"
+    },
+    {
+        "tittle": "Овощная смесь для жарки Гавайская [Бондюэль]",
+        "callories": "91 кКал",
+        "proteins": "3 г",
+        "fats": "0,5 г",
+        "carbohydrates": "22,7 г"
+    },
+    {
+        "tittle": "Овощная смесь для жарки Индонезийская [Бондюэль]",
+        "callories": "38 кКал",
+        "proteins": "1,8 г",
+        "fats": "0 г",
+        "carbohydrates": "7,8 г"
+    },
+    {
+        "tittle": "Овощная смесь для жарки Китайская [Бондюэль]",
+        "callories": "61 кКал",
+        "proteins": "2,5 г",
+        "fats": "0,4 г",
+        "carbohydrates": "11,7 г"
+    },
+    {
+        "tittle": "Овощная смесь для жарки По-деревенски [Бондюэль]",
+        "callories": "65 кКал",
+        "proteins": "1,7 г",
+        "fats": "4,6 г",
+        "carbohydrates": "4,4 г"
+    },
+    {
+        "tittle": "Овощная смесь для жарки Полевая [Бондюэль]",
+        "callories": "25 кКал",
+        "proteins": "2 г",
+        "fats": "0,4 г",
+        "carbohydrates": "3,3 г"
+    },
+    {
+        "tittle": "Овощная смесь для жарки с рисом и шампиньонами [Бондюэль]",
+        "callories": "58 кКал",
+        "proteins": "2,5 г",
+        "fats": "0,3 г",
+        "carbohydrates": "14,7 г"
+    },
+    {
+        "tittle": "Овощная смесь Китайская [Бондюэль]",
+        "callories": "19 кКал",
+        "proteins": "1,3 г",
+        "fats": "0,2 г",
+        "carbohydrates": "3,2 г"
+    },
+    {
+        "tittle": "Овощная смесь Летняя в сливочном соусе [Бондюэль]",
+        "callories": "70 кКал",
+        "proteins": "2 г",
+        "fats": "2,8 г",
+        "carbohydrates": "9,3 г"
+    },
+    {
+        "tittle": "Овощная смесь Маседуан [Бондюэль]",
+        "callories": "43 кКал",
+        "proteins": "2,2 г",
+        "fats": "0,3 г",
+        "carbohydrates": "7,9 г"
+    },
+    {
+        "tittle": "Овощная смесь Мексиканская [Бондюэль]",
+        "callories": "72 кКал",
+        "proteins": "3,6 г",
+        "fats": "0,7 г",
+        "carbohydrates": "12,7 г"
+    },
+    {
+        "tittle": "Овощная смесь Минестрон [Бондюэль]",
+        "callories": "51 кКал",
+        "proteins": "1,9 г",
+        "fats": "0,7 г",
+        "carbohydrates": "11,8 г"
+    },
+    {
+        "tittle": "Овощная смесь Царская [Бондюэль]",
+        "callories": "20 кКал",
+        "proteins": "1,4 г",
+        "fats": "0,3 г",
+        "carbohydrates": "5,1 г"
+    },
+    {
+        "tittle": "Овощное Трио Гриль [Бондюэль]",
+        "callories": "41 кКал",
+        "proteins": "1,8 г",
+        "fats": "0,4 г",
+        "carbohydrates": "6,2 г"
+    },
+    {
+        "tittle": "Овощные Галеты \"Зелёный Букет\" [Бондюэль]",
+        "callories": "83 кКал",
+        "proteins": "4 г",
+        "fats": "4,2 г",
+        "carbohydrates": "6 г"
+    },
+    {
+        "tittle": "Овощные Галеты \"Королевские\" [Бондюэль]",
+        "callories": "91 кКал",
+        "proteins": "4,9 г",
+        "fats": "4,8 г",
+        "carbohydrates": "5,4 г"
+    },
+    {
+        "tittle": "Овощные Галеты Кантри [Бондюэль]",
+        "callories": "97 кКал",
+        "proteins": "2,9 г",
+        "fats": "5,1 г",
+        "carbohydrates": "7,6 г"
+    },
+    {
+        "tittle": "Овощные Галеты Ореховая Тыква с Мускатом [Бондюэль]",
+        "callories": "95 кКал",
+        "proteins": "3,4 г",
+        "fats": "5,1 г",
+        "carbohydrates": "7,3 г"
+    },
+    {
+        "tittle": "Овощные Галеты Ореховая Тыква с Мускатом [Бондюэль]",
+        "callories": "71 кКал",
+        "proteins": "2,6 г",
+        "fats": "3,8 г",
+        "carbohydrates": "5,5 г"
+    },
+    {
+        "tittle": "Овощные Галеты Сицилийские [Бондюэль]",
+        "callories": "106 кКал",
+        "proteins": "5 г",
+        "fats": "4,4 г",
+        "carbohydrates": "9,9 г"
+    },
+    {
+        "tittle": "Огурцы маринованные 6-9 см [Бондюэль]",
+        "callories": "20 кКал",
+        "proteins": "1 г",
+        "fats": "0,2 г",
+        "carbohydrates": "3,5 г"
+    },
+    {
+        "tittle": "Огурчики по-Дижонски [Бондюэль]",
+        "callories": "71 кКал",
+        "proteins": "0,5 г",
+        "fats": "0,2 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "tittle": "Оливки без Косточки [Бондюэль]",
+        "callories": "163 кКал",
+        "proteins": "1 г",
+        "fats": "17 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "tittle": "Оливки Мансанилья с Анчоусом [Бондюэль]",
+        "callories": "167 кКал",
+        "proteins": "2,2 г",
+        "fats": "10,5 г",
+        "carbohydrates": "5,1 г"
+    },
+    {
+        "tittle": "Оливки Мансанилья с Голубым Сыром [Бондюэль]",
+        "callories": "162 кКал",
+        "proteins": "1 г",
+        "fats": "17 г",
+        "carbohydrates": "0,1 г"
+    },
+    {
+        "tittle": "Оливки с Голубым Сыром [Бондюэль]",
+        "callories": "167 кКал",
+        "proteins": "2,2 г",
+        "fats": "10,5 г",
+        "carbohydrates": "5,1 г"
+    },
+    {
+        "tittle": "Оливки с Косточкой [Бондюэль]",
+        "callories": "160 кКал",
+        "proteins": "1,4 г",
+        "fats": "18,2 г",
+        "carbohydrates": "5,1 г"
+    },
+    {
+        "tittle": "Оливки с косточкой / без косточки [Бондюэль]",
+        "callories": "160 кКал",
+        "proteins": "1,4 г",
+        "fats": "18,2 г",
+        "carbohydrates": "5,1 г"
+    },
+    {
+        "tittle": "Оливки с Лимоном [Бондюэль]",
+        "callories": "162 кКал",
+        "proteins": "1,1 г",
+        "fats": "16 г",
+        "carbohydrates": "1,6 г"
+    },
+    {
+        "tittle": "Оливье на Пару [Бондюэль]",
+        "callories": "53 кКал",
+        "proteins": "2,6 г",
+        "fats": "0,5 г",
+        "carbohydrates": "7,7 г"
+    },
+    {
+        "tittle": "Парижская Смесь [Бондюэль]",
+        "callories": "95 кКал",
+        "proteins": "3 г",
+        "fats": "4,5 г",
+        "carbohydrates": "8,5 г"
+    },
+    {
+        "tittle": "Перцы Гриль [Бондюэль]",
+        "callories": "44 кКал",
+        "proteins": "1,7 г",
+        "fats": "0,3 г",
+        "carbohydrates": "7,2 г"
+    },
+    {
+        "tittle": "Печеная Фасоль с Южными Томатами [Бондюэль]",
+        "callories": "90 кКал",
+        "proteins": "3,5 г",
+        "fats": "1,5 г",
+        "carbohydrates": "14 г"
+    },
+    {
+        "tittle": "Печёная Фасоль со Сладким Перцем [Бондюэль]",
+        "callories": "70 кКал",
+        "proteins": "5,5 г",
+        "fats": "2,4 г",
+        "carbohydrates": "6,6 г"
+    },
+    {
+        "tittle": "Прованская Смесь с Горошком [Бондюэль]",
+        "callories": "72 кКал",
+        "proteins": "2,8 г",
+        "fats": "2,2 г",
+        "carbohydrates": "8,5 г"
+    },
+    {
+        "tittle": "Рататуй по-Провански [Бондюэль]",
+        "callories": "90 кКал",
+        "proteins": "1,3 г",
+        "fats": "6 г",
+        "carbohydrates": "6 г"
+    },
+    {
+        "tittle": "Ростки фасоли Мунго [Бондюэль]",
+        "callories": "14 кКал",
+        "proteins": "1,5 г",
+        "fats": "0,1 г",
+        "carbohydrates": "1,8 г"
+    },
+    {
+        "tittle": "Сабджи [Бондюэль]",
+        "callories": "102 кКал",
+        "proteins": "10,3 г",
+        "fats": "4,1 г",
+        "carbohydrates": "5,5 г"
+    },
+    {
+        "tittle": "Салат-коктейль Гавайский маринованный [Бондюэль]",
+        "callories": "91 кКал",
+        "proteins": "1,7 г",
+        "fats": "0,5 г",
+        "carbohydrates": "20 г"
+    },
+    {
+        "tittle": "Салат-коктейль Сомбреро [Бондюэль]",
+        "callories": "62 кКал",
+        "proteins": "1,7 г",
+        "fats": "0,8 г",
+        "carbohydrates": "11,9 г"
+    },
+    {
+        "tittle": "Свекла в Кубиках \"на Пару\" [Бондюэль]",
+        "callories": "41 кКал",
+        "proteins": "0,9 г",
+        "fats": "0 г",
+        "carbohydrates": "8,1 г"
+    },
+    {
+        "tittle": "Свекла в кубиках в кисло-сладком маринаде [Бондюэль]",
+        "callories": "30 кКал",
+        "proteins": "0,8 г",
+        "fats": "0,1 г",
+        "carbohydrates": "6,5 г"
+    },
+    {
+        "tittle": "Сладкая Кукуруза в Овощном Салате Мексиканский [Бондюэль]",
+        "callories": "81 кКал",
+        "proteins": "3,4 г",
+        "fats": "1,5 г",
+        "carbohydrates": "11,4 г"
+    },
+    {
+        "tittle": "Смесь для Жарки Средиземноморская [Бондюэль]",
+        "callories": "83 кКал",
+        "proteins": "1,8 г",
+        "fats": "3,7 г",
+        "carbohydrates": "9,1 г"
+    },
+    {
+        "tittle": "Спаржа зелёная целая [Бондюэль]",
+        "callories": "24 кКал",
+        "proteins": "0,6 г",
+        "fats": "1,3 г",
+        "carbohydrates": "2,6 г"
+    },
+    {
+        "tittle": "Трио-aссорти из сладкого перца [Бондюэль]",
+        "callories": "25 кКал",
+        "proteins": "1,1 г",
+        "fats": "0,2 г",
+        "carbohydrates": "4,8 г"
+    },
+    {
+        "tittle": "Турецкий горох Нут [Бондюэль]",
+        "callories": "127 кКал",
+        "proteins": "6,3 г",
+        "fats": "3,2 г",
+        "carbohydrates": "18,3 г"
+    },
+    {
+        "tittle": "Фасоль Белая Классическая [Бондюэль]",
+        "callories": "87 кКал",
+        "proteins": "5,3 г",
+        "fats": "0,2 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "tittle": "Фасоль Белая Классическая [Бондюэль]",
+        "callories": "87 кКал",
+        "proteins": "5,3 г",
+        "fats": "0,2 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "tittle": "Фасоль Белая на Пару [Бондюэль]",
+        "callories": "91 кКал",
+        "proteins": "6,6 г",
+        "fats": "1 г",
+        "carbohydrates": "10,4 г"
+    },
+    {
+        "tittle": "Фасоль Зелёная Тонкая на Пару [Бондюэль]",
+        "callories": "31 кКал",
+        "proteins": "1,7 г",
+        "fats": "0,3 г",
+        "carbohydrates": "3,7 г"
+    },
+    {
+        "tittle": "Фасоль Красная Классическая [Бондюэль]",
+        "callories": "87 кКал",
+        "proteins": "5,3 г",
+        "fats": "0,2 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "tittle": "Фасоль Красная на Пару [Бондюэль]",
+        "callories": "111 кКал",
+        "proteins": "8,3 г",
+        "fats": "0 г",
+        "carbohydrates": "15,2 г"
+    },
+    {
+        "tittle": "Фасоль Стручковая Зеленая Нарезанная [Бондюэль]",
+        "callories": "30 кКал",
+        "proteins": "4 г",
+        "fats": "0,3 г",
+        "carbohydrates": "4 г"
+    },
+    {
+        "tittle": "Фасулье [Бондюэль]",
+        "callories": "44 кКал",
+        "proteins": "2,2 г",
+        "fats": "0,4 г",
+        "carbohydrates": "7 г"
+    },
+    {
+        "tittle": "Царская Овощная Смесь [Бондюэль]",
+        "callories": "33 кКал",
+        "proteins": "2,2 г",
+        "fats": "0,2 г",
+        "carbohydrates": "5,7 г"
+    },
+    {
+        "tittle": "Цветная Капуста [Бондюэль]",
+        "callories": "23 кКал",
+        "proteins": "2,2 г",
+        "fats": "0,1 г",
+        "carbohydrates": "5 г"
+    },
+    {
+        "tittle": "Цветная капуста замороженная [Бондюэль]",
+        "callories": "14 кКал",
+        "proteins": "1,6 г",
+        "fats": "0,2 г",
+        "carbohydrates": "3,9 г"
+    },
+    {
+        "tittle": "Чечевица консервированная [Бондюэль]",
+        "callories": "110 кКал",
+        "proteins": "8,6 г",
+        "fats": "0,6 г",
+        "carbohydrates": "17,5 г"
+    },
+    {
+        "tittle": "Чечевица на Пару [Бондюэль]",
+        "callories": "107 кКал",
+        "proteins": "8,5 г",
+        "fats": "0,7 г",
+        "carbohydrates": "14,2 г"
+    },
+    {
+        "tittle": "Шампиньоны [Бондюэль]",
+        "callories": "49 кКал",
+        "proteins": "2,6 г",
+        "fats": "0,5 г",
+        "carbohydrates": "6,8 г"
+    },
+    {
+        "tittle": "Шампиньоны Маринованные [Бондюэль]",
+        "callories": "47 кКал",
+        "proteins": "2,3 г",
+        "fats": "0,5 г",
+        "carbohydrates": "7,2 г"
+    },
+    {
+        "tittle": "Шампиньоны по-Нормандски [Бондюэль]",
+        "callories": "69 кКал",
+        "proteins": "2 г",
+        "fats": "4,9 г",
+        "carbohydrates": "2,5 г"
+    },
+    {
+        "tittle": "Шампиньоны Резаные [Бондюэль]",
+        "callories": "19 кКал",
+        "proteins": "2,2 г",
+        "fats": "0,4 г",
+        "carbohydrates": "0,6 г"
+    },
+    {
+        "tittle": "Шампиньоны резаные замороженные [Бондюэль]",
+        "callories": "22 кКал",
+        "proteins": "2,4 г",
+        "fats": "0 г",
+        "carbohydrates": "3,7 г"
+    },
+    {
+        "tittle": "Шампиньоны Целые [Бондюэль]",
+        "callories": "16 кКал",
+        "proteins": "2,3 г",
+        "fats": "0,5 г",
+        "carbohydrates": "0,5 г"
+    },
+    {
+        "tittle": "Шпинат в листьях [Бондюэль]",
+        "callories": "30 кКал",
+        "proteins": "3,6 г",
+        "fats": "0,5 г",
+        "carbohydrates": "2,7 г"
+    },
+    {
+        "tittle": "Шпинат в листьях консервированный [Бондюэль]",
+        "callories": "22 кКал",
+        "proteins": "2,8 г",
+        "fats": "0,4 г",
+        "carbohydrates": "1,8 г"
+    },
+    {
+        "tittle": "Шпинат в листьях порционный [Бондюэль]",
+        "callories": "27 кКал",
+        "proteins": "3,7 г",
+        "fats": "0,5 г",
+        "carbohydrates": "2 г"
+    },
+    {
+        "tittle": "Шпинат рубленый в галетах [Бондюэль]",
+        "callories": "27 кКал",
+        "proteins": "2,8 г",
+        "fats": "0,7 г",
+        "carbohydrates": "2,5 г"
+    }
+]

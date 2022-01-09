@@ -1,0 +1,1087 @@
+[
+    {
+        "tittle": "Абрикос, семя костянки",
+        "callories": "520 кКал",
+        "proteins": "25 г",
+        "fats": "45,4 г",
+        "carbohydrates": "2,8 г"
+    },
+    {
+        "tittle": "Арбуз, ядра семян, сушеные",
+        "callories": "557 кКал",
+        "proteins": "28,33 г",
+        "fats": "47,37 г",
+        "carbohydrates": "15,31 г"
+    },
+    {
+        "tittle": "Бразильский орех",
+        "callories": "659 кКал",
+        "proteins": "14,32 г",
+        "fats": "67,1 г",
+        "carbohydrates": "4,24 г"
+    },
+    {
+        "tittle": "Буковый орешек, сушеный",
+        "callories": "576 кКал",
+        "proteins": "6,2 г",
+        "fats": "50 г",
+        "carbohydrates": "33,5 г"
+    },
+    {
+        "tittle": "Вишня, семя костянки",
+        "callories": "362 кКал",
+        "proteins": "21,9 г",
+        "fats": "30,5 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "tittle": "Горчица, семя",
+        "callories": "474 кКал",
+        "proteins": "25,8 г",
+        "fats": "30,8 г",
+        "carbohydrates": "23,4 г"
+    },
+    {
+        "tittle": "Горчичный порошок",
+        "callories": "378 кКал",
+        "proteins": "37,1 г",
+        "fats": "11,1 г",
+        "carbohydrates": "32,6 г"
+    },
+    {
+        "tittle": "Грецкий орех",
+        "callories": "654 кКал",
+        "proteins": "15,23 г",
+        "fats": "65,21 г",
+        "carbohydrates": "7,01 г"
+    },
+    {
+        "tittle": "Грецкий орех",
+        "callories": "656 кКал",
+        "proteins": "16,2 г",
+        "fats": "60,8 г",
+        "carbohydrates": "11,1 г"
+    },
+    {
+        "tittle": "Грецкий орех черный, сушеный",
+        "callories": "619 кКал",
+        "proteins": "24,06 г",
+        "fats": "59,33 г",
+        "carbohydrates": "2,78 г"
+    },
+    {
+        "tittle": "Грецкий орех, глазированный",
+        "callories": "500 кКал",
+        "proteins": "8,28 г",
+        "fats": "35,71 г",
+        "carbohydrates": "43,99 г"
+    },
+    {
+        "tittle": "Грецкий орех, сухая обжарка, с солью",
+        "callories": "643 кКал",
+        "proteins": "14,29 г",
+        "fats": "60,71 г",
+        "carbohydrates": "10,76 г"
+    },
+    {
+        "tittle": "Желудевая мука",
+        "callories": "501 кКал",
+        "proteins": "7,49 г",
+        "fats": "30,17 г",
+        "carbohydrates": "54,65 г"
+    },
+    {
+        "tittle": "Желуди сушеные",
+        "callories": "509 кКал",
+        "proteins": "8,1 г",
+        "fats": "31,41 г",
+        "carbohydrates": "53,66 г"
+    },
+    {
+        "tittle": "Желуди сырые",
+        "callories": "387 кКал",
+        "proteins": "6,15 г",
+        "fats": "23,86 г",
+        "carbohydrates": "40,75 г"
+    },
+    {
+        "tittle": "Какао тертое",
+        "callories": "559 кКал",
+        "proteins": "13,5 г",
+        "fats": "49,4 г",
+        "carbohydrates": "13,6 г"
+    },
+    {
+        "tittle": "Какао-бобы",
+        "callories": "530 кКал",
+        "proteins": "12,8 г",
+        "fats": "53,2 г",
+        "carbohydrates": "9,4 г"
+    },
+    {
+        "tittle": "Каштан европейский вареный и тушеный",
+        "callories": "131 кКал",
+        "proteins": "2 г",
+        "fats": "1,38 г",
+        "carbohydrates": "27,76 г"
+    },
+    {
+        "tittle": "Каштан европейский не чищеный, сушеный",
+        "callories": "374 кКал",
+        "proteins": "6,39 г",
+        "fats": "4,45 г",
+        "carbohydrates": "65,61 г"
+    },
+    {
+        "tittle": "Каштан европейский не чищеный, сырой",
+        "callories": "213 кКал",
+        "proteins": "2,42 г",
+        "fats": "2,26 г",
+        "carbohydrates": "37,44 г"
+    },
+    {
+        "tittle": "Каштан европейский чищеный, сушеный",
+        "callories": "369 кКал",
+        "proteins": "5,01 г",
+        "fats": "3,91 г",
+        "carbohydrates": "78,43 г"
+    },
+    {
+        "tittle": "Каштан европейский чищеный, сырой",
+        "callories": "196 кКал",
+        "proteins": "1,63 г",
+        "fats": "1,25 г",
+        "carbohydrates": "44,17 г"
+    },
+    {
+        "tittle": "Каштан европейский, запечённый",
+        "callories": "245 кКал",
+        "proteins": "3,17 г",
+        "fats": "2,2 г",
+        "carbohydrates": "47,86 г"
+    },
+    {
+        "tittle": "Каштан китайский, вареный и тушеный",
+        "callories": "153 кКал",
+        "proteins": "2,88 г",
+        "fats": "0,76 г",
+        "carbohydrates": "33,64 г"
+    },
+    {
+        "tittle": "Каштан китайский, запечённый",
+        "callories": "239 кКал",
+        "proteins": "4,48 г",
+        "fats": "1,19 г",
+        "carbohydrates": "52,36 г"
+    },
+    {
+        "tittle": "Каштан китайский, сушеный",
+        "callories": "363 кКал",
+        "proteins": "6,82 г",
+        "fats": "1,81 г",
+        "carbohydrates": "79,76 г"
+    },
+    {
+        "tittle": "Каштан китайский, сырой",
+        "callories": "224 кКал",
+        "proteins": "4,2 г",
+        "fats": "1,11 г",
+        "carbohydrates": "49,07 г"
+    },
+    {
+        "tittle": "Каштан японский",
+        "callories": "154 кКал",
+        "proteins": "2,25 г",
+        "fats": "0,53 г",
+        "carbohydrates": "34,91 г"
+    },
+    {
+        "tittle": "Каштан японский, запечённый",
+        "callories": "201 кКал",
+        "proteins": "2,97 г",
+        "fats": "0,8 г",
+        "carbohydrates": "45,13 г"
+    },
+    {
+        "tittle": "Каштан японский, приготовленный на пару",
+        "callories": "56 кКал",
+        "proteins": "0,82 г",
+        "fats": "0,19 г",
+        "carbohydrates": "12,64 г"
+    },
+    {
+        "tittle": "Каштан японский, сушеный",
+        "callories": "360 кКал",
+        "proteins": "5,25 г",
+        "fats": "1,24 г",
+        "carbohydrates": "81,43 г"
+    },
+    {
+        "tittle": "Кедровый орех пиния, сушеный",
+        "callories": "629 кКал",
+        "proteins": "11,57 г",
+        "fats": "60,98 г",
+        "carbohydrates": "8,6 г"
+    },
+    {
+        "tittle": "Кедровый орех, поджаренный, (Навахо)",
+        "callories": "541 кКал",
+        "proteins": "7,41 г",
+        "fats": "34,08 г",
+        "carbohydrates": "7,66 г"
+    },
+    {
+        "tittle": "Кедровый орех, сушеный",
+        "callories": "673 кКал",
+        "proteins": "13,69 г",
+        "fats": "68,37 г",
+        "carbohydrates": "9,38 г"
+    },
+    {
+        "tittle": "Кешью",
+        "callories": "600 кКал",
+        "proteins": "18,5 г",
+        "fats": "48,5 г",
+        "carbohydrates": "22,5 г"
+    },
+    {
+        "tittle": "Кешью, жареный в масле без соли",
+        "callories": "580 кКал",
+        "proteins": "16,84 г",
+        "fats": "47,77 г",
+        "carbohydrates": "26,57 г"
+    },
+    {
+        "tittle": "Кешью, жареный в масле, с солью",
+        "callories": "581 кКал",
+        "proteins": "16,84 г",
+        "fats": "47,77 г",
+        "carbohydrates": "26,86 г"
+    },
+    {
+        "tittle": "Кешью, сухая обжарка без соли",
+        "callories": "574 кКал",
+        "proteins": "15,31 г",
+        "fats": "46,35 г",
+        "carbohydrates": "29,69 г"
+    },
+    {
+        "tittle": "Кешью, сухая обжарка, с солью",
+        "callories": "574 кКал",
+        "proteins": "15,31 г",
+        "fats": "46,35 г",
+        "carbohydrates": "29,69 г"
+    },
+    {
+        "tittle": "Кешью, сырой",
+        "callories": "553 кКал",
+        "proteins": "18,22 г",
+        "fats": "43,85 г",
+        "carbohydrates": "26,89 г"
+    },
+    {
+        "tittle": "Кокос, мякоть сушеная, дробленая, подслащенная",
+        "callories": "501 кКал",
+        "proteins": "2,88 г",
+        "fats": "35,49 г",
+        "carbohydrates": "43,17 г"
+    },
+    {
+        "tittle": "Кокос, мякоть сушеная, не подслащенная",
+        "callories": "660 кКал",
+        "proteins": "6,88 г",
+        "fats": "64,53 г",
+        "carbohydrates": "7,35 г"
+    },
+    {
+        "tittle": "Кокос, мякоть сушеная, поджаренная",
+        "callories": "592 кКал",
+        "proteins": "5,3 г",
+        "fats": "47 г",
+        "carbohydrates": "44,4 г"
+    },
+    {
+        "tittle": "Кокос, мякоть, сырая",
+        "callories": "354 кКал",
+        "proteins": "3,33 г",
+        "fats": "33,49 г",
+        "carbohydrates": "6,23 г"
+    },
+    {
+        "tittle": "Кокосовая вода",
+        "callories": "19 кКал",
+        "proteins": "0,72 г",
+        "fats": "0,2 г",
+        "carbohydrates": "2,61 г"
+    },
+    {
+        "tittle": "Кокосовая паста из свежей мякоти, подслащенная, консервированная",
+        "callories": "357 кКал",
+        "proteins": "1,17 г",
+        "fats": "16,31 г",
+        "carbohydrates": "53,01 г"
+    },
+    {
+        "tittle": "Кокосовая паста из свежей мякоти, сырая",
+        "callories": "330 кКал",
+        "proteins": "3,63 г",
+        "fats": "34,68 г",
+        "carbohydrates": "4,45 г"
+    },
+    {
+        "tittle": "Кокосовая паста-спред из высушенной мякоти",
+        "callories": "684 кКал",
+        "proteins": "5,3 г",
+        "fats": "69,08 г",
+        "carbohydrates": "21,52 г"
+    },
+    {
+        "tittle": "Кокосовая стружка, подслащенная",
+        "callories": "456 кКал",
+        "proteins": "3,13 г",
+        "fats": "27,99 г",
+        "carbohydrates": "41,95 г"
+    },
+    {
+        "tittle": "Кокосовая стружка, подслащенная, консервированная",
+        "callories": "443 кКал",
+        "proteins": "3,35 г",
+        "fats": "31,69 г",
+        "carbohydrates": "36,41 г"
+    },
+    {
+        "tittle": "Кокосовое молоко (отжатое из мякоти), консервированное",
+        "callories": "197 кКал",
+        "proteins": "2,02 г",
+        "fats": "21,33 г",
+        "carbohydrates": "2,81 г"
+    },
+    {
+        "tittle": "Кокосовое молоко (отжатое из мякоти), сырое",
+        "callories": "230 кКал",
+        "proteins": "2,29 г",
+        "fats": "23,84 г",
+        "carbohydrates": "3,34 г"
+    },
+    {
+        "tittle": "Кокосовое молоко (полученное из отжатых мякоти и млечного сока), замороженное",
+        "callories": "202 кКал",
+        "proteins": "1,61 г",
+        "fats": "20,8 г",
+        "carbohydrates": "5,58 г"
+    },
+    {
+        "tittle": "Конопля, семя",
+        "callories": "373 кКал",
+        "proteins": "20,1 г",
+        "fats": "32,5 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "tittle": "Конопля, семя сушеное лущёное",
+        "callories": "553 кКал",
+        "proteins": "31,56 г",
+        "fats": "48,75 г",
+        "carbohydrates": "4,67 г"
+    },
+    {
+        "tittle": "Кунжут",
+        "callories": "565 кКал",
+        "proteins": "19,4 г",
+        "fats": "48,7 г",
+        "carbohydrates": "12,2 г"
+    },
+    {
+        "tittle": "Кунжут, поджаренный без соли",
+        "callories": "567 кКал",
+        "proteins": "16,96 г",
+        "fats": "48 г",
+        "carbohydrates": "9,14 г"
+    },
+    {
+        "tittle": "Кунжут, поджаренный, с солью",
+        "callories": "567 кКал",
+        "proteins": "16,96 г",
+        "fats": "48 г",
+        "carbohydrates": "9,14 г"
+    },
+    {
+        "tittle": "Кунжут, семена нешелушеные, обжареные",
+        "callories": "565 кКал",
+        "proteins": "16,96 г",
+        "fats": "48 г",
+        "carbohydrates": "11,74 г"
+    },
+    {
+        "tittle": "Кунжут, семена нешелушеные, сушеные",
+        "callories": "573 кКал",
+        "proteins": "17,73 г",
+        "fats": "49,67 г",
+        "carbohydrates": "11,65 г"
+    },
+    {
+        "tittle": "Кунжут, сушеный",
+        "callories": "631 кКал",
+        "proteins": "20,45 г",
+        "fats": "61,21 г",
+        "carbohydrates": "0,13 г"
+    },
+    {
+        "tittle": "Кунжут, Тахинная паста из необжаренных зерен кунжута (без химического разрушения оболочки семян)",
+        "callories": "607 кКал",
+        "proteins": "17,95 г",
+        "fats": "56,44 г",
+        "carbohydrates": "8,59 г"
+    },
+    {
+        "tittle": "Кунжут, Тахинная паста из обжаренных и подсушеных зерен",
+        "callories": "595 кКал",
+        "proteins": "17 г",
+        "fats": "53,76 г",
+        "carbohydrates": "11,89 г"
+    },
+    {
+        "tittle": "Кунжут, Тахинная паста из сырых и перемеленых зерен кунжута",
+        "callories": "570 кКал",
+        "proteins": "17,81 г",
+        "fats": "48 г",
+        "carbohydrates": "16,89 г"
+    },
+    {
+        "tittle": "Кунжут, Тахинная паста, тип зерен не определен",
+        "callories": "592 кКал",
+        "proteins": "17,4 г",
+        "fats": "53,01 г",
+        "carbohydrates": "16,8 г"
+    },
+    {
+        "tittle": "Кунжутная крупка",
+        "callories": "567 кКал",
+        "proteins": "16,96 г",
+        "fats": "48 г",
+        "carbohydrates": "26,04 г"
+    },
+    {
+        "tittle": "Кунжутная мука, необезжиренная",
+        "callories": "526 кКал",
+        "proteins": "30,78 г",
+        "fats": "37,1 г",
+        "carbohydrates": "26,62 г"
+    },
+    {
+        "tittle": "Кунжутная мука, обезжиренная",
+        "callories": "333 кКал",
+        "proteins": "50,14 г",
+        "fats": "1,75 г",
+        "carbohydrates": "35,51 г"
+    },
+    {
+        "tittle": "Кунжутная мука, полуобезжиренная",
+        "callories": "382 кКал",
+        "proteins": "40,32 г",
+        "fats": "11,89 г",
+        "carbohydrates": "35,14 г"
+    },
+    {
+        "tittle": "Кунжутная паста (тахинная паста, тхина)",
+        "callories": "586 кКал",
+        "proteins": "18,08 г",
+        "fats": "50,87 г",
+        "carbohydrates": "18,55 г"
+    },
+    {
+        "tittle": "Лещина (лесной орех)",
+        "callories": "653 кКал",
+        "proteins": "13 г",
+        "fats": "62,6 г",
+        "carbohydrates": "9,3 г"
+    },
+    {
+        "tittle": "Мак, семена",
+        "callories": "525 кКал",
+        "proteins": "17,99 г",
+        "fats": "41,56 г",
+        "carbohydrates": "8,63 г"
+    },
+    {
+        "tittle": "Мак, семя",
+        "callories": "556 кКал",
+        "proteins": "17,5 г",
+        "fats": "47,5 г",
+        "carbohydrates": "14,5 г"
+    },
+    {
+        "tittle": "Макадамия, орех",
+        "callories": "718 кКал",
+        "proteins": "7,91 г",
+        "fats": "75,77 г",
+        "carbohydrates": "5,22 г"
+    },
+    {
+        "tittle": "Макадамия, орех жареный",
+        "callories": "718 кКал",
+        "proteins": "7,79 г",
+        "fats": "76,08 г",
+        "carbohydrates": "5,38 г"
+    },
+    {
+        "tittle": "Макадамия, орех жареный, с солью",
+        "callories": "716 кКал",
+        "proteins": "7,79 г",
+        "fats": "76,08 г",
+        "carbohydrates": "4,83 г"
+    },
+    {
+        "tittle": "Миндаль",
+        "callories": "579 кКал",
+        "proteins": "21,15 г",
+        "fats": "49,93 г",
+        "carbohydrates": "9,05 г"
+    },
+    {
+        "tittle": "Миндаль",
+        "callories": "609 кКал",
+        "proteins": "18,6 г",
+        "fats": "53,7 г",
+        "carbohydrates": "13 г"
+    },
+    {
+        "tittle": "Миндаль бланшированный",
+        "callories": "590 кКал",
+        "proteins": "21,4 г",
+        "fats": "52,52 г",
+        "carbohydrates": "8,77 г"
+    },
+    {
+        "tittle": "Миндаль жареный",
+        "callories": "642 кКал",
+        "proteins": "22,4 г",
+        "fats": "55,9 г",
+        "carbohydrates": "12,3 г"
+    },
+    {
+        "tittle": "Миндаль, жареный в масле без соли",
+        "callories": "607 кКал",
+        "proteins": "21,23 г",
+        "fats": "55,17 г",
+        "carbohydrates": "7,18 г"
+    },
+    {
+        "tittle": "Миндаль, жареный в масле с солью",
+        "callories": "607 кКал",
+        "proteins": "21,23 г",
+        "fats": "55,17 г",
+        "carbohydrates": "7,18 г"
+    },
+    {
+        "tittle": "Миндаль, жареный в масле с солью, с копчёным ароматом",
+        "callories": "607 кКал",
+        "proteins": "21,43 г",
+        "fats": "55,89 г",
+        "carbohydrates": "7,16 г"
+    },
+    {
+        "tittle": "Миндаль, жареный в масле слабосолёный",
+        "callories": "607 кКал",
+        "proteins": "21,23 г",
+        "fats": "55,17 г",
+        "carbohydrates": "7,18 г"
+    },
+    {
+        "tittle": "Миндаль, обжареный в меде, небланшированный",
+        "callories": "594 кКал",
+        "proteins": "18,17 г",
+        "fats": "49,9 г",
+        "carbohydrates": "14,2 г"
+    },
+    {
+        "tittle": "Миндаль, сухая обжарка, без соли",
+        "callories": "598 кКал",
+        "proteins": "20,96 г",
+        "fats": "52,54 г",
+        "carbohydrates": "10,11 г"
+    },
+    {
+        "tittle": "Миндаль, сухая обжарка, с солью",
+        "callories": "598 кКал",
+        "proteins": "20,96 г",
+        "fats": "52,54 г",
+        "carbohydrates": "10,11 г"
+    },
+    {
+        "tittle": "Миндальная паста",
+        "callories": "458 кКал",
+        "proteins": "9 г",
+        "fats": "27,74 г",
+        "carbohydrates": "43,01 г"
+    },
+    {
+        "tittle": "Миндальный спред, без соли",
+        "callories": "614 кКал",
+        "proteins": "20,96 г",
+        "fats": "55,5 г",
+        "carbohydrates": "8,52 г"
+    },
+    {
+        "tittle": "Миндальный спред, с добавлением соли",
+        "callories": "614 кКал",
+        "proteins": "20,96 г",
+        "fats": "55,5 г",
+        "carbohydrates": "8,52 г"
+    },
+    {
+        "tittle": "Мука подсолнечная, обезжиренная",
+        "callories": "326 кКал",
+        "proteins": "48,06 г",
+        "fats": "1,61 г",
+        "carbohydrates": "30,63 г"
+    },
+    {
+        "tittle": "Орех гикори (кария пекан), сушеный",
+        "callories": "657 кКал",
+        "proteins": "12,72 г",
+        "fats": "64,37 г",
+        "carbohydrates": "11,85 г"
+    },
+    {
+        "tittle": "Орех гинкго, консервированный",
+        "callories": "111 кКал",
+        "proteins": "2,29 г",
+        "fats": "1,62 г",
+        "carbohydrates": "12,8 г"
+    },
+    {
+        "tittle": "Орех гинкго, сушеный",
+        "callories": "348 кКал",
+        "proteins": "10,35 г",
+        "fats": "2 г",
+        "carbohydrates": "72,45 г"
+    },
+    {
+        "tittle": "Орех гинкго, сырой",
+        "callories": "182 кКал",
+        "proteins": "4,32 г",
+        "fats": "1,68 г",
+        "carbohydrates": "37,6 г"
+    },
+    {
+        "tittle": "Орех калифорнийский, сушеный",
+        "callories": "612 кКал",
+        "proteins": "24,9 г",
+        "fats": "56,98 г",
+        "carbohydrates": "7,35 г"
+    },
+    {
+        "tittle": "Орехи, смесь без арахиса, жареные в масле без соли",
+        "callories": "615 кКал",
+        "proteins": "15,52 г",
+        "fats": "56,17 г",
+        "carbohydrates": "16,77 г"
+    },
+    {
+        "tittle": "Орехи, смесь без арахиса, жареные в масле, с солью",
+        "callories": "615 кКал",
+        "proteins": "15,52 г",
+        "fats": "56,17 г",
+        "carbohydrates": "16,77 г"
+    },
+    {
+        "tittle": "Орехи, смесь без арахиса, жареные в масле, слабосолёные",
+        "callories": "607 кКал",
+        "proteins": "17,86 г",
+        "fats": "50 г",
+        "carbohydrates": "17,9 г"
+    },
+    {
+        "tittle": "Орехи, смесь с арахисом, жареные в масле без соли",
+        "callories": "607 кКал",
+        "proteins": "20,04 г",
+        "fats": "53,95 г",
+        "carbohydrates": "14,05 г"
+    },
+    {
+        "tittle": "Орехи, смесь с арахисом, жареные в масле с солью",
+        "callories": "607 кКал",
+        "proteins": "20,04 г",
+        "fats": "53,95 г",
+        "carbohydrates": "14,05 г"
+    },
+    {
+        "tittle": "Орехи, смесь с арахисом, сухая обжарка, без соли",
+        "callories": "607 кКал",
+        "proteins": "19,5 г",
+        "fats": "53,5 г",
+        "carbohydrates": "16,02 г"
+    },
+    {
+        "tittle": "Орехи, смесь с арахисом, сухая обжарка, с солью",
+        "callories": "594 кКал",
+        "proteins": "17,3 г",
+        "fats": "51,45 г",
+        "carbohydrates": "16,35 г"
+    },
+    {
+        "tittle": "Пальмовое ядро",
+        "callories": "0 кКал",
+        "proteins": "8,4 г",
+        "fats": "49,6 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "tittle": "Паста из кешью, без соли",
+        "callories": "587 кКал",
+        "proteins": "17,56 г",
+        "fats": "49,41 г",
+        "carbohydrates": "25,57 г"
+    },
+    {
+        "tittle": "Паста из кешью, с солью",
+        "callories": "609 кКал",
+        "proteins": "12,12 г",
+        "fats": "53,03 г",
+        "carbohydrates": "27,3 г"
+    },
+    {
+        "tittle": "Паста из семян подсолнечника",
+        "callories": "617 кКал",
+        "proteins": "17,28 г",
+        "fats": "55,2 г",
+        "carbohydrates": "17,62 г"
+    },
+    {
+        "tittle": "Паста из семян подсолнечника, с солью",
+        "callories": "617 кКал",
+        "proteins": "17,28 г",
+        "fats": "55,2 г",
+        "carbohydrates": "17,62 г"
+    },
+    {
+        "tittle": "Пекан, орех",
+        "callories": "691 кКал",
+        "proteins": "9,17 г",
+        "fats": "71,97 г",
+        "carbohydrates": "4,26 г"
+    },
+    {
+        "tittle": "Пекан, орех жареный без масла, без соли",
+        "callories": "710 кКал",
+        "proteins": "9,5 г",
+        "fats": "74,27 г",
+        "carbohydrates": "4,15 г"
+    },
+    {
+        "tittle": "Пекан, орех жареный без масла, с солью",
+        "callories": "710 кКал",
+        "proteins": "9,5 г",
+        "fats": "74,27 г",
+        "carbohydrates": "4,15 г"
+    },
+    {
+        "tittle": "Пекан, орех жареный в масле, без соли",
+        "callories": "715 кКал",
+        "proteins": "9,2 г",
+        "fats": "75,23 г",
+        "carbohydrates": "3,51 г"
+    },
+    {
+        "tittle": "Пекан, орех жареный в масле, с солью",
+        "callories": "715 кКал",
+        "proteins": "9,2 г",
+        "fats": "75,23 г",
+        "carbohydrates": "3,51 г"
+    },
+    {
+        "tittle": "Персик (семя костянки)",
+        "callories": "0 кКал",
+        "proteins": "0 г",
+        "fats": "43 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "tittle": "Пили, орех сушеный",
+        "callories": "719 кКал",
+        "proteins": "10,8 г",
+        "fats": "79,55 г",
+        "carbohydrates": "3,98 г"
+    },
+    {
+        "tittle": "Подсолнечник, семечки",
+        "callories": "601 кКал",
+        "proteins": "20,7 г",
+        "fats": "52,9 г",
+        "carbohydrates": "10,5 г"
+    },
+    {
+        "tittle": "Подсолнечник, семечки, жареные в масле без добавления соли",
+        "callories": "592 кКал",
+        "proteins": "20,06 г",
+        "fats": "51,3 г",
+        "carbohydrates": "12,29 г"
+    },
+    {
+        "tittle": "Подсолнечник, семечки, жареные в масле, с добавлением соли",
+        "callories": "592 кКал",
+        "proteins": "20,06 г",
+        "fats": "51,3 г",
+        "carbohydrates": "12,29 г"
+    },
+    {
+        "tittle": "Подсолнечник, семечки, поджареные, без соли",
+        "callories": "619 кКал",
+        "proteins": "17,21 г",
+        "fats": "56,8 г",
+        "carbohydrates": "9,09 г"
+    },
+    {
+        "tittle": "Подсолнечник, семечки, сухая обжарка, без соли",
+        "callories": "582 кКал",
+        "proteins": "19,33 г",
+        "fats": "49,8 г",
+        "carbohydrates": "12,97 г"
+    },
+    {
+        "tittle": "Подсолнечник, семечки, сухая обжарка, с солью",
+        "callories": "582 кКал",
+        "proteins": "19,33 г",
+        "fats": "49,8 г",
+        "carbohydrates": "15,07 г"
+    },
+    {
+        "tittle": "Подсолнечник, семечки, сушеные",
+        "callories": "584 кКал",
+        "proteins": "20,78 г",
+        "fats": "51,46 г",
+        "carbohydrates": "11,4 г"
+    },
+    {
+        "tittle": "Подсолнечник, семечки, сушеные, солёные",
+        "callories": "619 кКал",
+        "proteins": "17,21 г",
+        "fats": "56,8 г",
+        "carbohydrates": "9,09 г"
+    },
+    {
+        "tittle": "Рапс, семя",
+        "callories": "544 кКал",
+        "proteins": "30,8 г",
+        "fats": "37,6 г",
+        "carbohydrates": "7,2 г"
+    },
+    {
+        "tittle": "Сафлоровая крупка, частично обезжиренная",
+        "callories": "342 кКал",
+        "proteins": "35,62 г",
+        "fats": "2,39 г",
+        "carbohydrates": "48,73 г"
+    },
+    {
+        "tittle": "Сафлоровое семя, сушеное",
+        "callories": "517 кКал",
+        "proteins": "16,18 г",
+        "fats": "38,45 г",
+        "carbohydrates": "34,29 г"
+    },
+    {
+        "tittle": "Семена бросимума напиткового, сушеные",
+        "callories": "367 кКал",
+        "proteins": "8,62 г",
+        "fats": "1,68 г",
+        "carbohydrates": "64,49 г"
+    },
+    {
+        "tittle": "Семена бросимума напиткового, сырые",
+        "callories": "217 кКал",
+        "proteins": "5,97 г",
+        "fats": "0,99 г",
+        "carbohydrates": "46,28 г"
+    },
+    {
+        "tittle": "Семена гулявника прямого целиком, сушеные",
+        "callories": "318 кКал",
+        "proteins": "12,14 г",
+        "fats": "4,6 г",
+        "carbohydrates": "58,26 г"
+    },
+    {
+        "tittle": "Семена лотоса, сушеные",
+        "callories": "332 кКал",
+        "proteins": "15,41 г",
+        "fats": "1,97 г",
+        "carbohydrates": "64,47 г"
+    },
+    {
+        "tittle": "Семена лотоса, сырые",
+        "callories": "89 кКал",
+        "proteins": "4,13 г",
+        "fats": "0,53 г",
+        "carbohydrates": "17,28 г"
+    },
+    {
+        "tittle": "Семена льна",
+        "callories": "534 кКал",
+        "proteins": "18,29 г",
+        "fats": "42,16 г",
+        "carbohydrates": "1,58 г"
+    },
+    {
+        "tittle": "Семена хлебного дерева, вареные",
+        "callories": "168 кКал",
+        "proteins": "5,3 г",
+        "fats": "2,3 г",
+        "carbohydrates": "27,2 г"
+    },
+    {
+        "tittle": "Семена хлебного дерева, жареные",
+        "callories": "207 кКал",
+        "proteins": "6,2 г",
+        "fats": "2,7 г",
+        "carbohydrates": "34,1 г"
+    },
+    {
+        "tittle": "Семена хлебного дерева, сырые",
+        "callories": "191 кКал",
+        "proteins": "7,4 г",
+        "fats": "5,59 г",
+        "carbohydrates": "24,04 г"
+    },
+    {
+        "tittle": "Семена чиа, сушеные",
+        "callories": "486 кКал",
+        "proteins": "16,54 г",
+        "fats": "30,74 г",
+        "carbohydrates": "7,72 г"
+    },
+    {
+        "tittle": "Слива, семя костянки",
+        "callories": "394,3 кКал",
+        "proteins": "28,5 г",
+        "fats": "40,2 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "tittle": "Тыквенные семечки, жареные без соли",
+        "callories": "574 кКал",
+        "proteins": "29,84 г",
+        "fats": "49,05 г",
+        "carbohydrates": "8,21 г"
+    },
+    {
+        "tittle": "Тыквенные семечки, жареные с солью",
+        "callories": "574 кКал",
+        "proteins": "29,84 г",
+        "fats": "49,05 г",
+        "carbohydrates": "8,21 г"
+    },
+    {
+        "tittle": "Тыквенные семечки, неочищенные, обжаренные без соли",
+        "callories": "446 кКал",
+        "proteins": "18,55 г",
+        "fats": "19,4 г",
+        "carbohydrates": "35,35 г"
+    },
+    {
+        "tittle": "Тыквенные семечки, неочищенные, обжаренные с солью",
+        "callories": "446 кКал",
+        "proteins": "18,55 г",
+        "fats": "19,4 г",
+        "carbohydrates": "35,35 г"
+    },
+    {
+        "tittle": "Тыквенные семечки, сушеные",
+        "callories": "559 кКал",
+        "proteins": "30,23 г",
+        "fats": "49,05 г",
+        "carbohydrates": "4,71 г"
+    },
+    {
+        "tittle": "Фисташки несолёные, сухая обжарка",
+        "callories": "572 кКал",
+        "proteins": "21,05 г",
+        "fats": "45,82 г",
+        "carbohydrates": "17,98 г"
+    },
+    {
+        "tittle": "Фисташки солёные, сухая обжарка",
+        "callories": "569 кКал",
+        "proteins": "21,05 г",
+        "fats": "45,82 г",
+        "carbohydrates": "17,25 г"
+    },
+    {
+        "tittle": "Фисташки, сырые",
+        "callories": "560 кКал",
+        "proteins": "20,16 г",
+        "fats": "45,32 г",
+        "carbohydrates": "16,57 г"
+    },
+    {
+        "tittle": "Фундук",
+        "callories": "628 кКал",
+        "proteins": "14,95 г",
+        "fats": "60,75 г",
+        "carbohydrates": "7 г"
+    },
+    {
+        "tittle": "Фундук",
+        "callories": "651 кКал",
+        "proteins": "15 г",
+        "fats": "61,5 г",
+        "carbohydrates": "9,4 г"
+    },
+    {
+        "tittle": "Фундук жареный",
+        "callories": "703 кКал",
+        "proteins": "17,8 г",
+        "fats": "66,1 г",
+        "carbohydrates": "9,4 г"
+    },
+    {
+        "tittle": "Фундук, бланшированный",
+        "callories": "629 кКал",
+        "proteins": "13,7 г",
+        "fats": "61,15 г",
+        "carbohydrates": "6 г"
+    },
+    {
+        "tittle": "Фундук, сухая обжарка, без соли",
+        "callories": "646 кКал",
+        "proteins": "15,03 г",
+        "fats": "62,4 г",
+        "carbohydrates": "8,2 г"
+    },
+    {
+        "tittle": "Хлопчатник, крупка, частично обезжиренная (без госсипола)",
+        "callories": "367 кКал",
+        "proteins": "49,1 г",
+        "fats": "4,77 г",
+        "carbohydrates": "38,43 г"
+    },
+    {
+        "tittle": "Хлопчатник, мука, обезжиренная (без госсипола)",
+        "callories": "332 кКал",
+        "proteins": "49,83 г",
+        "fats": "1,41 г",
+        "carbohydrates": "36,1 г"
+    },
+    {
+        "tittle": "Хлопчатник, мука, частично обезжиренная (без госсипола)",
+        "callories": "359 кКал",
+        "proteins": "40,96 г",
+        "fats": "6,2 г",
+        "carbohydrates": "37,54 г"
+    },
+    {
+        "tittle": "Хлопчатник, семена, жареные (без госсипола)",
+        "callories": "506 кКал",
+        "proteins": "32,59 г",
+        "fats": "36,29 г",
+        "carbohydrates": "16,4 г"
+    },
+    {
+        "tittle": "Хлопчатник, семя",
+        "callories": "499 кКал",
+        "proteins": "34,5 г",
+        "fats": "36,5 г",
+        "carbohydrates": "8,1 г"
+    }
+]

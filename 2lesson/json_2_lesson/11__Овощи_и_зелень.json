@@ -1,0 +1,5504 @@
+[
+    {
+        "tittle": "Авокадо",
+        "callories": "160 кКал",
+        "proteins": "2 г",
+        "fats": "14,66 г",
+        "carbohydrates": "1,83 г"
+    },
+    {
+        "tittle": "Авокадо, Калифорнийские, сырые",
+        "callories": "167 кКал",
+        "proteins": "1,96 г",
+        "fats": "15,41 г",
+        "carbohydrates": "1,84 г"
+    },
+    {
+        "tittle": "Авокадо, Флоридские, сырые",
+        "callories": "120 кКал",
+        "proteins": "2,23 г",
+        "fats": "10,06 г",
+        "carbohydrates": "2,22 г"
+    },
+    {
+        "tittle": "Агава приготовленная",
+        "callories": "135 кКал",
+        "proteins": "0,99 г",
+        "fats": "0,29 г",
+        "carbohydrates": "21,4 г"
+    },
+    {
+        "tittle": "Агава сушеная",
+        "callories": "341 кКал",
+        "proteins": "1,71 г",
+        "fats": "0,69 г",
+        "carbohydrates": "66,38 г"
+    },
+    {
+        "tittle": "Агава сырая",
+        "callories": "68 кКал",
+        "proteins": "0,52 г",
+        "fats": "0,15 г",
+        "carbohydrates": "9,63 г"
+    },
+    {
+        "tittle": "Айсберг (салат кочанный)",
+        "callories": "14 кКал",
+        "proteins": "0,9 г",
+        "fats": "0,14 г",
+        "carbohydrates": "1,77 г"
+    },
+    {
+        "tittle": "Амарант листья, вареные, без соли",
+        "callories": "21 кКал",
+        "proteins": "2,11 г",
+        "fats": "0,18 г",
+        "carbohydrates": "4,11 г"
+    },
+    {
+        "tittle": "Амарант листья, сырые",
+        "callories": "23 кКал",
+        "proteins": "2,46 г",
+        "fats": "0,33 г",
+        "carbohydrates": "4,02 г"
+    },
+    {
+        "tittle": "Амарант, листья, вареные, с солью",
+        "callories": "21 кКал",
+        "proteins": "2,11 г",
+        "fats": "0,18 г",
+        "carbohydrates": "4,11 г"
+    },
+    {
+        "tittle": "Артишок",
+        "callories": "47 кКал",
+        "proteins": "3,27 г",
+        "fats": "0,15 г",
+        "carbohydrates": "5,11 г"
+    },
+    {
+        "tittle": "Артишок вареный с солью",
+        "callories": "51 кКал",
+        "proteins": "2,89 г",
+        "fats": "0,34 г",
+        "carbohydrates": "5,69 г"
+    },
+    {
+        "tittle": "Артишок вареный, без соли",
+        "callories": "53 кКал",
+        "proteins": "2,89 г",
+        "fats": "0,34 г",
+        "carbohydrates": "6,25 г"
+    },
+    {
+        "tittle": "Артишок вареный, замороженные, без соли",
+        "callories": "45 кКал",
+        "proteins": "3,11 г",
+        "fats": "0,5 г",
+        "carbohydrates": "4,58 г"
+    },
+    {
+        "tittle": "Артишок замороженные, вареные, с солью",
+        "callories": "45 кКал",
+        "proteins": "3,11 г",
+        "fats": "0,5 г",
+        "carbohydrates": "4,58 г"
+    },
+    {
+        "tittle": "Артишок замороженный неприготовленный",
+        "callories": "38 кКал",
+        "proteins": "2,63 г",
+        "fats": "0,43 г",
+        "carbohydrates": "3,85 г"
+    },
+    {
+        "tittle": "Артишок испанский, вареный, без соли",
+        "callories": "22 кКал",
+        "proteins": "0,76 г",
+        "fats": "0,11 г",
+        "carbohydrates": "3,63 г"
+    },
+    {
+        "tittle": "Артишок испанский, вареный, с солью",
+        "callories": "20 кКал",
+        "proteins": "0,76 г",
+        "fats": "0,11 г",
+        "carbohydrates": "3,04 г"
+    },
+    {
+        "tittle": "Артишок испанский, сырой",
+        "callories": "17 кКал",
+        "proteins": "0,7 г",
+        "fats": "0,1 г",
+        "carbohydrates": "2,47 г"
+    },
+    {
+        "tittle": "Аурикулярия густоволосистая, сушеная",
+        "callories": "284 кКал",
+        "proteins": "9,25 г",
+        "fats": "0,73 г",
+        "carbohydrates": "2,91 г"
+    },
+    {
+        "tittle": "Аурикулярия уховидная, сушеная",
+        "callories": "298 кКал",
+        "proteins": "4,82 г",
+        "fats": "0,44 г",
+        "carbohydrates": "81,03 г"
+    },
+    {
+        "tittle": "Аурикулярия уховидная, сырая",
+        "callories": "25 кКал",
+        "proteins": "0,48 г",
+        "fats": "0,04 г",
+        "carbohydrates": "6,75 г"
+    },
+    {
+        "tittle": "Базелла белая, приготовленная",
+        "callories": "23 кКал",
+        "proteins": "2,98 г",
+        "fats": "0,78 г",
+        "carbohydrates": "0,61 г"
+    },
+    {
+        "tittle": "Баклажан",
+        "callories": "24 кКал",
+        "proteins": "1,2 г",
+        "fats": "0,1 г",
+        "carbohydrates": "4,5 г"
+    },
+    {
+        "tittle": "Баклажан, вареный, без соли",
+        "callories": "35 кКал",
+        "proteins": "0,83 г",
+        "fats": "0,23 г",
+        "carbohydrates": "6,23 г"
+    },
+    {
+        "tittle": "Баклажан, вареный, с солью",
+        "callories": "33 кКал",
+        "proteins": "0,83 г",
+        "fats": "0,23 г",
+        "carbohydrates": "5,64 г"
+    },
+    {
+        "tittle": "Баклажан, сырой",
+        "callories": "25 кКал",
+        "proteins": "0,98 г",
+        "fats": "0,18 г",
+        "carbohydrates": "2,88 г"
+    },
+    {
+        "tittle": "Баклажаны маринованные",
+        "callories": "49 кКал",
+        "proteins": "0,9 г",
+        "fats": "0,7 г",
+        "carbohydrates": "7,27 г"
+    },
+    {
+        "tittle": "Баклажаны фаршированные овощами по 1-266",
+        "callories": "83 кКал",
+        "proteins": "2,9 г",
+        "fats": "4,5 г",
+        "carbohydrates": "7,4 г"
+    },
+    {
+        "tittle": "Бамбук, побеги вареные, с солью",
+        "callories": "11 кКал",
+        "proteins": "1,53 г",
+        "fats": "0,22 г",
+        "carbohydrates": "0,52 г"
+    },
+    {
+        "tittle": "Бамбук, побеги, вареные, без соли",
+        "callories": "12 кКал",
+        "proteins": "1,53 г",
+        "fats": "0,22 г",
+        "carbohydrates": "0,92 г"
+    },
+    {
+        "tittle": "Бамбук, побеги, консервированные, сухой продукт без маринада",
+        "callories": "19 кКал",
+        "proteins": "1,72 г",
+        "fats": "0,4 г",
+        "carbohydrates": "1,82 г"
+    },
+    {
+        "tittle": "Бамбук, побеги, сырые",
+        "callories": "27 кКал",
+        "proteins": "2,6 г",
+        "fats": "0,3 г",
+        "carbohydrates": "3 г"
+    },
+    {
+        "tittle": "Батат, картофель сладкий",
+        "callories": "60 кКал",
+        "proteins": "2 г",
+        "fats": "0,05 г",
+        "carbohydrates": "13,3 г"
+    },
+    {
+        "tittle": "Батат, картофель сладкий",
+        "callories": "86 кКал",
+        "proteins": "1,57 г",
+        "fats": "0,05 г",
+        "carbohydrates": "17,12 г"
+    },
+    {
+        "tittle": "Батат, картофель сладкий запеченный в кожуре, без соли",
+        "callories": "90 кКал",
+        "proteins": "2,01 г",
+        "fats": "0,15 г",
+        "carbohydrates": "17,41 г"
+    },
+    {
+        "tittle": "Батат, картофель сладкий, вареный без соли",
+        "callories": "76 кКал",
+        "proteins": "1,37 г",
+        "fats": "0,14 г",
+        "carbohydrates": "15,22 г"
+    },
+    {
+        "tittle": "Батат, картофель сладкий, вареный с солью",
+        "callories": "76 кКал",
+        "proteins": "1,37 г",
+        "fats": "0,14 г",
+        "carbohydrates": "15,22 г"
+    },
+    {
+        "tittle": "Батат, картофель сладкий, замороженный, запеченный без соли",
+        "callories": "100 кКал",
+        "proteins": "1,71 г",
+        "fats": "0,12 г",
+        "carbohydrates": "21,6 г"
+    },
+    {
+        "tittle": "Батат, картофель сладкий, замороженный, запеченный с солью",
+        "callories": "100 кКал",
+        "proteins": "1,71 г",
+        "fats": "0,12 г",
+        "carbohydrates": "21,6 г"
+    },
+    {
+        "tittle": "Батат, картофель сладкий, замороженный, неприготовленный",
+        "callories": "96 кКал",
+        "proteins": "1,71 г",
+        "fats": "0,18 г",
+        "carbohydrates": "20,52 г"
+    },
+    {
+        "tittle": "Батат, картофель сладкий, запеченный в кожуре, с солью",
+        "callories": "90 кКал",
+        "proteins": "2,01 г",
+        "fats": "0,15 г",
+        "carbohydrates": "17,41 г"
+    },
+    {
+        "tittle": "Батат, картофель сладкий, засахаренный, домашнего приготовления",
+        "callories": "164 кКал",
+        "proteins": "0,89 г",
+        "fats": "3,54 г",
+        "carbohydrates": "30,02 г"
+    },
+    {
+        "tittle": "Батат, картофель сладкий, консервированный и вакуумной упаковке",
+        "callories": "91 кКал",
+        "proteins": "1,65 г",
+        "fats": "0,2 г",
+        "carbohydrates": "19,32 г"
+    },
+    {
+        "tittle": "Батат, картофель сладкий, консервированный с сиропом",
+        "callories": "89 кКал",
+        "proteins": "0,98 г",
+        "fats": "0,2 г",
+        "carbohydrates": "18,43 г"
+    },
+    {
+        "tittle": "Батат, картофель сладкий, консервированный с сиропом, сухой продукт без маринада",
+        "callories": "108 кКал",
+        "proteins": "1,28 г",
+        "fats": "0,32 г",
+        "carbohydrates": "22,36 г"
+    },
+    {
+        "tittle": "Батат, картофель сладкий, листья, приготовленные на пару, без соли",
+        "callories": "35 кКал",
+        "proteins": "2,18 г",
+        "fats": "0,34 г",
+        "carbohydrates": "5,48 г"
+    },
+    {
+        "tittle": "Батат, картофель сладкий, листья, приготовленные на пару, с солью",
+        "callories": "35 кКал",
+        "proteins": "2,18 г",
+        "fats": "0,34 г",
+        "carbohydrates": "5,48 г"
+    },
+    {
+        "tittle": "Батат, картофель сладкий, листья, сырые",
+        "callories": "42 кКал",
+        "proteins": "2,49 г",
+        "fats": "0,51 г",
+        "carbohydrates": "3,52 г"
+    },
+    {
+        "tittle": "Батат, картофель сладкий, пюре, консервированный",
+        "callories": "101 кКал",
+        "proteins": "1,98 г",
+        "fats": "0,2 г",
+        "carbohydrates": "21,49 г"
+    },
+    {
+        "tittle": "Белокопытник , вареный, без соли",
+        "callories": "8 кКал",
+        "proteins": "0,23 г",
+        "fats": "0,02 г",
+        "carbohydrates": "2,16 г"
+    },
+    {
+        "tittle": "Белокопытник японский, сырой",
+        "callories": "14 кКал",
+        "proteins": "0,39 г",
+        "fats": "0,04 г",
+        "carbohydrates": "3,61 г"
+    },
+    {
+        "tittle": "Белокопытник, вареный, с солью",
+        "callories": "8 кКал",
+        "proteins": "0,23 г",
+        "fats": "0,02 г",
+        "carbohydrates": "2,16 г"
+    },
+    {
+        "tittle": "Белокопытник, консервированный",
+        "callories": "3 кКал",
+        "proteins": "0,11 г",
+        "fats": "0,13 г",
+        "carbohydrates": "0,38 г"
+    },
+    {
+        "tittle": "Бок-чой (пак-чой, китайская капуста)",
+        "callories": "13 кКал",
+        "proteins": "1,5 г",
+        "fats": "0,2 г",
+        "carbohydrates": "1,18 г"
+    },
+    {
+        "tittle": "Бок-чой (пак-чой, китайская капуста) вареная, без соли",
+        "callories": "12 кКал",
+        "proteins": "1,56 г",
+        "fats": "0,16 г",
+        "carbohydrates": "0,78 г"
+    },
+    {
+        "tittle": "Бок-чой (пак-чой, китайская капуста) вареная, с солью",
+        "callories": "12 кКал",
+        "proteins": "1,56 г",
+        "fats": "0,16 г",
+        "carbohydrates": "0,78 г"
+    },
+    {
+        "tittle": "Брокколи",
+        "callories": "34 кКал",
+        "proteins": "2,82 г",
+        "fats": "0,37 г",
+        "carbohydrates": "4,04 г"
+    },
+    {
+        "tittle": "Брокколи китайская, приготовленная",
+        "callories": "22 кКал",
+        "proteins": "1,14 г",
+        "fats": "0,72 г",
+        "carbohydrates": "1,31 г"
+    },
+    {
+        "tittle": "Брокколи, вареная, без соли",
+        "callories": "35 кКал",
+        "proteins": "2,38 г",
+        "fats": "0,41 г",
+        "carbohydrates": "3,88 г"
+    },
+    {
+        "tittle": "Брокколи, вареная, с солью",
+        "callories": "35 кКал",
+        "proteins": "2,38 г",
+        "fats": "0,41 г",
+        "carbohydrates": "3,88 г"
+    },
+    {
+        "tittle": "Брокколи, ветви, замороженная, вареная, с солью",
+        "callories": "28 кКал",
+        "proteins": "3,1 г",
+        "fats": "0,11 г",
+        "carbohydrates": "2,35 г"
+    },
+    {
+        "tittle": "Брокколи, замороженная, вареная с солью",
+        "callories": "28 кКал",
+        "proteins": "3,1 г",
+        "fats": "0,12 г",
+        "carbohydrates": "2,35 г"
+    },
+    {
+        "tittle": "Брокколи, замороженная, вареная, без соли",
+        "callories": "28 кКал",
+        "proteins": "3,1 г",
+        "fats": "0,12 г",
+        "carbohydrates": "2,35 г"
+    },
+    {
+        "tittle": "Брокколи, замороженная, неприготовленная",
+        "callories": "26 кКал",
+        "proteins": "2,81 г",
+        "fats": "0,29 г",
+        "carbohydrates": "1,78 г"
+    },
+    {
+        "tittle": "Брокколи, листья, сырая",
+        "callories": "28 кКал",
+        "proteins": "2,98 г",
+        "fats": "0,35 г",
+        "carbohydrates": "2,76 г"
+    },
+    {
+        "tittle": "Брокколи, побеги, замороженные, вареные, без соли",
+        "callories": "28 кКал",
+        "proteins": "3,1 г",
+        "fats": "0,11 г",
+        "carbohydrates": "2,36 г"
+    },
+    {
+        "tittle": "Брокколи, побеги, замороженные, неприготовленные",
+        "callories": "29 кКал",
+        "proteins": "3,06 г",
+        "fats": "0,34 г",
+        "carbohydrates": "2,35 г"
+    },
+    {
+        "tittle": "Брокколи, стебель, сырая",
+        "callories": "28 кКал",
+        "proteins": "2,98 г",
+        "fats": "0,35 г",
+        "carbohydrates": "5,24 г"
+    },
+    {
+        "tittle": "Брокколи, цветы, сырая",
+        "callories": "28 кКал",
+        "proteins": "2,98 г",
+        "fats": "0,35 г",
+        "carbohydrates": "2,76 г"
+    },
+    {
+        "tittle": "Брюква",
+        "callories": "37 кКал",
+        "proteins": "1,2 г",
+        "fats": "0,1 г",
+        "carbohydrates": "7,7 г"
+    },
+    {
+        "tittle": "Брюква припущенная по 1-214",
+        "callories": "54 кКал",
+        "proteins": "1,3 г",
+        "fats": "1,6 г",
+        "carbohydrates": "8,4 г"
+    },
+    {
+        "tittle": "Брюква, вареная, без соли",
+        "callories": "30 кКал",
+        "proteins": "0,93 г",
+        "fats": "0,18 г",
+        "carbohydrates": "5,04 г"
+    },
+    {
+        "tittle": "Брюква, вареная, с солью",
+        "callories": "30 кКал",
+        "proteins": "0,93 г",
+        "fats": "0,18 г",
+        "carbohydrates": "5,04 г"
+    },
+    {
+        "tittle": "Брюква, сырая",
+        "callories": "37 кКал",
+        "proteins": "1,08 г",
+        "fats": "0,16 г",
+        "carbohydrates": "6,32 г"
+    },
+    {
+        "tittle": "Брюссельская капуста",
+        "callories": "35 кКал",
+        "proteins": "4,8 г",
+        "fats": "0,3 г",
+        "carbohydrates": "3,1 г"
+    },
+    {
+        "tittle": "Брюссельская капуста, вареная, без соли",
+        "callories": "36 кКал",
+        "proteins": "2,55 г",
+        "fats": "0,5 г",
+        "carbohydrates": "4,5 г"
+    },
+    {
+        "tittle": "Брюссельская капуста, вареная, с солью",
+        "callories": "36 кКал",
+        "proteins": "2,55 г",
+        "fats": "0,5 г",
+        "carbohydrates": "4,5 г"
+    },
+    {
+        "tittle": "Брюссельская капуста, замороженная, вареная, без соли",
+        "callories": "42 кКал",
+        "proteins": "3,64 г",
+        "fats": "0,39 г",
+        "carbohydrates": "4,22 г"
+    },
+    {
+        "tittle": "Брюссельская капуста, замороженная, вареная, с солью",
+        "callories": "42 кКал",
+        "proteins": "3,64 г",
+        "fats": "0,39 г",
+        "carbohydrates": "4,22 г"
+    },
+    {
+        "tittle": "Брюссельская капуста, замороженная, неприготовленная",
+        "callories": "41 кКал",
+        "proteins": "3,78 г",
+        "fats": "0,41 г",
+        "carbohydrates": "4,06 г"
+    },
+    {
+        "tittle": "Брюссельская капуста, сырая",
+        "callories": "43 кКал",
+        "proteins": "3,38 г",
+        "fats": "0,3 г",
+        "carbohydrates": "5,15 г"
+    },
+    {
+        "tittle": "Валерианелла, сырая",
+        "callories": "21 кКал",
+        "proteins": "2 г",
+        "fats": "0,4 г",
+        "carbohydrates": "3,6 г"
+    },
+    {
+        "tittle": "Вассаби, корень, сырой",
+        "callories": "109 кКал",
+        "proteins": "4,8 г",
+        "fats": "0,63 г",
+        "carbohydrates": "15,74 г"
+    },
+    {
+        "tittle": "Виноградные листья, консервированные",
+        "callories": "69 кКал",
+        "proteins": "4,27 г",
+        "fats": "1,97 г",
+        "carbohydrates": "1,81 г"
+    },
+    {
+        "tittle": "Виноградные листья, сырые",
+        "callories": "93 кКал",
+        "proteins": "5,6 г",
+        "fats": "2,12 г",
+        "carbohydrates": "6,31 г"
+    },
+    {
+        "tittle": "Водный шпинат (болотная капуста)",
+        "callories": "19 кКал",
+        "proteins": "2,6 г",
+        "fats": "0,2 г",
+        "carbohydrates": "1,03 г"
+    },
+    {
+        "tittle": "Водный шпинат (болотная капуста) вареный, без соли",
+        "callories": "20 кКал",
+        "proteins": "2,08 г",
+        "fats": "0,24 г",
+        "carbohydrates": "1,8 г"
+    },
+    {
+        "tittle": "Водный шпинат (болотная капуста) вареный, с солью",
+        "callories": "20 кКал",
+        "proteins": "2,08 г",
+        "fats": "0,24 г",
+        "carbohydrates": "1,8 г"
+    },
+    {
+        "tittle": "Водяной кресс (жеруха)",
+        "callories": "11 кКал",
+        "proteins": "2,3 г",
+        "fats": "0,1 г",
+        "carbohydrates": "0,79 г"
+    },
+    {
+        "tittle": "Восковая тыква, вареная, без соли",
+        "callories": "14 кКал",
+        "proteins": "0,4 г",
+        "fats": "0,2 г",
+        "carbohydrates": "2,04 г"
+    },
+    {
+        "tittle": "Восковая тыква, вареная, с солью",
+        "callories": "11 кКал",
+        "proteins": "0,4 г",
+        "fats": "0,2 г",
+        "carbohydrates": "1,45 г"
+    },
+    {
+        "tittle": "Восковая тыква, сырая",
+        "callories": "13 кКал",
+        "proteins": "0,4 г",
+        "fats": "0,2 г",
+        "carbohydrates": "0,1 г"
+    },
+    {
+        "tittle": "Голубцы овощные по 1-256",
+        "callories": "95 кКал",
+        "proteins": "2,2 г",
+        "fats": "5,2 г",
+        "carbohydrates": "9,7 г"
+    },
+    {
+        "tittle": "Горох и лук, замороженные, вареные, без соли",
+        "callories": "45 кКал",
+        "proteins": "2,54 г",
+        "fats": "0,2 г",
+        "carbohydrates": "6,43 г"
+    },
+    {
+        "tittle": "Горох и лук, замороженные, вареные, с солью",
+        "callories": "45 кКал",
+        "proteins": "2,54 г",
+        "fats": "0,2 г",
+        "carbohydrates": "6,43 г"
+    },
+    {
+        "tittle": "Горох и лук, замороженные, неприготовленные",
+        "callories": "70 кКал",
+        "proteins": "3,98 г",
+        "fats": "0,32 г",
+        "carbohydrates": "10,01 г"
+    },
+    {
+        "tittle": "Горох и лук, консервированные",
+        "callories": "51 кКал",
+        "proteins": "3,28 г",
+        "fats": "0,38 г",
+        "carbohydrates": "6,27 г"
+    },
+    {
+        "tittle": "Горох и морковь, замороженные, вареные, без соли",
+        "callories": "48 кКал",
+        "proteins": "3,09 г",
+        "fats": "0,42 г",
+        "carbohydrates": "7,02 г"
+    },
+    {
+        "tittle": "Горох и морковь, замороженные, вареные, с солью",
+        "callories": "48 кКал",
+        "proteins": "3,09 г",
+        "fats": "0,42 г",
+        "carbohydrates": "7,02 г"
+    },
+    {
+        "tittle": "Горох и морковь, замороженные, неприготовленные",
+        "callories": "53 кКал",
+        "proteins": "3,4 г",
+        "fats": "0,47 г",
+        "carbohydrates": "7,75 г"
+    },
+    {
+        "tittle": "Горох и морковь, консервированные, без добавления соли",
+        "callories": "38 кКал",
+        "proteins": "2,17 г",
+        "fats": "0,27 г",
+        "carbohydrates": "5,18 г"
+    },
+    {
+        "tittle": "Горох и морковь, консервированные, стандартная упаковка",
+        "callories": "38 кКал",
+        "proteins": "2,17 г",
+        "fats": "0,27 г",
+        "carbohydrates": "6,48 г"
+    },
+    {
+        "tittle": "Горчица листовая, вареная, без соли",
+        "callories": "26 кКал",
+        "proteins": "2,56 г",
+        "fats": "0,47 г",
+        "carbohydrates": "2,51 г"
+    },
+    {
+        "tittle": "Горчица листовая, вареная, с солью",
+        "callories": "26 кКал",
+        "proteins": "2,56 г",
+        "fats": "0,47 г",
+        "carbohydrates": "2,51 г"
+    },
+    {
+        "tittle": "Горчица листовая, замороженная, вареная, без соли",
+        "callories": "19 кКал",
+        "proteins": "2,27 г",
+        "fats": "0,25 г",
+        "carbohydrates": "0,31 г"
+    },
+    {
+        "tittle": "Горчица листовая, замороженная, вареная, с солью",
+        "callories": "19 кКал",
+        "proteins": "2,27 г",
+        "fats": "0,25 г",
+        "carbohydrates": "0,31 г"
+    },
+    {
+        "tittle": "Горчица листовая, замороженная, неприготовленная",
+        "callories": "20 кКал",
+        "proteins": "2,49 г",
+        "fats": "0,27 г",
+        "carbohydrates": "0,11 г"
+    },
+    {
+        "tittle": "Горчица листовая, сырая",
+        "callories": "27 кКал",
+        "proteins": "2,86 г",
+        "fats": "0,42 г",
+        "carbohydrates": "1,47 г"
+    },
+    {
+        "tittle": "Горчица шпинатная, вареная, без соли",
+        "callories": "16 кКал",
+        "proteins": "1,7 г",
+        "fats": "0,2 г",
+        "carbohydrates": "0,8 г"
+    },
+    {
+        "tittle": "Горчица шпинатная, вареная, с солью",
+        "callories": "16 кКал",
+        "proteins": "1,7 г",
+        "fats": "0,2 г",
+        "carbohydrates": "0,8 г"
+    },
+    {
+        "tittle": "Горчица шпинатная, сырая",
+        "callories": "22 кКал",
+        "proteins": "2,2 г",
+        "fats": "0,3 г",
+        "carbohydrates": "1,1 г"
+    },
+    {
+        "tittle": "Гратен из картофеля",
+        "callories": "134 кКал",
+        "proteins": "5,06 г",
+        "fats": "7,59 г",
+        "carbohydrates": "9,46 г"
+    },
+    {
+        "tittle": "Гратен из картофеля, домашнего приготовления по рецепту с добавлением маргарина",
+        "callories": "132 кКал",
+        "proteins": "5,06 г",
+        "fats": "7,59 г",
+        "carbohydrates": "9,47 г"
+    },
+    {
+        "tittle": "Гратен из картофеля, сухая смесь, неприготовленный",
+        "callories": "314 кКал",
+        "proteins": "8,9 г",
+        "fats": "3,7 г",
+        "carbohydrates": "70,21 г"
+    },
+    {
+        "tittle": "Гратен из картофеля, сухая смесь, приготовленный с добавлением воды, молока и масла",
+        "callories": "93 кКал",
+        "proteins": "2,3 г",
+        "fats": "4,12 г",
+        "carbohydrates": "11,94 г"
+    },
+    {
+        "tittle": "Грифола курчавая, гриб-баран, мейтаке",
+        "callories": "31 кКал",
+        "proteins": "1,94 г",
+        "fats": "0,19 г",
+        "carbohydrates": "4,27 г"
+    },
+    {
+        "tittle": "Джут длинноплодный, вареный, без соли",
+        "callories": "37 кКал",
+        "proteins": "3,68 г",
+        "fats": "0,2 г",
+        "carbohydrates": "5,29 г"
+    },
+    {
+        "tittle": "Джут длинноплодный, вареный, с солью",
+        "callories": "37 кКал",
+        "proteins": "3,68 г",
+        "fats": "0,2 г",
+        "carbohydrates": "5,29 г"
+    },
+    {
+        "tittle": "Джут длинноплодный, сырой",
+        "callories": "34 кКал",
+        "proteins": "4,65 г",
+        "fats": "0,25 г",
+        "carbohydrates": "5,8 г"
+    },
+    {
+        "tittle": "Драники картофельные по 1-242",
+        "callories": "127 кКал",
+        "proteins": "2,7 г",
+        "fats": "4,5 г",
+        "carbohydrates": "18,6 г"
+    },
+    {
+        "tittle": "Желуди, тушеные, апачи",
+        "callories": "95 кКал",
+        "proteins": "6,81 г",
+        "fats": "3,47 г",
+        "carbohydrates": "8,52 г"
+    },
+    {
+        "tittle": "Закуска чау-чау, маринованные огурцы и овощи с горчицей, сладкая",
+        "callories": "121 кКал",
+        "proteins": "1,5 г",
+        "fats": "0,9 г",
+        "carbohydrates": "25,14 г"
+    },
+    {
+        "tittle": "Запеканка из тыквы по 1-254",
+        "callories": "137 кКал",
+        "proteins": "4,1 г",
+        "fats": "6,1 г",
+        "carbohydrates": "16,3 г"
+    },
+    {
+        "tittle": "Запеканка капустная по 1-248",
+        "callories": "114 кКал",
+        "proteins": "3,1 г",
+        "fats": "5,2 г",
+        "carbohydrates": "13,5 г"
+    },
+    {
+        "tittle": "Запеканка картофельная с овощами по 1-248",
+        "callories": "136 кКал",
+        "proteins": "3 г",
+        "fats": "5,9 г",
+        "carbohydrates": "17,5 г"
+    },
+    {
+        "tittle": "Зелень кориандра (кинза), сырая",
+        "callories": "23 кКал",
+        "proteins": "2,13 г",
+        "fats": "0,52 г",
+        "carbohydrates": "0,87 г"
+    },
+    {
+        "tittle": "Икра баклажановая. Консервы",
+        "callories": "148 кКал",
+        "proteins": "1,7 г",
+        "fats": "13,3 г",
+        "carbohydrates": "5,1 г"
+    },
+    {
+        "tittle": "Икра кабачковая по 1-92",
+        "callories": "78 кКал",
+        "proteins": "1,2 г",
+        "fats": "4,7 г",
+        "carbohydrates": "7,7 г"
+    },
+    {
+        "tittle": "Икра кабачковая. Консервы",
+        "callories": "119 кКал",
+        "proteins": "1,9 г",
+        "fats": "8,9 г",
+        "carbohydrates": "7,7 г"
+    },
+    {
+        "tittle": "Икра свекольная по 1-96",
+        "callories": "119 кКал",
+        "proteins": "2,3 г",
+        "fats": "6,8 г",
+        "carbohydrates": "11,7 г"
+    },
+    {
+        "tittle": "Имбиря корень маринованный, консервированный, с искуственным подсластителем",
+        "callories": "20 кКал",
+        "proteins": "0,33 г",
+        "fats": "0,1 г",
+        "carbohydrates": "2,23 г"
+    },
+    {
+        "tittle": "Имбиря корень сырой",
+        "callories": "80 кКал",
+        "proteins": "1,82 г",
+        "fats": "0,75 г",
+        "carbohydrates": "15,77 г"
+    },
+    {
+        "tittle": "Кабачки жареные по 1-238",
+        "callories": "88 кКал",
+        "proteins": "1,1 г",
+        "fats": "5,9 г",
+        "carbohydrates": "7,5 г"
+    },
+    {
+        "tittle": "Кабачки запеченные по 1-258",
+        "callories": "140 кКал",
+        "proteins": "2,7 г",
+        "fats": "10 г",
+        "carbohydrates": "9,7 г"
+    },
+    {
+        "tittle": "Кабачки припущенные по 1-216",
+        "callories": "39 кКал",
+        "proteins": "0,7 г",
+        "fats": "1,8 г",
+        "carbohydrates": "5 г"
+    },
+    {
+        "tittle": "Кабачки тушенные в сметане по 2-52",
+        "callories": "69 кКал",
+        "proteins": "1 г",
+        "fats": "4,7 г",
+        "carbohydrates": "5,9 г"
+    },
+    {
+        "tittle": "Кабачки фаршированные овощами по 1-94",
+        "callories": "130 кКал",
+        "proteins": "2,3 г",
+        "fats": "10,5 г",
+        "carbohydrates": "6,3 г"
+    },
+    {
+        "tittle": "Кабачок",
+        "callories": "24 кКал",
+        "proteins": "0,6 г",
+        "fats": "0,3 г",
+        "carbohydrates": "4,6 г"
+    },
+    {
+        "tittle": "Кабачок желтый",
+        "callories": "19 кКал",
+        "proteins": "1,01 г",
+        "fats": "0,27 г",
+        "carbohydrates": "2,88 г"
+    },
+    {
+        "tittle": "Кабачок желтый вареный, без соли",
+        "callories": "19 кКал",
+        "proteins": "1,04 г",
+        "fats": "0,39 г",
+        "carbohydrates": "2,69 г"
+    },
+    {
+        "tittle": "Кабачок желтый вареный, с солью",
+        "callories": "19 кКал",
+        "proteins": "1,04 г",
+        "fats": "0,39 г",
+        "carbohydrates": "2,69 г"
+    },
+    {
+        "tittle": "Кабачок желтый консервированный, без соли",
+        "callories": "13 кКал",
+        "proteins": "0,61 г",
+        "fats": "0,07 г",
+        "carbohydrates": "1,56 г"
+    },
+    {
+        "tittle": "Кабачок желтый, замороженный",
+        "callories": "20 кКал",
+        "proteins": "0,83 г",
+        "fats": "0,14 г",
+        "carbohydrates": "3,6 г"
+    },
+    {
+        "tittle": "Кабачок желтый, замороженный, вареный, без соли",
+        "callories": "25 кКал",
+        "proteins": "1,28 г",
+        "fats": "0,2 г",
+        "carbohydrates": "4,14 г"
+    },
+    {
+        "tittle": "Кабачок желтый, замороженный, вареный, с солью",
+        "callories": "25 кКал",
+        "proteins": "1,28 г",
+        "fats": "0,2 г",
+        "carbohydrates": "4,14 г"
+    },
+    {
+        "tittle": "Кабачок, все сорта",
+        "callories": "16 кКал",
+        "proteins": "1,21 г",
+        "fats": "0,18 г",
+        "carbohydrates": "2,25 г"
+    },
+    {
+        "tittle": "Кабачок, все сорта, вареный, без соли",
+        "callories": "20 кКал",
+        "proteins": "0,91 г",
+        "fats": "0,31 г",
+        "carbohydrates": "2,91 г"
+    },
+    {
+        "tittle": "Кабачок, все сорта, вареный, с солью",
+        "callories": "20 кКал",
+        "proteins": "0,91 г",
+        "fats": "0,31 г",
+        "carbohydrates": "2,91 г"
+    },
+    {
+        "tittle": "Кале (кудрявая капуста, браунколь)",
+        "callories": "35 кКал",
+        "proteins": "2,92 г",
+        "fats": "1,49 г",
+        "carbohydrates": "0,32 г"
+    },
+    {
+        "tittle": "Кале (кудрявая капуста, браунколь), вареная, без соли",
+        "callories": "36 кКал",
+        "proteins": "2,94 г",
+        "fats": "1,21 г",
+        "carbohydrates": "1,3 г"
+    },
+    {
+        "tittle": "Кале (кудрявая капуста, браунколь), вареная, замороженная, без соли",
+        "callories": "36 кКал",
+        "proteins": "2,94 г",
+        "fats": "1,21 г",
+        "carbohydrates": "3 г"
+    },
+    {
+        "tittle": "Кале (кудрявая капуста, браунколь), замороженная, неприготовленная",
+        "callories": "28 кКал",
+        "proteins": "2,66 г",
+        "fats": "0,46 г",
+        "carbohydrates": "2,88 г"
+    },
+    {
+        "tittle": "Кале, вареная, с солью",
+        "callories": "44 кКал",
+        "proteins": "2,94 г",
+        "fats": "1,21 г",
+        "carbohydrates": "3 г"
+    },
+    {
+        "tittle": "Кале, замороженная, вареная с солью",
+        "callories": "36 кКал",
+        "proteins": "2,94 г",
+        "fats": "1,21 г",
+        "carbohydrates": "3 г"
+    },
+    {
+        "tittle": "Каперсы, консервированные",
+        "callories": "23 кКал",
+        "proteins": "2,36 г",
+        "fats": "0,86 г",
+        "carbohydrates": "1,69 г"
+    },
+    {
+        "tittle": "Капуста белокочанная",
+        "callories": "25 кКал",
+        "proteins": "1,28 г",
+        "fats": "0,1 г",
+        "carbohydrates": "3,3 г"
+    },
+    {
+        "tittle": "Капуста белокочанная",
+        "callories": "28 кКал",
+        "proteins": "1,8 г",
+        "fats": "0,2 г",
+        "carbohydrates": "4,7 г"
+    },
+    {
+        "tittle": "Капуста белокочанная (датская, домашняя и сорта конической формы), прошлогодняя",
+        "callories": "24 кКал",
+        "proteins": "1,21 г",
+        "fats": "0,18 г",
+        "carbohydrates": "3,07 г"
+    },
+    {
+        "tittle": "Капуста белокочанная (датская, домашняя и сорта конической формы), урожая текущего года, сырая",
+        "callories": "24 кКал",
+        "proteins": "1,21 г",
+        "fats": "0,18 г",
+        "carbohydrates": "3,07 г"
+    },
+    {
+        "tittle": "Капуста белокочанная, вареная, без соли",
+        "callories": "23 кКал",
+        "proteins": "1,27 г",
+        "fats": "0,06 г",
+        "carbohydrates": "3,61 г"
+    },
+    {
+        "tittle": "Капуста белокочанная, вареная, с солью",
+        "callories": "23 кКал",
+        "proteins": "1,27 г",
+        "fats": "0,06 г",
+        "carbohydrates": "3,61 г"
+    },
+    {
+        "tittle": "Капуста белокочанная, квашеная",
+        "callories": "23 кКал",
+        "proteins": "1,8 г",
+        "fats": "0,1 г",
+        "carbohydrates": "3 г"
+    },
+    {
+        "tittle": "Капуста жареная по 2-50",
+        "callories": "50 кКал",
+        "proteins": "1,8 г",
+        "fats": "2,8 г",
+        "carbohydrates": "4,2 г"
+    },
+    {
+        "tittle": "Капуста запеченная по 1-256",
+        "callories": "113 кКал",
+        "proteins": "2,8 г",
+        "fats": "8 г",
+        "carbohydrates": "7,3 г"
+    },
+    {
+        "tittle": "Капуста квашеная, консервированная",
+        "callories": "19 кКал",
+        "proteins": "0,91 г",
+        "fats": "0,14 г",
+        "carbohydrates": "1,38 г"
+    },
+    {
+        "tittle": "Капуста краснокочанная",
+        "callories": "26 кКал",
+        "proteins": "0,8 г",
+        "fats": "0,2 г",
+        "carbohydrates": "5,1 г"
+    },
+    {
+        "tittle": "Капуста краснокочанная, вареная, без соли",
+        "callories": "29 кКал",
+        "proteins": "1,51 г",
+        "fats": "0,09 г",
+        "carbohydrates": "4,34 г"
+    },
+    {
+        "tittle": "Капуста краснокочанная, вареная, с солью",
+        "callories": "29 кКал",
+        "proteins": "1,51 г",
+        "fats": "0,09 г",
+        "carbohydrates": "4,34 г"
+    },
+    {
+        "tittle": "Капуста краснокочанная, сырая",
+        "callories": "31 кКал",
+        "proteins": "1,43 г",
+        "fats": "0,16 г",
+        "carbohydrates": "5,27 г"
+    },
+    {
+        "tittle": "Капуста маринованная по-японски",
+        "callories": "30 кКал",
+        "proteins": "1,6 г",
+        "fats": "0,1 г",
+        "carbohydrates": "2,57 г"
+    },
+    {
+        "tittle": "Капуста отварная по 1-210",
+        "callories": "24 кКал",
+        "proteins": "1,4 г",
+        "fats": "0,1 г",
+        "carbohydrates": "4,2 г"
+    },
+    {
+        "tittle": "Капуста пекинская, приготовленная",
+        "callories": "12 кКал",
+        "proteins": "1,1 г",
+        "fats": "0,17 г",
+        "carbohydrates": "2,23 г"
+    },
+    {
+        "tittle": "Капуста припущенная по 1-218",
+        "callories": "37 кКал",
+        "proteins": "1,7 г",
+        "fats": "1,5 г",
+        "carbohydrates": "4 г"
+    },
+    {
+        "tittle": "Капуста тушеная по 1-220",
+        "callories": "75 кКал",
+        "proteins": "2 г",
+        "fats": "3,3 г",
+        "carbohydrates": "9,2 г"
+    },
+    {
+        "tittle": "Капустные котлеты по 1-236",
+        "callories": "153 кКал",
+        "proteins": "4,2 г",
+        "fats": "8,2 г",
+        "carbohydrates": "15,3 г"
+    },
+    {
+        "tittle": "Картофель",
+        "callories": "77 кКал",
+        "proteins": "2 г",
+        "fats": "0,4 г",
+        "carbohydrates": "16,3 г"
+    },
+    {
+        "tittle": "Картофель белый неочищенный, печеный",
+        "callories": "92 кКал",
+        "proteins": "2,1 г",
+        "fats": "0,15 г",
+        "carbohydrates": "18,98 г"
+    },
+    {
+        "tittle": "Картофель белый неочищенный, сырой",
+        "callories": "69 кКал",
+        "proteins": "1,68 г",
+        "fats": "0,1 г",
+        "carbohydrates": "13,31 г"
+    },
+    {
+        "tittle": "Картофель дольками, замороженный",
+        "callories": "129 кКал",
+        "proteins": "2,7 г",
+        "fats": "2,2 г",
+        "carbohydrates": "23,46 г"
+    },
+    {
+        "tittle": "Картофель жареный брусочками по 1-230",
+        "callories": "192 кКал",
+        "proteins": "2,8 г",
+        "fats": "9,6 г",
+        "carbohydrates": "23,5 г"
+    },
+    {
+        "tittle": "Картофель жареный во фритюре по 1-230 (картофель фри)",
+        "callories": "276 кКал",
+        "proteins": "3,8 г",
+        "fats": "15,5 г",
+        "carbohydrates": "30,1 г"
+    },
+    {
+        "tittle": "Картофель жареный ломтиками (из отварного) по 1-230",
+        "callories": "161 кКал",
+        "proteins": "2,3 г",
+        "fats": "8,6 г",
+        "carbohydrates": "18,6 г"
+    },
+    {
+        "tittle": "Картофель красный неочищенный, печеный",
+        "callories": "87 кКал",
+        "proteins": "2,3 г",
+        "fats": "0,15 г",
+        "carbohydrates": "17,79 г"
+    },
+    {
+        "tittle": "Картофель красный неочищенный, сырой",
+        "callories": "70 кКал",
+        "proteins": "1,89 г",
+        "fats": "0,14 г",
+        "carbohydrates": "14,2 г"
+    },
+    {
+        "tittle": "Картофель красный, запечённый с кожурой",
+        "callories": "87 кКал",
+        "proteins": "2,3 г",
+        "fats": "0,15 г",
+        "carbohydrates": "17,79 г"
+    },
+    {
+        "tittle": "Картофель неочищенный, сырой",
+        "callories": "77 кКал",
+        "proteins": "2,05 г",
+        "fats": "0,09 г",
+        "carbohydrates": "15,39 г"
+    },
+    {
+        "tittle": "Картофель О'Брайен (с болгарским перцем) домашнего приготовления",
+        "callories": "81 кКал",
+        "proteins": "2,35 г",
+        "fats": "1,28 г",
+        "carbohydrates": "15,47 г"
+    },
+    {
+        "tittle": "Картофель О'Брайен, замороженный, неприготовленный",
+        "callories": "76 кКал",
+        "proteins": "1,83 г",
+        "fats": "0,14 г",
+        "carbohydrates": "15,57 г"
+    },
+    {
+        "tittle": "Картофель О'Брайен, замороженный, приготовленный",
+        "callories": "204 кКал",
+        "proteins": "2,22 г",
+        "fats": "13,21 г",
+        "carbohydrates": "20,16 г"
+    },
+    {
+        "tittle": "Картофель отваренный в кожуре (в мундире), без соли",
+        "callories": "87 кКал",
+        "proteins": "1,87 г",
+        "fats": "0,1 г",
+        "carbohydrates": "18,33 г"
+    },
+    {
+        "tittle": "Картофель отваренный в кожуре (в мундире), кожура с солью",
+        "callories": "78 кКал",
+        "proteins": "2,86 г",
+        "fats": "0,1 г",
+        "carbohydrates": "13,9 г"
+    },
+    {
+        "tittle": "Картофель отваренный в кожуре (в мундире), кожура, без добавления соли",
+        "callories": "78 кКал",
+        "proteins": "2,86 г",
+        "fats": "0,1 г",
+        "carbohydrates": "13,91 г"
+    },
+    {
+        "tittle": "Картофель отваренный в кожуре (в мундире), с солью",
+        "callories": "87 кКал",
+        "proteins": "1,87 г",
+        "fats": "0,1 г",
+        "carbohydrates": "18,13 г"
+    },
+    {
+        "tittle": "Картофель отварной без соли",
+        "callories": "86 кКал",
+        "proteins": "1,71 г",
+        "fats": "0,1 г",
+        "carbohydrates": "18,21 г"
+    },
+    {
+        "tittle": "Картофель отварной по 1-206",
+        "callories": "75 кКал",
+        "proteins": "2 г",
+        "fats": "0,4 г",
+        "carbohydrates": "15,8 г"
+    },
+    {
+        "tittle": "Картофель отварной с солью",
+        "callories": "86 кКал",
+        "proteins": "1,71 г",
+        "fats": "0,1 г",
+        "carbohydrates": "18,01 г"
+    },
+    {
+        "tittle": "Картофель печеный, кожура, без соли",
+        "callories": "198 кКал",
+        "proteins": "4,29 г",
+        "fats": "0,1 г",
+        "carbohydrates": "38,16 г"
+    },
+    {
+        "tittle": "Картофель печеный, с солью",
+        "callories": "93 кКал",
+        "proteins": "1,96 г",
+        "fats": "0,1 г",
+        "carbohydrates": "20,05 г"
+    },
+    {
+        "tittle": "Картофель печеный, сердцевина и кожура, с солью",
+        "callories": "93 кКал",
+        "proteins": "2,5 г",
+        "fats": "0,13 г",
+        "carbohydrates": "18,95 г"
+    },
+    {
+        "tittle": "Картофель печеный, сердцевина с кожурой, без соли",
+        "callories": "93 кКал",
+        "proteins": "2,5 г",
+        "fats": "0,13 г",
+        "carbohydrates": "18,95 г"
+    },
+    {
+        "tittle": "Картофель печеный, сердцевина, без соли",
+        "callories": "93 кКал",
+        "proteins": "1,96 г",
+        "fats": "0,1 г",
+        "carbohydrates": "20,05 г"
+    },
+    {
+        "tittle": "Картофель по-селянски, замороженный, неприготовленный",
+        "callories": "153 кКал",
+        "proteins": "2,42 г",
+        "fats": "5,78 г",
+        "carbohydrates": "20,98 г"
+    },
+    {
+        "tittle": "Картофель по-селянски, замороженный, приготовленный без соли, после приготовления в духовке",
+        "callories": "218 кКал",
+        "proteins": "3,44 г",
+        "fats": "8,2 г",
+        "carbohydrates": "30,83 г"
+    },
+    {
+        "tittle": "Картофель по-селянски, замороженный, приготовленный с солью, после приготовление в духовке",
+        "callories": "218 кКал",
+        "proteins": "3,44 г",
+        "fats": "8,2 г",
+        "carbohydrates": "30,83 г"
+    },
+    {
+        "tittle": "Картофель сорта Рассет",
+        "callories": "79 кКал",
+        "proteins": "2,14 г",
+        "fats": "0,08 г",
+        "carbohydrates": "16,77 г"
+    },
+    {
+        "tittle": "Картофель сорта Рассет, печеный, сердцевина с кожурой",
+        "callories": "95 кКал",
+        "proteins": "2,63 г",
+        "fats": "0,13 г",
+        "carbohydrates": "19,14 г"
+    },
+    {
+        "tittle": "Картофель сушеный",
+        "callories": "317 кКал",
+        "proteins": "6,6 г",
+        "fats": "0,3 г",
+        "carbohydrates": "71,6 г"
+    },
+    {
+        "tittle": "Картофель-пюре домашнего приготовления с добавлением молока и маргарина",
+        "callories": "113 кКал",
+        "proteins": "1,96 г",
+        "fats": "4,2 г",
+        "carbohydrates": "15,44 г"
+    },
+    {
+        "tittle": "Картофель-пюре сушеный (дегидрированный), в гранулах не содерщих молока, в сухой форме",
+        "callories": "372 кКал",
+        "proteins": "8,22 г",
+        "fats": "0,54 г",
+        "carbohydrates": "78,41 г"
+    },
+    {
+        "tittle": "Картофель-пюре сушеный (дегидрированный), в гранулах содерщих молоко, в сухой форме",
+        "callories": "357 кКал",
+        "proteins": "10,9 г",
+        "fats": "1,1 г",
+        "carbohydrates": "71,1 г"
+    },
+    {
+        "tittle": "Картофель-пюре сушеный (дегидрированный), приготовленный из гранул не содержащих молока,  с добавлением молока и масла по завершению приготовления",
+        "callories": "108 кКал",
+        "proteins": "2,05 г",
+        "fats": "4,96 г",
+        "carbohydrates": "12,16 г"
+    },
+    {
+        "tittle": "Картофель-пюре сушеный (дегидрированный), приготовленный из гранул содержащих молоко, с добавлением воды и маргарина по завершению приготовления",
+        "callories": "116 кКал",
+        "proteins": "2,13 г",
+        "fats": "4,8 г",
+        "carbohydrates": "14,83 г"
+    },
+    {
+        "tittle": "Картофель-пюре сушеный (дегидрированный), приготовленный из хлопьев не содержащих молока, с добавлением молока и масла по завершению приготовления",
+        "callories": "97 кКал",
+        "proteins": "1,77 г",
+        "fats": "5,13 г",
+        "carbohydrates": "10,07 г"
+    },
+    {
+        "tittle": "Картофель-пюре, приготовленный из гранул не содержащих молоко, в конце приготовления  добавлены молоко и маргарин",
+        "callories": "108 кКал",
+        "proteins": "2,05 г",
+        "fats": "4,93 г",
+        "carbohydrates": "12,2 г"
+    },
+    {
+        "tittle": "Картофель-пюре, приготовленный из хлопьев не содержащих молоко, в конце приготовления  добавлены молоко и маргарин",
+        "callories": "113 кКал",
+        "proteins": "1,9 г",
+        "fats": "5,6 г",
+        "carbohydrates": "12,72 г"
+    },
+    {
+        "tittle": "Картофель-фри всех типов, без добавления соли в процессе жарки, замороженный, до готовки (в сыром виде)",
+        "callories": "147 кКал",
+        "proteins": "2,24 г",
+        "fats": "4,66 г",
+        "carbohydrates": "22,91 г"
+    },
+    {
+        "tittle": "Картофель-фри всех типов, без добавления соли в процессе жарки, замороженный, после приготовление в духовке",
+        "callories": "168 кКал",
+        "proteins": "2,66 г",
+        "fats": "5,22 г",
+        "carbohydrates": "26,11 г"
+    },
+    {
+        "tittle": "Картофель-фри всех типов, с добавлением соли, замороженный, домашнего приготовления, после приготовления в духовке",
+        "callories": "158 кКал",
+        "proteins": "2,75 г",
+        "fats": "5,48 г",
+        "carbohydrates": "23,55 г"
+    },
+    {
+        "tittle": "Картофель-фри всех типов, с добавлением соли, замороженный, неприготовленный",
+        "callories": "147 кКал",
+        "proteins": "2,24 г",
+        "fats": "4,66 г",
+        "carbohydrates": "22,91 г"
+    },
+    {
+        "tittle": "Картофель-фри со стейком, с добавлением соли в процессе жарки, замороженный, до готовки (в сыром виде)",
+        "callories": "130 кКал",
+        "proteins": "2,19 г",
+        "fats": "3,39 г",
+        "carbohydrates": "21,61 г"
+    },
+    {
+        "tittle": "Картофель-фри со стейком, с добавлением соли в процессе жарки, замороженный, после приготовления в духовке",
+        "callories": "148 кКал",
+        "proteins": "2,57 г",
+        "fats": "3,76 г",
+        "carbohydrates": "24,38 г"
+    },
+    {
+        "tittle": "Картофель-фри, прессованный, замороженный, неприготовленный",
+        "callories": "260 кКал",
+        "proteins": "2,83 г",
+        "fats": "14,95 г",
+        "carbohydrates": "27,25 г"
+    },
+    {
+        "tittle": "Картофель-фри, прессованный, замороженный, приготовленный без соли, после приготовления в духовке",
+        "callories": "333 кКал",
+        "proteins": "3,55 г",
+        "fats": "18,71 г",
+        "carbohydrates": "36,48 г"
+    },
+    {
+        "tittle": "Картофель-фри, с добавлением соли в процессе жарки, замороженный, до готовки (в сыром виде)",
+        "callories": "163 кКал",
+        "proteins": "2,16 г",
+        "fats": "6,24 г",
+        "carbohydrates": "23,29 г"
+    },
+    {
+        "tittle": "Картофель-фри, с добавлением соли в процессе жарки, замороженный, после приготовления в духовке",
+        "callories": "194 кКал",
+        "proteins": "2,9 г",
+        "fats": "6,76 г",
+        "carbohydrates": "28,86 г"
+    },
+    {
+        "tittle": "Картофель-фри, фигурной или прямой порезки, с добавлением соли в процессе жарки, замороженный, до готовки (в сыром виде)",
+        "callories": "146 кКал",
+        "proteins": "2,34 г",
+        "fats": "4,99 г",
+        "carbohydrates": "21,96 г"
+    },
+    {
+        "tittle": "Картофель-фри, фигурной или прямой порезки, с добавлением соли в процессе жарки, замороженный, после приготовления в духовке",
+        "callories": "161 кКал",
+        "proteins": "2,51 г",
+        "fats": "5,13 г",
+        "carbohydrates": "25,2 г"
+    },
+    {
+        "tittle": "Картофель, замороженный целиком, вареный, без соли",
+        "callories": "65 кКал",
+        "proteins": "1,98 г",
+        "fats": "0,13 г",
+        "carbohydrates": "13,12 г"
+    },
+    {
+        "tittle": "Картофель, замороженный целиком, вареный, без соли",
+        "callories": "63 кКал",
+        "proteins": "1,98 г",
+        "fats": "0,13 г",
+        "carbohydrates": "12,53 г"
+    },
+    {
+        "tittle": "Картофель, запеченный в сметанном соусе по 1-244",
+        "callories": "114 кКал",
+        "proteins": "2,5 г",
+        "fats": "5,3 г",
+        "carbohydrates": "13,8 г"
+    },
+    {
+        "tittle": "Картофель, запеченный с яйцом по 1-244",
+        "callories": "228 кКал",
+        "proteins": "4,7 г",
+        "fats": "14,5 г",
+        "carbohydrates": "19,5 г"
+    },
+    {
+        "tittle": "Картофель, консервированный",
+        "callories": "44 кКал",
+        "proteins": "1,2 г",
+        "fats": "0,11 г",
+        "carbohydrates": "8,49 г"
+    },
+    {
+        "tittle": "Картофель, консервированный, без добавления соли, сухой продукт без маринада",
+        "callories": "60 кКал",
+        "proteins": "1,4 г",
+        "fats": "0,2 г",
+        "carbohydrates": "11,2 г"
+    },
+    {
+        "tittle": "Картофель, консервированный, сухой продукт без маринада",
+        "callories": "60 кКал",
+        "proteins": "1,41 г",
+        "fats": "0,21 г",
+        "carbohydrates": "11,31 г"
+    },
+    {
+        "tittle": "Картофель, приготовленный в микроволновой печи  в кожуре, с солью, целиком",
+        "callories": "105 кКал",
+        "proteins": "2,44 г",
+        "fats": "0,1 г",
+        "carbohydrates": "21,94 г"
+    },
+    {
+        "tittle": "Картофель, приготовленный в микроволновой печи в кожуре, без соли, целиком",
+        "callories": "105 кКал",
+        "proteins": "2,44 г",
+        "fats": "0,1 г",
+        "carbohydrates": "21,94 г"
+    },
+    {
+        "tittle": "Картофель, приготовленный в микроволновой печи в кожуре, сердцевина, без соли",
+        "callories": "100 кКал",
+        "proteins": "2,1 г",
+        "fats": "0,1 г",
+        "carbohydrates": "21,68 г"
+    },
+    {
+        "tittle": "Картофель, приготовленный в микроволновой печи в кожуре, сердцевина, с солью",
+        "callories": "100 кКал",
+        "proteins": "2,1 г",
+        "fats": "0,1 г",
+        "carbohydrates": "21,68 г"
+    },
+    {
+        "tittle": "Картофель, приготовленный в микроволновой печи, только кожура, без  соли",
+        "callories": "132 кКал",
+        "proteins": "4,39 г",
+        "fats": "0,1 г",
+        "carbohydrates": "24,13 г"
+    },
+    {
+        "tittle": "Картофель, приготовленный в микроволновой печи, только кожура, с солью",
+        "callories": "132 кКал",
+        "proteins": "4,39 г",
+        "fats": "0,1 г",
+        "carbohydrates": "24,13 г"
+    },
+    {
+        "tittle": "Картофель, тушенный с грибами по 1-226",
+        "callories": "134 кКал",
+        "proteins": "2,5 г",
+        "fats": "7,7 г",
+        "carbohydrates": "13,4 г"
+    },
+    {
+        "tittle": "Картофельная кожура, запеченая с солью",
+        "callories": "198 кКал",
+        "proteins": "4,29 г",
+        "fats": "0,1 г",
+        "carbohydrates": "38,16 г"
+    },
+    {
+        "tittle": "Картофельная кожура, сырая",
+        "callories": "58 кКал",
+        "proteins": "2,57 г",
+        "fats": "0,1 г",
+        "carbohydrates": "9,94 г"
+    },
+    {
+        "tittle": "Картофельное пюре по 1-208",
+        "callories": "75 кКал",
+        "proteins": "2,1 г",
+        "fats": "0,8 г",
+        "carbohydrates": "14,7 г"
+    },
+    {
+        "tittle": "Картофельное пюре с молоком",
+        "callories": "83 кКал",
+        "proteins": "1,91 г",
+        "fats": "0,57 г",
+        "carbohydrates": "16,07 г"
+    },
+    {
+        "tittle": "Картофельное пюре с молоком и маслом",
+        "callories": "113 кКал",
+        "proteins": "1,86 г",
+        "fats": "4,22 г",
+        "carbohydrates": "15,31 г"
+    },
+    {
+        "tittle": "Картофельное пюре сухое, растворимое, быстрого приготовления (хлопья, крупка)",
+        "callories": "350 кКал",
+        "proteins": "5,6 г",
+        "fats": "0,2 г",
+        "carbohydrates": "79,1 г"
+    },
+    {
+        "tittle": "Картофельное пюре сухое, хлопья без молока",
+        "callories": "354 кКал",
+        "proteins": "8,34 г",
+        "fats": "0,41 г",
+        "carbohydrates": "74,57 г"
+    },
+    {
+        "tittle": "Картофельные зразы по 1-232",
+        "callories": "152 кКал",
+        "proteins": "2,8 г",
+        "fats": "6,4 г",
+        "carbohydrates": "20,3 г"
+    },
+    {
+        "tittle": "Картофельные котлеты по 1-232",
+        "callories": "142 кКал",
+        "proteins": "2,8 г",
+        "fats": "4,7 г",
+        "carbohydrates": "22 г"
+    },
+    {
+        "tittle": "Картофельные котлеты с творогом по 1-232",
+        "callories": "179 кКал",
+        "proteins": "8,1 г",
+        "fats": "9,7 г",
+        "carbohydrates": "15,8 г"
+    },
+    {
+        "tittle": "Картофельные котлеты, запеченные по 1-248",
+        "callories": "139 кКал",
+        "proteins": "2,8 г",
+        "fats": "6,9 г",
+        "carbohydrates": "16,2 г"
+    },
+    {
+        "tittle": "Картофельные оладьи",
+        "callories": "268 кКал",
+        "proteins": "6,08 г",
+        "fats": "14,76 г",
+        "carbohydrates": "24,51 г"
+    },
+    {
+        "tittle": "Картофельные шарики, замороженные, неприготовленные",
+        "callories": "178 кКал",
+        "proteins": "1,93 г",
+        "fats": "8,71 г",
+        "carbohydrates": "22,5 г"
+    },
+    {
+        "tittle": "Картофельные шарики, замороженные, приготовленые в духовке",
+        "callories": "192 кКал",
+        "proteins": "2,13 г",
+        "fats": "9,05 г",
+        "carbohydrates": "25,29 г"
+    },
+    {
+        "tittle": "Картофельный салат домашнего приготовления",
+        "callories": "143 кКал",
+        "proteins": "2,68 г",
+        "fats": "8,2 г",
+        "carbohydrates": "9,87 г"
+    },
+    {
+        "tittle": "Каша из тыквы по 1-218",
+        "callories": "87 кКал",
+        "proteins": "2,1 г",
+        "fats": "1,7 г",
+        "carbohydrates": "15,7 г"
+    },
+    {
+        "tittle": "Кимчи (кимчхи, кимча), квашеная острая пекинская капуста",
+        "callories": "15 кКал",
+        "proteins": "1,1 г",
+        "fats": "0,5 г",
+        "carbohydrates": "0,8 г"
+    },
+    {
+        "tittle": "Кипрей, сырой",
+        "callories": "150 кКал",
+        "proteins": "4,6 г",
+        "fats": "1,8 г",
+        "carbohydrates": "31,68 г"
+    },
+    {
+        "tittle": "Китайская брокколи (кай-лан, гайлан)",
+        "callories": "26 кКал",
+        "proteins": "1,2 г",
+        "fats": "0,76 г",
+        "carbohydrates": "2,07 г"
+    },
+    {
+        "tittle": "Китайская горькая тыква, листья",
+        "callories": "30 кКал",
+        "proteins": "5,3 г",
+        "fats": "0,69 г",
+        "carbohydrates": "3,29 г"
+    },
+    {
+        "tittle": "Китайская горькая тыква, листья, вареные с солью",
+        "callories": "32 кКал",
+        "proteins": "3,6 г",
+        "fats": "0,2 г",
+        "carbohydrates": "4,26 г"
+    },
+    {
+        "tittle": "Китайская горькая тыква, листья, вареные, без соли",
+        "callories": "34 кКал",
+        "proteins": "3,6 г",
+        "fats": "0,2 г",
+        "carbohydrates": "4,78 г"
+    },
+    {
+        "tittle": "Китайская горькая тыква, плоды",
+        "callories": "17 кКал",
+        "proteins": "1 г",
+        "fats": "0,17 г",
+        "carbohydrates": "0,9 г"
+    },
+    {
+        "tittle": "Китайская горькая тыква, плоды вареные без соли",
+        "callories": "19 кКал",
+        "proteins": "0,84 г",
+        "fats": "0,18 г",
+        "carbohydrates": "2,32 г"
+    },
+    {
+        "tittle": "Китайская горькая тыква, плоды вареные с солью",
+        "callories": "19 кКал",
+        "proteins": "0,84 г",
+        "fats": "0,18 г",
+        "carbohydrates": "2,32 г"
+    },
+    {
+        "tittle": "Козлобородник (овсяный корень, овощная устрица), вареный, без соли",
+        "callories": "68 кКал",
+        "proteins": "2,73 г",
+        "fats": "0,17 г",
+        "carbohydrates": "12,26 г"
+    },
+    {
+        "tittle": "Козлобородник (овсяный корень, овощная устрица), вареный, с солью",
+        "callories": "68 кКал",
+        "proteins": "2,73 г",
+        "fats": "0,17 г",
+        "carbohydrates": "12,26 г"
+    },
+    {
+        "tittle": "Козлобородник (овсяный корень, овощная устрица), сырой",
+        "callories": "82 кКал",
+        "proteins": "3,3 г",
+        "fats": "0,2 г",
+        "carbohydrates": "15,3 г"
+    },
+    {
+        "tittle": "Колоказия (таро) таитянская, приготовленная без соли",
+        "callories": "44 кКал",
+        "proteins": "4,16 г",
+        "fats": "0,68 г",
+        "carbohydrates": "6,85 г"
+    },
+    {
+        "tittle": "Колоказия (таро) таитянская, приготовленная с солью",
+        "callories": "44 кКал",
+        "proteins": "4,16 г",
+        "fats": "0,68 г",
+        "carbohydrates": "6,85 г"
+    },
+    {
+        "tittle": "Колоказия (таро) таитянская, сырая",
+        "callories": "44 кКал",
+        "proteins": "2,79 г",
+        "fats": "0,97 г",
+        "carbohydrates": "6,91 г"
+    },
+    {
+        "tittle": "Колоказия (таро), листья, приготовленные на пару, без соли",
+        "callories": "24 кКал",
+        "proteins": "2,72 г",
+        "fats": "0,41 г",
+        "carbohydrates": "2,02 г"
+    },
+    {
+        "tittle": "Колоказия (таро), листья, приготовленные на пару, с солью",
+        "callories": "24 кКал",
+        "proteins": "2,72 г",
+        "fats": "0,41 г",
+        "carbohydrates": "1,89 г"
+    },
+    {
+        "tittle": "Колоказия (таро), листья, сырые",
+        "callories": "42 кКал",
+        "proteins": "4,98 г",
+        "fats": "0,74 г",
+        "carbohydrates": "3 г"
+    },
+    {
+        "tittle": "Колоказия (таро), побеги, приготовленные без соли",
+        "callories": "14 кКал",
+        "proteins": "0,73 г",
+        "fats": "0,08 г",
+        "carbohydrates": "3,2 г"
+    },
+    {
+        "tittle": "Колоказия (таро), побеги, приготовленные с солью",
+        "callories": "14 кКал",
+        "proteins": "0,73 г",
+        "fats": "0,08 г",
+        "carbohydrates": "3,19 г"
+    },
+    {
+        "tittle": "Колоказия (таро), побеги, сырые",
+        "callories": "11 кКал",
+        "proteins": "0,92 г",
+        "fats": "0,09 г",
+        "carbohydrates": "2,32 г"
+    },
+    {
+        "tittle": "Колоказия (таро), приготовленная без соли",
+        "callories": "142 кКал",
+        "proteins": "0,52 г",
+        "fats": "0,11 г",
+        "carbohydrates": "29,5 г"
+    },
+    {
+        "tittle": "Колоказия (таро), приготовленная с солью",
+        "callories": "142 кКал",
+        "proteins": "0,52 г",
+        "fats": "0,11 г",
+        "carbohydrates": "29,5 г"
+    },
+    {
+        "tittle": "Колоказия (таро), сырая",
+        "callories": "112 кКал",
+        "proteins": "1,5 г",
+        "fats": "0,2 г",
+        "carbohydrates": "22,36 г"
+    },
+    {
+        "tittle": "Кольраби",
+        "callories": "44 кКал",
+        "proteins": "2,8 г",
+        "fats": "0,1 г",
+        "carbohydrates": "7,9 г"
+    },
+    {
+        "tittle": "Кольраби",
+        "callories": "27 кКал",
+        "proteins": "1,7 г",
+        "fats": "0,1 г",
+        "carbohydrates": "2,6 г"
+    },
+    {
+        "tittle": "Кольраби, вареная, без соли",
+        "callories": "29 кКал",
+        "proteins": "1,8 г",
+        "fats": "0,11 г",
+        "carbohydrates": "5,59 г"
+    },
+    {
+        "tittle": "Кольраби, вареная, с солью",
+        "callories": "29 кКал",
+        "proteins": "1,8 г",
+        "fats": "0,11 г",
+        "carbohydrates": "5,59 г"
+    },
+    {
+        "tittle": "Корень лопуха, вареный, без соли",
+        "callories": "88 кКал",
+        "proteins": "2,09 г",
+        "fats": "0,14 г",
+        "carbohydrates": "19,35 г"
+    },
+    {
+        "tittle": "Корень лопуха, вареный, с солью",
+        "callories": "88 кКал",
+        "proteins": "2,09 г",
+        "fats": "0,14 г",
+        "carbohydrates": "19,35 г"
+    },
+    {
+        "tittle": "Корень лопуха, сырой",
+        "callories": "72 кКал",
+        "proteins": "1,53 г",
+        "fats": "0,15 г",
+        "carbohydrates": "14,04 г"
+    },
+    {
+        "tittle": "Корень лотоса, вареный, без соли",
+        "callories": "66 кКал",
+        "proteins": "1,58 г",
+        "fats": "0,07 г",
+        "carbohydrates": "12,92 г"
+    },
+    {
+        "tittle": "Корень лотоса, вареный, с солью",
+        "callories": "66 кКал",
+        "proteins": "1,58 г",
+        "fats": "0,07 г",
+        "carbohydrates": "12,92 г"
+    },
+    {
+        "tittle": "Корень лотоса, сырой",
+        "callories": "74 кКал",
+        "proteins": "2,6 г",
+        "fats": "0,1 г",
+        "carbohydrates": "12,33 г"
+    },
+    {
+        "tittle": "Корень цикория, сырой",
+        "callories": "72 кКал",
+        "proteins": "1,4 г",
+        "fats": "0,2 г",
+        "carbohydrates": "16,01 г"
+    },
+    {
+        "tittle": "Кресс-салат",
+        "callories": "32 кКал",
+        "proteins": "2,6 г",
+        "fats": "0,7 г",
+        "carbohydrates": "4,4 г"
+    },
+    {
+        "tittle": "Кресс-салат, вареный, без соли",
+        "callories": "23 кКал",
+        "proteins": "1,9 г",
+        "fats": "0,6 г",
+        "carbohydrates": "3,1 г"
+    },
+    {
+        "tittle": "Кресс-салат, вареный, с солью",
+        "callories": "23 кКал",
+        "proteins": "1,9 г",
+        "fats": "0,6 г",
+        "carbohydrates": "3,1 г"
+    },
+    {
+        "tittle": "Кукуруза сахарная белая, вареная, без соли",
+        "callories": "97 кКал",
+        "proteins": "3,34 г",
+        "fats": "1,41 г",
+        "carbohydrates": "19,01 г"
+    },
+    {
+        "tittle": "Кукуруза сахарная белая, вареная, с солью",
+        "callories": "97 кКал",
+        "proteins": "3,34 г",
+        "fats": "1,41 г",
+        "carbohydrates": "19,01 г"
+    },
+    {
+        "tittle": "Кукуруза сахарная белая, замороженная, в початках",
+        "callories": "98 кКал",
+        "proteins": "3,28 г",
+        "fats": "0,78 г",
+        "carbohydrates": "20,7 г"
+    },
+    {
+        "tittle": "Кукуруза сахарная белая, замороженная, в початках, вареная, без соли",
+        "callories": "94 кКал",
+        "proteins": "3,11 г",
+        "fats": "0,74 г",
+        "carbohydrates": "20,23 г"
+    },
+    {
+        "tittle": "Кукуруза сахарная белая, замороженная, в початках, вареная, с солью",
+        "callories": "94 кКал",
+        "proteins": "3,11 г",
+        "fats": "0,74 г",
+        "carbohydrates": "19,53 г"
+    },
+    {
+        "tittle": "Кукуруза сахарная белая, замороженная, свежие срезанные зерна",
+        "callories": "88 кКал",
+        "proteins": "3,02 г",
+        "fats": "0,77 г",
+        "carbohydrates": "17,83 г"
+    },
+    {
+        "tittle": "Кукуруза сахарная белая, замороженная, свежие срезанные зерна, вареная, без соли",
+        "callories": "80 кКал",
+        "proteins": "2,75 г",
+        "fats": "0,43 г",
+        "carbohydrates": "17,16 г"
+    },
+    {
+        "tittle": "Кукуруза сахарная белая, замороженная, свежие срезанные зерна, вареная, с солью",
+        "callories": "80 кКал",
+        "proteins": "2,75 г",
+        "fats": "0,43 г",
+        "carbohydrates": "17,16 г"
+    },
+    {
+        "tittle": "Кукуруза сахарная белая, консервированная в вакуумной упаковке, без соли",
+        "callories": "79 кКал",
+        "proteins": "2,41 г",
+        "fats": "0,5 г",
+        "carbohydrates": "17,44 г"
+    },
+    {
+        "tittle": "Кукуруза сахарная белая, консервированная цельными зернами",
+        "callories": "64 кКал",
+        "proteins": "1,95 г",
+        "fats": "0,5 г",
+        "carbohydrates": "13,71 г"
+    },
+    {
+        "tittle": "Кукуруза сахарная белая, консервированная цельными зернами, без соли",
+        "callories": "64 кКал",
+        "proteins": "1,95 г",
+        "fats": "0,5 г",
+        "carbohydrates": "14,71 г"
+    },
+    {
+        "tittle": "Кукуруза сахарная белая, консервированная цельными зернами, содержимое без жидкости",
+        "callories": "67 кКал",
+        "proteins": "2,29 г",
+        "fats": "1,22 г",
+        "carbohydrates": "12,34 г"
+    },
+    {
+        "tittle": "Кукуруза сахарная белая, консервированная, в вакуумной упаковке",
+        "callories": "79 кКал",
+        "proteins": "2,41 г",
+        "fats": "0,5 г",
+        "carbohydrates": "17,44 г"
+    },
+    {
+        "tittle": "Кукуруза сахарная белая, консервированная, раздавленные зерна",
+        "callories": "74 кКал",
+        "proteins": "1,74 г",
+        "fats": "0,42 г",
+        "carbohydrates": "17,42 г"
+    },
+    {
+        "tittle": "Кукуруза сахарная белая, консервированная, раздавленные зерна, без соли",
+        "callories": "72 кКал",
+        "proteins": "1,74 г",
+        "fats": "0,42 г",
+        "carbohydrates": "16,93 г"
+    },
+    {
+        "tittle": "Кукуруза сахарная белая, свежая",
+        "callories": "86 кКал",
+        "proteins": "3,22 г",
+        "fats": "1,18 г",
+        "carbohydrates": "16,32 г"
+    },
+    {
+        "tittle": "Кукуруза сахарная желтая, в початках, замороженная, вареная, без соли",
+        "callories": "94 кКал",
+        "proteins": "3,11 г",
+        "fats": "0,74 г",
+        "carbohydrates": "19,53 г"
+    },
+    {
+        "tittle": "Кукуруза сахарная желтая, в початках, замороженная, вареная, с солью",
+        "callories": "94 кКал",
+        "proteins": "3,11 г",
+        "fats": "0,74 г",
+        "carbohydrates": "19,53 г"
+    },
+    {
+        "tittle": "Кукуруза сахарная желтая, в початках, замороженная, неприготовленная",
+        "callories": "98 кКал",
+        "proteins": "3,28 г",
+        "fats": "0,78 г",
+        "carbohydrates": "20,7 г"
+    },
+    {
+        "tittle": "Кукуруза сахарная желтая, вареная, без соли",
+        "callories": "96 кКал",
+        "proteins": "3,41 г",
+        "fats": "1,5 г",
+        "carbohydrates": "18,58 г"
+    },
+    {
+        "tittle": "Кукуруза сахарная желтая, вареная, с солью",
+        "callories": "96 кКал",
+        "proteins": "3,41 г",
+        "fats": "1,5 г",
+        "carbohydrates": "18,58 г"
+    },
+    {
+        "tittle": "Кукуруза сахарная желтая, замороженная, свежие срезанные зерна, вареная, с солью",
+        "callories": "79 кКал",
+        "proteins": "2,55 г",
+        "fats": "0,67 г",
+        "carbohydrates": "16,31 г"
+    },
+    {
+        "tittle": "Кукуруза сахарная желтая, замороженная, свежие срезанные зерна, вареные, без соли",
+        "callories": "81 кКал",
+        "proteins": "2,55 г",
+        "fats": "0,67 г",
+        "carbohydrates": "16,9 г"
+    },
+    {
+        "tittle": "Кукуруза сахарная желтая, замороженная, свежие срезанные зерна, неприготовленные",
+        "callories": "88 кКал",
+        "proteins": "3,02 г",
+        "fats": "0,78 г",
+        "carbohydrates": "18,61 г"
+    },
+    {
+        "tittle": "Кукуруза сахарная желтая, консервированная в вакуумной упаковке",
+        "callories": "79 кКал",
+        "proteins": "2,41 г",
+        "fats": "0,5 г",
+        "carbohydrates": "17,44 г"
+    },
+    {
+        "tittle": "Кукуруза сахарная желтая, консервированная в вакуумной упаковке, без соли",
+        "callories": "79 кКал",
+        "proteins": "2,41 г",
+        "fats": "0,5 г",
+        "carbohydrates": "17,44 г"
+    },
+    {
+        "tittle": "Кукуруза сахарная желтая, консервированная цельными зернами, содержимое без жидкости",
+        "callories": "67 кКал",
+        "proteins": "2,29 г",
+        "fats": "1,22 г",
+        "carbohydrates": "12,34 г"
+    },
+    {
+        "tittle": "Кукуруза сахарная желтая, консервированная, без соли",
+        "callories": "61 кКал",
+        "proteins": "1,95 г",
+        "fats": "0,77 г",
+        "carbohydrates": "12,16 г"
+    },
+    {
+        "tittle": "Кукуруза сахарная желтая, консервированная, раздавленные зерна",
+        "callories": "72 кКал",
+        "proteins": "1,74 г",
+        "fats": "0,42 г",
+        "carbohydrates": "16,93 г"
+    },
+    {
+        "tittle": "Кукуруза сахарная желтая, консервированная, раздавленные зерна, без соли",
+        "callories": "72 кКал",
+        "proteins": "1,74 г",
+        "fats": "0,42 г",
+        "carbohydrates": "16,93 г"
+    },
+    {
+        "tittle": "Кукуруза сахарная желтая, консервированная, содержимое с жидкостью",
+        "callories": "61 кКал",
+        "proteins": "1,95 г",
+        "fats": "0,77 г",
+        "carbohydrates": "12,16 г"
+    },
+    {
+        "tittle": "Кукуруза сахарная желтая, свежая",
+        "callories": "86 кКал",
+        "proteins": "3,27 г",
+        "fats": "1,35 г",
+        "carbohydrates": "16,7 г"
+    },
+    {
+        "tittle": "Лаконос, вареный, без соли",
+        "callories": "20 кКал",
+        "proteins": "2,3 г",
+        "fats": "0,4 г",
+        "carbohydrates": "1,6 г"
+    },
+    {
+        "tittle": "Лаконос, вареный, с солью",
+        "callories": "20 кКал",
+        "proteins": "2,3 г",
+        "fats": "0,4 г",
+        "carbohydrates": "1,6 г"
+    },
+    {
+        "tittle": "Лаконос, сырой",
+        "callories": "23 кКал",
+        "proteins": "2,6 г",
+        "fats": "0,4 г",
+        "carbohydrates": "2 г"
+    },
+    {
+        "tittle": "Лебеда (марь белая)",
+        "callories": "43 кКал",
+        "proteins": "4,2 г",
+        "fats": "0,8 г",
+        "carbohydrates": "3,3 г"
+    },
+    {
+        "tittle": "Лебеда (марь белая), вареная, без соли",
+        "callories": "32 кКал",
+        "proteins": "3,2 г",
+        "fats": "0,7 г",
+        "carbohydrates": "2,9 г"
+    },
+    {
+        "tittle": "Лебеда (марь белая), вареная, с солью",
+        "callories": "32 кКал",
+        "proteins": "3,2 г",
+        "fats": "0,7 г",
+        "carbohydrates": "2,9 г"
+    },
+    {
+        "tittle": "Лебеда (марь), приготовленная на пару (индейцы северных великих равнин)",
+        "callories": "48 кКал",
+        "proteins": "4,06 г",
+        "fats": "0,16 г",
+        "carbohydrates": "2,27 г"
+    },
+    {
+        "tittle": "Листовая капуста (коллард)",
+        "callories": "32 кКал",
+        "proteins": "3,02 г",
+        "fats": "0,61 г",
+        "carbohydrates": "1,42 г"
+    },
+    {
+        "tittle": "Листовая капуста (коллард), вареная, без соли",
+        "callories": "33 кКал",
+        "proteins": "2,71 г",
+        "fats": "0,72 г",
+        "carbohydrates": "1,65 г"
+    },
+    {
+        "tittle": "Листовая капуста (коллард), вареный, с солью",
+        "callories": "33 кКал",
+        "proteins": "2,71 г",
+        "fats": "0,72 г",
+        "carbohydrates": "1,65 г"
+    },
+    {
+        "tittle": "Листовая капуста (коллард), замороженная, вареная, без соли",
+        "callories": "36 кКал",
+        "proteins": "2,97 г",
+        "fats": "0,41 г",
+        "carbohydrates": "4,3 г"
+    },
+    {
+        "tittle": "Листовая капуста (коллард), замороженная, неприготовленная",
+        "callories": "33 кКал",
+        "proteins": "2,69 г",
+        "fats": "0,37 г",
+        "carbohydrates": "2,86 г"
+    },
+    {
+        "tittle": "Листовая капуста (коллард), замороженный, вареный, с солью",
+        "callories": "36 кКал",
+        "proteins": "2,97 г",
+        "fats": "0,41 г",
+        "carbohydrates": "4,3 г"
+    },
+    {
+        "tittle": "Листья одуванчика",
+        "callories": "45 кКал",
+        "proteins": "2,7 г",
+        "fats": "0,7 г",
+        "carbohydrates": "5,7 г"
+    },
+    {
+        "tittle": "Листья одуванчика, вареные, без соли",
+        "callories": "33 кКал",
+        "proteins": "2 г",
+        "fats": "0,6 г",
+        "carbohydrates": "3,5 г"
+    },
+    {
+        "tittle": "Листья одуванчика, вареные, с солью",
+        "callories": "33 кКал",
+        "proteins": "2 г",
+        "fats": "0,6 г",
+        "carbohydrates": "3,5 г"
+    },
+    {
+        "tittle": "Листья цикория, сырые",
+        "callories": "23 кКал",
+        "proteins": "1,7 г",
+        "fats": "0,3 г",
+        "carbohydrates": "0,7 г"
+    },
+    {
+        "tittle": "Лук батун",
+        "callories": "34 кКал",
+        "proteins": "1,9 г",
+        "fats": "0,4 г",
+        "carbohydrates": "4,1 г"
+    },
+    {
+        "tittle": "Лук жареный по 2-56",
+        "callories": "251 кКал",
+        "proteins": "4,5 г",
+        "fats": "13,5 г",
+        "carbohydrates": "27,4 г"
+    },
+    {
+        "tittle": "Лук желтый, пассерованный",
+        "callories": "123 кКал",
+        "proteins": "0,95 г",
+        "fats": "10,8 г",
+        "carbohydrates": "6,16 г"
+    },
+    {
+        "tittle": "Лук зеленый (перо)",
+        "callories": "20 кКал",
+        "proteins": "1,3 г",
+        "fats": "0,1 г",
+        "carbohydrates": "3,2 г"
+    },
+    {
+        "tittle": "Лук зелёный из семян (включая зелень и молодые луковицы)",
+        "callories": "32 кКал",
+        "proteins": "1,83 г",
+        "fats": "0,19 г",
+        "carbohydrates": "4,74 г"
+    },
+    {
+        "tittle": "Лук зелёный, зелень (перо) репчатого лука",
+        "callories": "27 кКал",
+        "proteins": "0,97 г",
+        "fats": "0,47 г",
+        "carbohydrates": "3,94 г"
+    },
+    {
+        "tittle": "Лук маринованный по 2-56",
+        "callories": "79 кКал",
+        "proteins": "1,2 г",
+        "fats": "4,7 г",
+        "carbohydrates": "7,6 г"
+    },
+    {
+        "tittle": "Лук порей",
+        "callories": "36 кКал",
+        "proteins": "2 г",
+        "fats": "0,2 г",
+        "carbohydrates": "6,3 г"
+    },
+    {
+        "tittle": "Лук порей (луковица и нижняя часть зелени)",
+        "callories": "61 кКал",
+        "proteins": "1,5 г",
+        "fats": "0,3 г",
+        "carbohydrates": "12,35 г"
+    },
+    {
+        "tittle": "Лук порей (луковица и нижняя часть зелени), вареный, без соли",
+        "callories": "31 кКал",
+        "proteins": "0,81 г",
+        "fats": "0,2 г",
+        "carbohydrates": "6,62 г"
+    },
+    {
+        "tittle": "Лук порей (луковицы и нижняя часть зелени), вареный, с солью",
+        "callories": "31 кКал",
+        "proteins": "0,81 г",
+        "fats": "0,2 г",
+        "carbohydrates": "6,62 г"
+    },
+    {
+        "tittle": "Лук порей (луковицы и нижняя часть зелени), сублимированный (сушеный)",
+        "callories": "321 кКал",
+        "proteins": "15,2 г",
+        "fats": "2,1 г",
+        "carbohydrates": "64,25 г"
+    },
+    {
+        "tittle": "Лук репчатый",
+        "callories": "41 кКал",
+        "proteins": "1,4 г",
+        "fats": "0,2 г",
+        "carbohydrates": "8,2 г"
+    },
+    {
+        "tittle": "Лук репчатый, вареный, без соли",
+        "callories": "44 кКал",
+        "proteins": "1,36 г",
+        "fats": "0,19 г",
+        "carbohydrates": "8,75 г"
+    },
+    {
+        "tittle": "Лук репчатый, вареный, с солью",
+        "callories": "42 кКал",
+        "proteins": "1,36 г",
+        "fats": "0,19 г",
+        "carbohydrates": "8,16 г"
+    },
+    {
+        "tittle": "Лук репчатый, замороженный целиком, вареный, без соли",
+        "callories": "28 кКал",
+        "proteins": "0,71 г",
+        "fats": "0,05 г",
+        "carbohydrates": "5,3 г"
+    },
+    {
+        "tittle": "Лук репчатый, замороженный целиком, вареный, с солью",
+        "callories": "26 кКал",
+        "proteins": "0,71 г",
+        "fats": "0,05 г",
+        "carbohydrates": "4,71 г"
+    },
+    {
+        "tittle": "Лук репчатый, замороженный целиком, неприготовленный",
+        "callories": "35 кКал",
+        "proteins": "0,89 г",
+        "fats": "0,06 г",
+        "carbohydrates": "6,75 г"
+    },
+    {
+        "tittle": "Лук репчатый, замороженный, порезанный, вареный, с солью",
+        "callories": "26 кКал",
+        "proteins": "0,77 г",
+        "fats": "0,1 г",
+        "carbohydrates": "4,3 г"
+    },
+    {
+        "tittle": "Лук репчатый, консервированный",
+        "callories": "19 кКал",
+        "proteins": "0,85 г",
+        "fats": "0,09 г",
+        "carbohydrates": "2,82 г"
+    },
+    {
+        "tittle": "Лук репчатый, порезанный, замороженный, вареный, без соли",
+        "callories": "28 кКал",
+        "proteins": "0,77 г",
+        "fats": "0,1 г",
+        "carbohydrates": "4,79 г"
+    },
+    {
+        "tittle": "Лук репчатый, порезанный, замороженный, неприготовленный",
+        "callories": "29 кКал",
+        "proteins": "0,79 г",
+        "fats": "0,1 г",
+        "carbohydrates": "5,02 г"
+    },
+    {
+        "tittle": "Лук репчатый, сушеный",
+        "callories": "208 кКал",
+        "proteins": "8,4 г",
+        "fats": "2,8 г",
+        "carbohydrates": "42,6 г"
+    },
+    {
+        "tittle": "Лук репчатый, сушеный (дегидрированный), хлопья",
+        "callories": "349 кКал",
+        "proteins": "8,95 г",
+        "fats": "0,46 г",
+        "carbohydrates": "74,08 г"
+    },
+    {
+        "tittle": "Лук репчатый, сырой",
+        "callories": "40 кКал",
+        "proteins": "1,1 г",
+        "fats": "0,1 г",
+        "carbohydrates": "7,64 г"
+    },
+    {
+        "tittle": "Лук сладкий, сырой",
+        "callories": "32 кКал",
+        "proteins": "0,8 г",
+        "fats": "0,08 г",
+        "carbohydrates": "6,65 г"
+    },
+    {
+        "tittle": "Лук-резанец (скорода, шнитт-лук)",
+        "callories": "30 кКал",
+        "proteins": "3,27 г",
+        "fats": "0,73 г",
+        "carbohydrates": "1,85 г"
+    },
+    {
+        "tittle": "Лук-резанец (скорода, шнитт-лук), сублимированный (сушеный)",
+        "callories": "311 кКал",
+        "proteins": "21,2 г",
+        "fats": "3,5 г",
+        "carbohydrates": "38,09 г"
+    },
+    {
+        "tittle": "Лук-шалот, сырой",
+        "callories": "72 кКал",
+        "proteins": "2,5 г",
+        "fats": "0,1 г",
+        "carbohydrates": "13,6 г"
+    },
+    {
+        "tittle": "Луковые кольца, обжаренные в панировке, замороженные, приготовленные в духовке",
+        "callories": "276 кКал",
+        "proteins": "4,14 г",
+        "fats": "14,3 г",
+        "carbohydrates": "31,59 г"
+    },
+    {
+        "tittle": "Луковые кольца, обжаренный в панировке, замороженный, неприготовленный",
+        "callories": "258 кКал",
+        "proteins": "3,15 г",
+        "fats": "14,1 г",
+        "carbohydrates": "28,73 г"
+    },
+    {
+        "tittle": "Люффа  (мочалочная тыква)",
+        "callories": "20 кКал",
+        "proteins": "1,2 г",
+        "fats": "0,2 г",
+        "carbohydrates": "3,25 г"
+    },
+    {
+        "tittle": "Люффа  (мочалочная тыква), вареная, без соли",
+        "callories": "56 кКал",
+        "proteins": "0,66 г",
+        "fats": "0,34 г",
+        "carbohydrates": "11,44 г"
+    },
+    {
+        "tittle": "Люффа  (мочалочная тыква), вареная, с солью",
+        "callories": "54 кКал",
+        "proteins": "0,66 г",
+        "fats": "0,34 г",
+        "carbohydrates": "10,85 г"
+    },
+    {
+        "tittle": "Малабарский шпинат (базелла), сырой",
+        "callories": "19 кКал",
+        "proteins": "1,8 г",
+        "fats": "0,3 г",
+        "carbohydrates": "3,4 г"
+    },
+    {
+        "tittle": "Маланга (ксантосома), сырая",
+        "callories": "98 кКал",
+        "proteins": "1,46 г",
+        "fats": "0,4 г",
+        "carbohydrates": "22,13 г"
+    },
+    {
+        "tittle": "Мангольд",
+        "callories": "19 кКал",
+        "proteins": "1,8 г",
+        "fats": "0,2 г",
+        "carbohydrates": "2,14 г"
+    },
+    {
+        "tittle": "Мангольд, вареный, без соли",
+        "callories": "20 кКал",
+        "proteins": "1,88 г",
+        "fats": "0,08 г",
+        "carbohydrates": "2,03 г"
+    },
+    {
+        "tittle": "Мангольд, вареный, с солью",
+        "callories": "20 кКал",
+        "proteins": "1,88 г",
+        "fats": "0,08 г",
+        "carbohydrates": "2,03 г"
+    },
+    {
+        "tittle": "Маниок, сырой",
+        "callories": "160 кКал",
+        "proteins": "1,36 г",
+        "fats": "0,28 г",
+        "carbohydrates": "36,26 г"
+    },
+    {
+        "tittle": "Маранта, сырая",
+        "callories": "65 кКал",
+        "proteins": "4,24 г",
+        "fats": "0,2 г",
+        "carbohydrates": "12,09 г"
+    },
+    {
+        "tittle": "Маслины черные (оливки созревшие) крупные, консервированные",
+        "callories": "81 кКал",
+        "proteins": "0,97 г",
+        "fats": "6,87 г",
+        "carbohydrates": "3,11 г"
+    },
+    {
+        "tittle": "Маслины черные (оливки созревшие) мелкие и средние, консервированные",
+        "callories": "116 кКал",
+        "proteins": "0,84 г",
+        "fats": "10,9 г",
+        "carbohydrates": "4,44 г"
+    },
+    {
+        "tittle": "Моринга масличная, листья, вареные, без соли",
+        "callories": "60 кКал",
+        "proteins": "5,27 г",
+        "fats": "0,93 г",
+        "carbohydrates": "9,15 г"
+    },
+    {
+        "tittle": "Моринга масличная, листья, вареные, с солью",
+        "callories": "60 кКал",
+        "proteins": "5,27 г",
+        "fats": "0,93 г",
+        "carbohydrates": "9,15 г"
+    },
+    {
+        "tittle": "Моринга масличная, листья, сырые",
+        "callories": "64 кКал",
+        "proteins": "9,4 г",
+        "fats": "1,4 г",
+        "carbohydrates": "6,28 г"
+    },
+    {
+        "tittle": "Моринга масличная, стручки, вареные, без соли",
+        "callories": "36 кКал",
+        "proteins": "2,09 г",
+        "fats": "0,19 г",
+        "carbohydrates": "3,98 г"
+    },
+    {
+        "tittle": "Моринга масличная, стручки, вареные, с солью",
+        "callories": "36 кКал",
+        "proteins": "2,09 г",
+        "fats": "0,19 г",
+        "carbohydrates": "3,98 г"
+    },
+    {
+        "tittle": "Моринга масличная, стручки, сырые",
+        "callories": "37 кКал",
+        "proteins": "2,1 г",
+        "fats": "0,2 г",
+        "carbohydrates": "5,33 г"
+    },
+    {
+        "tittle": "Морковная запеканка по 1-250",
+        "callories": "128 кКал",
+        "proteins": "2,7 г",
+        "fats": "5 г",
+        "carbohydrates": "17,8 г"
+    },
+    {
+        "tittle": "Морковное пюре по 1-212",
+        "callories": "90 кКал",
+        "proteins": "1,9 г",
+        "fats": "5,6 г",
+        "carbohydrates": "8,1 г"
+    },
+    {
+        "tittle": "Морковные котлеты по 1-234",
+        "callories": "152 кКал",
+        "proteins": "3,4 г",
+        "fats": "6,7 г",
+        "carbohydrates": "19,2 г"
+    },
+    {
+        "tittle": "Морковный пуддинг по 1-250",
+        "callories": "106 кКал",
+        "proteins": "3 г",
+        "fats": "4,1 г",
+        "carbohydrates": "14 г"
+    },
+    {
+        "tittle": "Морковь",
+        "callories": "35 кКал",
+        "proteins": "1,3 г",
+        "fats": "0,1 г",
+        "carbohydrates": "6,9 г"
+    },
+    {
+        "tittle": "Морковь",
+        "callories": "41 кКал",
+        "proteins": "0,93 г",
+        "fats": "0,24 г",
+        "carbohydrates": "6,78 г"
+    },
+    {
+        "tittle": "Морковь желтая",
+        "callories": "30 кКал",
+        "proteins": "1,3 г",
+        "fats": "0,1 г",
+        "carbohydrates": "6,2 г"
+    },
+    {
+        "tittle": "Морковь квашеная",
+        "callories": "26 кКал",
+        "proteins": "1,3 г",
+        "fats": "0,1 г",
+        "carbohydrates": "4,5 г"
+    },
+    {
+        "tittle": "Морковь молодая",
+        "callories": "35 кКал",
+        "proteins": "0,64 г",
+        "fats": "0,13 г",
+        "carbohydrates": "5,34 г"
+    },
+    {
+        "tittle": "Морковь отварная по 2-40",
+        "callories": "33 кКал",
+        "proteins": "1,3 г",
+        "fats": "0,1 г",
+        "carbohydrates": "6,4 г"
+    },
+    {
+        "tittle": "Морковь припущенная по 1-214",
+        "callories": "52 кКал",
+        "proteins": "1,4 г",
+        "fats": "1,6 г",
+        "carbohydrates": "7,7 г"
+    },
+    {
+        "tittle": "Морковь сушеная",
+        "callories": "226 кКал",
+        "proteins": "7,8 г",
+        "fats": "0,6 г",
+        "carbohydrates": "49,2 г"
+    },
+    {
+        "tittle": "Морковь сушеная (дегидрированная)",
+        "callories": "341 кКал",
+        "proteins": "8,1 г",
+        "fats": "1,49 г",
+        "carbohydrates": "55,97 г"
+    },
+    {
+        "tittle": "Морковь тушеная с рисом по 1-224",
+        "callories": "122 кКал",
+        "proteins": "1,8 г",
+        "fats": "5 г",
+        "carbohydrates": "17,2 г"
+    },
+    {
+        "tittle": "Морковь, вареная, без соли",
+        "callories": "35 кКал",
+        "proteins": "0,76 г",
+        "fats": "0,18 г",
+        "carbohydrates": "5,22 г"
+    },
+    {
+        "tittle": "Морковь, вареная, с солью",
+        "callories": "35 кКал",
+        "proteins": "0,76 г",
+        "fats": "0,18 г",
+        "carbohydrates": "5,22 г"
+    },
+    {
+        "tittle": "Морковь, замороженная",
+        "callories": "36 кКал",
+        "proteins": "0,78 г",
+        "fats": "0,46 г",
+        "carbohydrates": "4,6 г"
+    },
+    {
+        "tittle": "Морковь, замороженная, вареная, без соли",
+        "callories": "37 кКал",
+        "proteins": "0,58 г",
+        "fats": "0,68 г",
+        "carbohydrates": "4,43 г"
+    },
+    {
+        "tittle": "Морковь, замороженная, вареная, с солью",
+        "callories": "37 кКал",
+        "proteins": "0,58 г",
+        "fats": "0,68 г",
+        "carbohydrates": "4,43 г"
+    },
+    {
+        "tittle": "Морковь, консервированная",
+        "callories": "23 кКал",
+        "proteins": "0,58 г",
+        "fats": "0,14 г",
+        "carbohydrates": "3,57 г"
+    },
+    {
+        "tittle": "Морковь, консервированная, без добавления соли",
+        "callories": "23 кКал",
+        "proteins": "0,59 г",
+        "fats": "0,14 г",
+        "carbohydrates": "3,56 г"
+    },
+    {
+        "tittle": "Морковь, консервированная, сухой продукт без маринада",
+        "callories": "25 кКал",
+        "proteins": "0,64 г",
+        "fats": "0,19 г",
+        "carbohydrates": "4,04 г"
+    },
+    {
+        "tittle": "Морковь, консервированная, сушеная, без добавления соли, сухой продукт без маринада",
+        "callories": "25 кКал",
+        "proteins": "0,64 г",
+        "fats": "0,19 г",
+        "carbohydrates": "4,04 г"
+    },
+    {
+        "tittle": "Начнка для тыквенного пирога, консервированная, сладкая",
+        "callories": "104 кКал",
+        "proteins": "1,09 г",
+        "fats": "0,13 г",
+        "carbohydrates": "18,09 г"
+    },
+    {
+        "tittle": "Новозеландский шпинат, вареный, без соли",
+        "callories": "12 кКал",
+        "proteins": "1,3 г",
+        "fats": "0,17 г",
+        "carbohydrates": "0,73 г"
+    },
+    {
+        "tittle": "Новозеландский шпинат, вареный, с солью",
+        "callories": "12 кКал",
+        "proteins": "1,3 г",
+        "fats": "0,17 г",
+        "carbohydrates": "0,73 г"
+    },
+    {
+        "tittle": "Новозеландский шпинат, сырой",
+        "callories": "14 кКал",
+        "proteins": "1,5 г",
+        "fats": "0,2 г",
+        "carbohydrates": "1 г"
+    },
+    {
+        "tittle": "Нопал (мексиканский кактус), стебели, сырые",
+        "callories": "16 кКал",
+        "proteins": "1,32 г",
+        "fats": "0,09 г",
+        "carbohydrates": "1,13 г"
+    },
+    {
+        "tittle": "Нопал (мексиканский кактус), стебели, сырые",
+        "callories": "15 кКал",
+        "proteins": "1,35 г",
+        "fats": "0,05 г",
+        "carbohydrates": "1,28 г"
+    },
+    {
+        "tittle": "Овощи маринованные, сладкие",
+        "callories": "130 кКал",
+        "proteins": "0,37 г",
+        "fats": "0,47 г",
+        "carbohydrates": "33,96 г"
+    },
+    {
+        "tittle": "Овощи маринованные, соус для гамбургеров",
+        "callories": "129 кКал",
+        "proteins": "0,63 г",
+        "fats": "0,54 г",
+        "carbohydrates": "31,28 г"
+    },
+    {
+        "tittle": "Овощи маринованные, соус для хот догов",
+        "callories": "91 кКал",
+        "proteins": "1,5 г",
+        "fats": "0,46 г",
+        "carbohydrates": "21,85 г"
+    },
+    {
+        "tittle": "Огурец без кожуры",
+        "callories": "10 кКал",
+        "proteins": "0,59 г",
+        "fats": "0,16 г",
+        "carbohydrates": "1,46 г"
+    },
+    {
+        "tittle": "Огурец грунтовый",
+        "callories": "14 кКал",
+        "proteins": "0,8 г",
+        "fats": "0,1 г",
+        "carbohydrates": "2,5 г"
+    },
+    {
+        "tittle": "Огурец парниковый",
+        "callories": "11 кКал",
+        "proteins": "0,7 г",
+        "fats": "0,1 г",
+        "carbohydrates": "1,9 г"
+    },
+    {
+        "tittle": "Огурец с кожурой",
+        "callories": "15 кКал",
+        "proteins": "0,65 г",
+        "fats": "0,11 г",
+        "carbohydrates": "3,13 г"
+    },
+    {
+        "tittle": "Огурец соленый",
+        "callories": "13 кКал",
+        "proteins": "0,8 г",
+        "fats": "0,1 г",
+        "carbohydrates": "1,7 г"
+    },
+    {
+        "tittle": "Огуречная трава",
+        "callories": "21 кКал",
+        "proteins": "1,8 г",
+        "fats": "0,7 г",
+        "carbohydrates": "3,06 г"
+    },
+    {
+        "tittle": "Огуречная трава вареная, без соли",
+        "callories": "25 кКал",
+        "proteins": "2,09 г",
+        "fats": "0,81 г",
+        "carbohydrates": "3,55 г"
+    },
+    {
+        "tittle": "Огуречная трава вареная, с солью",
+        "callories": "25 кКал",
+        "proteins": "2,09 г",
+        "fats": "0,81 г",
+        "carbohydrates": "3,55 г"
+    },
+    {
+        "tittle": "Огурцы квашенные",
+        "callories": "11 кКал",
+        "proteins": "0,33 г",
+        "fats": "0,2 г",
+        "carbohydrates": "1,06 г"
+    },
+    {
+        "tittle": "Огурцы квашенные, с пониженым содержанием соли",
+        "callories": "11 кКал",
+        "proteins": "0,33 г",
+        "fats": "0,2 г",
+        "carbohydrates": "1,06 г"
+    },
+    {
+        "tittle": "Огурцы маринованные в укропом, с пониженым содержанием соли",
+        "callories": "12 кКал",
+        "proteins": "0,5 г",
+        "fats": "0,3 г",
+        "carbohydrates": "1,41 г"
+    },
+    {
+        "tittle": "Огурцы маринованные с укропом",
+        "callories": "12 кКал",
+        "proteins": "0,5 г",
+        "fats": "0,3 г",
+        "carbohydrates": "1,41 г"
+    },
+    {
+        "tittle": "Огурцы маринованные, сладкие",
+        "callories": "91 кКал",
+        "proteins": "0,58 г",
+        "fats": "0,41 г",
+        "carbohydrates": "20,15 г"
+    },
+    {
+        "tittle": "Огурцы маринованные, сладкие, с пониженым содержанием соли",
+        "callories": "122 кКал",
+        "proteins": "0,37 г",
+        "fats": "0,26 г",
+        "carbohydrates": "32,63 г"
+    },
+    {
+        "tittle": "Окра, вареная, без соли",
+        "callories": "22 кКал",
+        "proteins": "1,87 г",
+        "fats": "0,21 г",
+        "carbohydrates": "2,01 г"
+    },
+    {
+        "tittle": "Окра, вареная, с солью",
+        "callories": "22 кКал",
+        "proteins": "1,87 г",
+        "fats": "0,21 г",
+        "carbohydrates": "2,01 г"
+    },
+    {
+        "tittle": "Окра, замороженная, вареная, без соли",
+        "callories": "29 кКал",
+        "proteins": "1,63 г",
+        "fats": "0,24 г",
+        "carbohydrates": "4,31 г"
+    },
+    {
+        "tittle": "Окра, замороженная, вареная, с солью",
+        "callories": "29 кКал",
+        "proteins": "1,63 г",
+        "fats": "0,24 г",
+        "carbohydrates": "4,31 г"
+    },
+    {
+        "tittle": "Окра, замороженная, неприготовленная",
+        "callories": "30 кКал",
+        "proteins": "1,69 г",
+        "fats": "0,25 г",
+        "carbohydrates": "4,43 г"
+    },
+    {
+        "tittle": "Окра, сырая",
+        "callories": "33 кКал",
+        "proteins": "1,93 г",
+        "fats": "0,19 г",
+        "carbohydrates": "4,25 г"
+    },
+    {
+        "tittle": "Оливки (маслины чёрные). Консервы",
+        "callories": "175 кКал",
+        "proteins": "1,8 г",
+        "fats": "16,3 г",
+        "carbohydrates": "5,2 г"
+    },
+    {
+        "tittle": "Оливки (мякоть, сырые)",
+        "callories": "296 кКал",
+        "proteins": "1,6 г",
+        "fats": "23,9 г",
+        "carbohydrates": "19 г"
+    },
+    {
+        "tittle": "Оливки зеленые, маринованные, консервированные",
+        "callories": "145 кКал",
+        "proteins": "1,03 г",
+        "fats": "15,32 г",
+        "carbohydrates": "0,54 г"
+    },
+    {
+        "tittle": "Опунция (кактус), жареный (индейцы северных великих равнин)",
+        "callories": "91 кКал",
+        "proteins": "0,39 г",
+        "fats": "0,31 г",
+        "carbohydrates": "21,57 г"
+    },
+    {
+        "tittle": "Опунция (кактус), сырые (индейцы северных великих равнин)",
+        "callories": "42 кКал",
+        "proteins": "0,12 г",
+        "fats": "0,11 г",
+        "carbohydrates": "4,87 г"
+    },
+    {
+        "tittle": "Орех водяной (матаи), сырой",
+        "callories": "97 кКал",
+        "proteins": "1,4 г",
+        "fats": "0,1 г",
+        "carbohydrates": "20,94 г"
+    },
+    {
+        "tittle": "Орех водяной, консервированный",
+        "callories": "50 кКал",
+        "proteins": "0,88 г",
+        "fats": "0,06 г",
+        "carbohydrates": "9,8 г"
+    },
+    {
+        "tittle": "Папоротник древовидный приготовленный, с солью",
+        "callories": "40 кКал",
+        "proteins": "0,29 г",
+        "fats": "0,07 г",
+        "carbohydrates": "7,08 г"
+    },
+    {
+        "tittle": "Папоротник древовидный, приготовленный, без соли",
+        "callories": "40 кКал",
+        "proteins": "0,29 г",
+        "fats": "0,07 г",
+        "carbohydrates": "7,28 г"
+    },
+    {
+        "tittle": "Папоротник, молодые побеги",
+        "callories": "34 кКал",
+        "proteins": "4,55 г",
+        "fats": "0,4 г",
+        "carbohydrates": "5,54 г"
+    },
+    {
+        "tittle": "Папоротник, молодые побеги, замороженный",
+        "callories": "34 кКал",
+        "proteins": "4,31 г",
+        "fats": "0,35 г",
+        "carbohydrates": "5,74 г"
+    },
+    {
+        "tittle": "Пастернак (корень)",
+        "callories": "47 кКал",
+        "proteins": "1,4 г",
+        "fats": "0,5 г",
+        "carbohydrates": "9,2 г"
+    },
+    {
+        "tittle": "Пастернак, вареный, без соли",
+        "callories": "71 кКал",
+        "proteins": "1,32 г",
+        "fats": "0,3 г",
+        "carbohydrates": "13,41 г"
+    },
+    {
+        "tittle": "Пастернак, вареный, с солью",
+        "callories": "71 кКал",
+        "proteins": "1,32 г",
+        "fats": "0,3 г",
+        "carbohydrates": "13,01 г"
+    },
+    {
+        "tittle": "Пастернак, сырой",
+        "callories": "75 кКал",
+        "proteins": "1,2 г",
+        "fats": "0,3 г",
+        "carbohydrates": "13,09 г"
+    },
+    {
+        "tittle": "Патиссон",
+        "callories": "19 кКал",
+        "proteins": "0,6 г",
+        "fats": "0,1 г",
+        "carbohydrates": "4,1 г"
+    },
+    {
+        "tittle": "Патиссон",
+        "callories": "18 кКал",
+        "proteins": "1,2 г",
+        "fats": "0,2 г",
+        "carbohydrates": "2,64 г"
+    },
+    {
+        "tittle": "Патиссон вареный, без соли",
+        "callories": "16 кКал",
+        "proteins": "1,03 г",
+        "fats": "0,17 г",
+        "carbohydrates": "1,4 г"
+    },
+    {
+        "tittle": "Патиссон вареный, с солью",
+        "callories": "16 кКал",
+        "proteins": "1,03 г",
+        "fats": "0,17 г",
+        "carbohydrates": "1,4 г"
+    },
+    {
+        "tittle": "Пекинская капуста",
+        "callories": "16 кКал",
+        "proteins": "1,2 г",
+        "fats": "0,2 г",
+        "carbohydrates": "2,03 г"
+    },
+    {
+        "tittle": "Пекинская капуста (пе-тсай), вареная, без соли",
+        "callories": "14 кКал",
+        "proteins": "1,5 г",
+        "fats": "0,17 г",
+        "carbohydrates": "0,71 г"
+    },
+    {
+        "tittle": "Пекинская капуста (пе-тсай), вареная, с солью",
+        "callories": "14 кКал",
+        "proteins": "1,5 г",
+        "fats": "0,17 г",
+        "carbohydrates": "0,71 г"
+    },
+    {
+        "tittle": "Перец анчо поблано, сушеный",
+        "callories": "281 кКал",
+        "proteins": "11,86 г",
+        "fats": "8,2 г",
+        "carbohydrates": "29,82 г"
+    },
+    {
+        "tittle": "Перец банановый",
+        "callories": "27 кКал",
+        "proteins": "1,66 г",
+        "fats": "0,45 г",
+        "carbohydrates": "1,95 г"
+    },
+    {
+        "tittle": "Перец венгерский",
+        "callories": "29 кКал",
+        "proteins": "0,8 г",
+        "fats": "0,41 г",
+        "carbohydrates": "5,7 г"
+    },
+    {
+        "tittle": "Перец гвоздичный, консервированный",
+        "callories": "23 кКал",
+        "proteins": "1,1 г",
+        "fats": "0,3 г",
+        "carbohydrates": "3,2 г"
+    },
+    {
+        "tittle": "Перец сладкий желтый",
+        "callories": "27 кКал",
+        "proteins": "1 г",
+        "fats": "0,21 г",
+        "carbohydrates": "5,42 г"
+    },
+    {
+        "tittle": "Перец сладкий зеленый",
+        "callories": "27 кКал",
+        "proteins": "1,3 г",
+        "fats": "0,1 г",
+        "carbohydrates": "5,3 г"
+    },
+    {
+        "tittle": "Перец сладкий зеленый",
+        "callories": "20 кКал",
+        "proteins": "0,86 г",
+        "fats": "0,17 г",
+        "carbohydrates": "2,94 г"
+    },
+    {
+        "tittle": "Перец сладкий зеленый,  вареный, с солью",
+        "callories": "26 кКал",
+        "proteins": "0,92 г",
+        "fats": "0,2 г",
+        "carbohydrates": "4,91 г"
+    },
+    {
+        "tittle": "Перец сладкий зеленый, вареный, без соли",
+        "callories": "28 кКал",
+        "proteins": "0,92 г",
+        "fats": "0,2 г",
+        "carbohydrates": "5,5 г"
+    },
+    {
+        "tittle": "Перец сладкий зеленый, консервированный",
+        "callories": "18 кКал",
+        "proteins": "0,8 г",
+        "fats": "0,3 г",
+        "carbohydrates": "2,7 г"
+    },
+    {
+        "tittle": "Перец сладкий зеленый, пассерованный",
+        "callories": "116 кКал",
+        "proteins": "0,78 г",
+        "fats": "11,85 г",
+        "carbohydrates": "2,42 г"
+    },
+    {
+        "tittle": "Перец сладкий зеленый, порезанный, замороженный",
+        "callories": "20 кКал",
+        "proteins": "1,08 г",
+        "fats": "0,21 г",
+        "carbohydrates": "2,85 г"
+    },
+    {
+        "tittle": "Перец сладкий зеленый, порезанный, замороженный, вареный, без соли",
+        "callories": "18 кКал",
+        "proteins": "0,95 г",
+        "fats": "0,18 г",
+        "carbohydrates": "3 г"
+    },
+    {
+        "tittle": "Перец сладкий зеленый, порезанный, замороженный, вареный, с солью",
+        "callories": "16 кКал",
+        "proteins": "0,95 г",
+        "fats": "0,18 г",
+        "carbohydrates": "2,41 г"
+    },
+    {
+        "tittle": "Перец сладкий красный",
+        "callories": "27 кКал",
+        "proteins": "1,3 г",
+        "fats": "0,1 г",
+        "carbohydrates": "5,3 г"
+    },
+    {
+        "tittle": "Перец сладкий красный",
+        "callories": "26 кКал",
+        "proteins": "0,99 г",
+        "fats": "0,3 г",
+        "carbohydrates": "3,93 г"
+    },
+    {
+        "tittle": "Перец сладкий красный,  вареный, с солью",
+        "callories": "26 кКал",
+        "proteins": "0,92 г",
+        "fats": "0,2 г",
+        "carbohydrates": "4,91 г"
+    },
+    {
+        "tittle": "Перец сладкий красный, вареный, без соли",
+        "callories": "28 кКал",
+        "proteins": "0,92 г",
+        "fats": "0,2 г",
+        "carbohydrates": "5,5 г"
+    },
+    {
+        "tittle": "Перец сладкий красный, замороженный, порезанный, вареный, без соли",
+        "callories": "16 кКал",
+        "proteins": "0,95 г",
+        "fats": "0,18 г",
+        "carbohydrates": "2,51 г"
+    },
+    {
+        "tittle": "Перец сладкий красный, замороженный, порезанный, вареный, с солью",
+        "callories": "16 кКал",
+        "proteins": "0,95 г",
+        "fats": "0,18 г",
+        "carbohydrates": "2,51 г"
+    },
+    {
+        "tittle": "Перец сладкий красный, замороженный, порезанный, неприготовленный",
+        "callories": "20 кКал",
+        "proteins": "1,08 г",
+        "fats": "0,21 г",
+        "carbohydrates": "2,85 г"
+    },
+    {
+        "tittle": "Перец сладкий красный, консервированный",
+        "callories": "18 кКал",
+        "proteins": "0,8 г",
+        "fats": "0,3 г",
+        "carbohydrates": "2,7 г"
+    },
+    {
+        "tittle": "Перец сладкий красный, пассерованный",
+        "callories": "133 кКал",
+        "proteins": "1,04 г",
+        "fats": "12,75 г",
+        "carbohydrates": "4,77 г"
+    },
+    {
+        "tittle": "Перец сладкий красный, сублимированный",
+        "callories": "314 кКал",
+        "proteins": "17,9 г",
+        "fats": "3 г",
+        "carbohydrates": "47,4 г"
+    },
+    {
+        "tittle": "Перец халапеньо",
+        "callories": "29 кКал",
+        "proteins": "0,91 г",
+        "fats": "0,37 г",
+        "carbohydrates": "3,7 г"
+    },
+    {
+        "tittle": "Перец халапеньо, консервированный",
+        "callories": "27 кКал",
+        "proteins": "0,92 г",
+        "fats": "0,94 г",
+        "carbohydrates": "2,14 г"
+    },
+    {
+        "tittle": "Перец чили зеленый острый",
+        "callories": "40 кКал",
+        "proteins": "2 г",
+        "fats": "0,2 г",
+        "carbohydrates": "7,96 г"
+    },
+    {
+        "tittle": "Перец чили зеленый острый, консервированный",
+        "callories": "21 кКал",
+        "proteins": "0,72 г",
+        "fats": "0,27 г",
+        "carbohydrates": "2,9 г"
+    },
+    {
+        "tittle": "Перец чили зеленый острый, консервированный без семян",
+        "callories": "21 кКал",
+        "proteins": "0,9 г",
+        "fats": "0,1 г",
+        "carbohydrates": "3,8 г"
+    },
+    {
+        "tittle": "Перец чили красный острый",
+        "callories": "40 кКал",
+        "proteins": "1,87 г",
+        "fats": "0,44 г",
+        "carbohydrates": "8,81 г"
+    },
+    {
+        "tittle": "Перец чили красный острый маринованный, консервированный",
+        "callories": "22 кКал",
+        "proteins": "0,8 г",
+        "fats": "0,4 г",
+        "carbohydrates": "1,96 г"
+    },
+    {
+        "tittle": "Перец чили красный острый, вяленый",
+        "callories": "324 кКал",
+        "proteins": "10,58 г",
+        "fats": "5,81 г",
+        "carbohydrates": "41,16 г"
+    },
+    {
+        "tittle": "Перец чили красный острый, консервированный без семян",
+        "callories": "21 кКал",
+        "proteins": "0,9 г",
+        "fats": "0,1 г",
+        "carbohydrates": "3,8 г"
+    },
+    {
+        "tittle": "Перец чили, пасилья, сушеный",
+        "callories": "345 кКал",
+        "proteins": "12,35 г",
+        "fats": "15,85 г",
+        "carbohydrates": "24,33 г"
+    },
+    {
+        "tittle": "Перец чили, серрано",
+        "callories": "32 кКал",
+        "proteins": "1,74 г",
+        "fats": "0,44 г",
+        "carbohydrates": "3 г"
+    },
+    {
+        "tittle": "Перец, фаршированный овощами, по 1-92",
+        "callories": "100 кКал",
+        "proteins": "1,5 г",
+        "fats": "5,9 г",
+        "carbohydrates": "10,1 г"
+    },
+    {
+        "tittle": "Петрушка (корень)",
+        "callories": "51 кКал",
+        "proteins": "1,5 г",
+        "fats": "0,6 г",
+        "carbohydrates": "10,1 г"
+    },
+    {
+        "tittle": "Петрушка свежая",
+        "callories": "49 кКал",
+        "proteins": "3,7 г",
+        "fats": "0,4 г",
+        "carbohydrates": "7,6 г"
+    },
+    {
+        "tittle": "Петрушка, сублимированная",
+        "callories": "271 кКал",
+        "proteins": "31,3 г",
+        "fats": "5,2 г",
+        "carbohydrates": "9,68 г"
+    },
+    {
+        "tittle": "Петрушка, сырая",
+        "callories": "36 кКал",
+        "proteins": "2,97 г",
+        "fats": "0,79 г",
+        "carbohydrates": "3,03 г"
+    },
+    {
+        "tittle": "Повидло морковное",
+        "callories": "282 кКал",
+        "proteins": "0,5 г",
+        "fats": "0,4 г",
+        "carbohydrates": "65,8 г"
+    },
+    {
+        "tittle": "Подварка кабачковая",
+        "callories": "272 кКал",
+        "proteins": "0,2 г",
+        "fats": "0,1 г",
+        "carbohydrates": "67,2 г"
+    },
+    {
+        "tittle": "Подварка морковная",
+        "callories": "271 кКал",
+        "proteins": "0,5 г",
+        "fats": "0,4 г",
+        "carbohydrates": "65,8 г"
+    },
+    {
+        "tittle": "Подварка свекольная",
+        "callories": "269 кКал",
+        "proteins": "0,5 г",
+        "fats": "0,1 г",
+        "carbohydrates": "65,9 г"
+    },
+    {
+        "tittle": "Пои",
+        "callories": "112 кКал",
+        "proteins": "0,38 г",
+        "fats": "0,14 г",
+        "carbohydrates": "26,83 г"
+    },
+    {
+        "tittle": "Полынь, сырая",
+        "callories": "32 кКал",
+        "proteins": "0,33 г",
+        "fats": "0,52 г",
+        "carbohydrates": "3,64 г"
+    },
+    {
+        "tittle": "Помидор (томат)",
+        "callories": "18 кКал",
+        "proteins": "0,88 г",
+        "fats": "0,2 г",
+        "carbohydrates": "2,69 г"
+    },
+    {
+        "tittle": "Помидор (томат) желтый, сырые",
+        "callories": "15 кКал",
+        "proteins": "0,98 г",
+        "fats": "0,26 г",
+        "carbohydrates": "2,28 г"
+    },
+    {
+        "tittle": "Помидор (томат) зеленый",
+        "callories": "23 кКал",
+        "proteins": "1,2 г",
+        "fats": "0,2 г",
+        "carbohydrates": "4 г"
+    },
+    {
+        "tittle": "Помидор (томат) оранжевый",
+        "callories": "16 кКал",
+        "proteins": "1,16 г",
+        "fats": "0,19 г",
+        "carbohydrates": "2,28 г"
+    },
+    {
+        "tittle": "Помидор (томат), грунтовый",
+        "callories": "24 кКал",
+        "proteins": "1,1 г",
+        "fats": "0,2 г",
+        "carbohydrates": "3,8 г"
+    },
+    {
+        "tittle": "Помидор (томат), парниковый",
+        "callories": "14 кКал",
+        "proteins": "0,6 г",
+        "fats": "0 г",
+        "carbohydrates": "3,8 г"
+    },
+    {
+        "tittle": "Помидоры (томаты) без кожицы. Консервы",
+        "callories": "12 кКал",
+        "proteins": "0,5 г",
+        "fats": "0 г",
+        "carbohydrates": "2,3 г"
+    },
+    {
+        "tittle": "Помидоры (томаты) жареные по 2-56",
+        "callories": "73 кКал",
+        "proteins": "1,8 г",
+        "fats": "4,7 г",
+        "carbohydrates": "5,1 г"
+    },
+    {
+        "tittle": "Помидоры (томаты) консервированные с зеленым перцем чили",
+        "callories": "15 кКал",
+        "proteins": "0,69 г",
+        "fats": "0,08 г",
+        "carbohydrates": "3,62 г"
+    },
+    {
+        "tittle": "Помидоры (томаты) консервированные, тушеные",
+        "callories": "26 кКал",
+        "proteins": "0,91 г",
+        "fats": "0,19 г",
+        "carbohydrates": "5,19 г"
+    },
+    {
+        "tittle": "Помидоры (томаты) мятые, консервированные",
+        "callories": "32 кКал",
+        "proteins": "1,64 г",
+        "fats": "0,28 г",
+        "carbohydrates": "5,39 г"
+    },
+    {
+        "tittle": "Помидоры (томаты) с кожицей. Консервы",
+        "callories": "20 кКал",
+        "proteins": "1,1 г",
+        "fats": "0,1 г",
+        "carbohydrates": "3,5 г"
+    },
+    {
+        "tittle": "Помидоры (томаты) соленые",
+        "callories": "16 кКал",
+        "proteins": "1,1 г",
+        "fats": "0,1 г",
+        "carbohydrates": "1,6 г"
+    },
+    {
+        "tittle": "Помидоры (томаты), вяленые",
+        "callories": "258 кКал",
+        "proteins": "14,11 г",
+        "fats": "2,97 г",
+        "carbohydrates": "43,46 г"
+    },
+    {
+        "tittle": "Помидоры (томаты), вяленые, упакованные в масле",
+        "callories": "213 кКал",
+        "proteins": "5,06 г",
+        "fats": "14,08 г",
+        "carbohydrates": "17,53 г"
+    },
+    {
+        "tittle": "Помидоры (томаты), консервированные в томатном соке, без добавления соли",
+        "callories": "16 кКал",
+        "proteins": "0,79 г",
+        "fats": "0,25 г",
+        "carbohydrates": "1,57 г"
+    },
+    {
+        "tittle": "Помидоры (томаты), консервированные, в томатном соке",
+        "callories": "16 кКал",
+        "proteins": "0,79 г",
+        "fats": "0,25 г",
+        "carbohydrates": "1,57 г"
+    },
+    {
+        "tittle": "Помидоры (томаты), приготовленные",
+        "callories": "18 кКал",
+        "proteins": "0,95 г",
+        "fats": "0,11 г",
+        "carbohydrates": "3,31 г"
+    },
+    {
+        "tittle": "Помидоры (томаты), приготовленные с солью",
+        "callories": "18 кКал",
+        "proteins": "0,95 г",
+        "fats": "0,11 г",
+        "carbohydrates": "3,31 г"
+    },
+    {
+        "tittle": "Помидоры (томаты), тушеные",
+        "callories": "79 кКал",
+        "proteins": "1,96 г",
+        "fats": "2,68 г",
+        "carbohydrates": "11,35 г"
+    },
+    {
+        "tittle": "Помидоры (томаты), фаршированные с рисом и морковью по 1-262",
+        "callories": "91 кКал",
+        "proteins": "2 г",
+        "fats": "4,9 г",
+        "carbohydrates": "9,3 г"
+    },
+    {
+        "tittle": "Портулак, вареный, без соли",
+        "callories": "18 кКал",
+        "proteins": "1,49 г",
+        "fats": "0,19 г",
+        "carbohydrates": "3,55 г"
+    },
+    {
+        "tittle": "Портулак, вареный, с солью",
+        "callories": "18 кКал",
+        "proteins": "1,49 г",
+        "fats": "0,19 г",
+        "carbohydrates": "3,55 г"
+    },
+    {
+        "tittle": "Портулак, сырой",
+        "callories": "20 кКал",
+        "proteins": "2,03 г",
+        "fats": "0,36 г",
+        "carbohydrates": "3,39 г"
+    },
+    {
+        "tittle": "Рагу овощное по 1-226",
+        "callories": "91 кКал",
+        "proteins": "1,9 г",
+        "fats": "4,5 г",
+        "carbohydrates": "10,6 г"
+    },
+    {
+        "tittle": "Радиккио (итальянский цикорий), сырой",
+        "callories": "23 кКал",
+        "proteins": "1,43 г",
+        "fats": "0,25 г",
+        "carbohydrates": "3,58 г"
+    },
+    {
+        "tittle": "Рапини (брокколи рааб)",
+        "callories": "22 кКал",
+        "proteins": "3,17 г",
+        "fats": "0,49 г",
+        "carbohydrates": "0,15 г"
+    },
+    {
+        "tittle": "Рапини (брокколи рааб), приготовленная",
+        "callories": "25 кКал",
+        "proteins": "3,83 г",
+        "fats": "0,52 г",
+        "carbohydrates": "0,32 г"
+    },
+    {
+        "tittle": "Ревень",
+        "callories": "16 кКал",
+        "proteins": "0,7 г",
+        "fats": "0,1 г",
+        "carbohydrates": "2,5 г"
+    },
+    {
+        "tittle": "Редис",
+        "callories": "16 кКал",
+        "proteins": "0,68 г",
+        "fats": "0,1 г",
+        "carbohydrates": "1,8 г"
+    },
+    {
+        "tittle": "Редис",
+        "callories": "20 кКал",
+        "proteins": "1,2 г",
+        "fats": "0,1 г",
+        "carbohydrates": "3,4 г"
+    },
+    {
+        "tittle": "Редис белый",
+        "callories": "14 кКал",
+        "proteins": "1,1 г",
+        "fats": "0,1 г",
+        "carbohydrates": "1,23 г"
+    },
+    {
+        "tittle": "Редис по-гавайски, маринованный",
+        "callories": "28 кКал",
+        "proteins": "1,1 г",
+        "fats": "0,3 г",
+        "carbohydrates": "3 г"
+    },
+    {
+        "tittle": "Редис, проросшие семена, сырые",
+        "callories": "43 кКал",
+        "proteins": "3,81 г",
+        "fats": "2,53 г",
+        "carbohydrates": "3,6 г"
+    },
+    {
+        "tittle": "Редька белая (дайкон, восточнная редька)",
+        "callories": "18 кКал",
+        "proteins": "0,6 г",
+        "fats": "0,1 г",
+        "carbohydrates": "2,5 г"
+    },
+    {
+        "tittle": "Редька белая (дайкон, восточнная редька), вареная, без соли",
+        "callories": "17 кКал",
+        "proteins": "0,67 г",
+        "fats": "0,24 г",
+        "carbohydrates": "1,83 г"
+    },
+    {
+        "tittle": "Редька белая (дайкон, восточнная редька), вареная, с солью",
+        "callories": "17 кКал",
+        "proteins": "0,67 г",
+        "fats": "0,24 г",
+        "carbohydrates": "1,83 г"
+    },
+    {
+        "tittle": "Редька белая (дайкон, восточнная редька), сушеная",
+        "callories": "271 кКал",
+        "proteins": "7,9 г",
+        "fats": "0,72 г",
+        "carbohydrates": "39,47 г"
+    },
+    {
+        "tittle": "Редька с маслом по 1-78",
+        "callories": "96 кКал",
+        "proteins": "1,7 г",
+        "fats": "7 г",
+        "carbohydrates": "6,4 г"
+    },
+    {
+        "tittle": "Редька черная",
+        "callories": "36 кКал",
+        "proteins": "1,9 г",
+        "fats": "0,2 г",
+        "carbohydrates": "6,7 г"
+    },
+    {
+        "tittle": "Репа",
+        "callories": "32 кКал",
+        "proteins": "1,5 г",
+        "fats": "0,1 г",
+        "carbohydrates": "6,2 г"
+    },
+    {
+        "tittle": "Репа припущенная по 1-214",
+        "callories": "45 кКал",
+        "proteins": "1,6 г",
+        "fats": "1,5 г",
+        "carbohydrates": "6,3 г"
+    },
+    {
+        "tittle": "Рогоз, молодые листья",
+        "callories": "25 кКал",
+        "proteins": "1,18 г",
+        "fats": "0 г",
+        "carbohydrates": "0,64 г"
+    },
+    {
+        "tittle": "Руккола",
+        "callories": "25 кКал",
+        "proteins": "2,58 г",
+        "fats": "0,66 г",
+        "carbohydrates": "2,05 г"
+    },
+    {
+        "tittle": "Савойская капуста",
+        "callories": "27 кКал",
+        "proteins": "2 г",
+        "fats": "0,1 г",
+        "carbohydrates": "3 г"
+    },
+    {
+        "tittle": "Савойская капуста, вареная, без соли",
+        "callories": "24 кКал",
+        "proteins": "1,8 г",
+        "fats": "0,09 г",
+        "carbohydrates": "2,61 г"
+    },
+    {
+        "tittle": "Савойская капуста, вареная, с солью",
+        "callories": "24 кКал",
+        "proteins": "1,8 г",
+        "fats": "0,09 г",
+        "carbohydrates": "2,61 г"
+    },
+    {
+        "tittle": "Салат (латук)",
+        "callories": "16 кКал",
+        "proteins": "1,5 г",
+        "fats": "0,2 г",
+        "carbohydrates": "2 г"
+    },
+    {
+        "tittle": "Салат (латук) зеленолистный",
+        "callories": "15 кКал",
+        "proteins": "1,36 г",
+        "fats": "0,15 г",
+        "carbohydrates": "1,57 г"
+    },
+    {
+        "tittle": "Салат (латук) краснолистный",
+        "callories": "13 кКал",
+        "proteins": "1,33 г",
+        "fats": "0,22 г",
+        "carbohydrates": "1,36 г"
+    },
+    {
+        "tittle": "Салат зеленый по 1-58",
+        "callories": "54 кКал",
+        "proteins": "1,8 г",
+        "fats": "4,1 г",
+        "carbohydrates": "2,4 г"
+    },
+    {
+        "tittle": "Салат зеленый с огурцами по 1-60",
+        "callories": "52 кКал",
+        "proteins": "1,5 г",
+        "fats": "4,1 г",
+        "carbohydrates": "2,2 г"
+    },
+    {
+        "tittle": "Салат из зеленого лука по 1-60",
+        "callories": "56 кКал",
+        "proteins": "1,6 г",
+        "fats": "4 г",
+        "carbohydrates": "3,3 г"
+    },
+    {
+        "tittle": "Салат из капусты белокочанной по 1-72",
+        "callories": "69 кКал",
+        "proteins": "2,6 г",
+        "fats": "5 г",
+        "carbohydrates": "3,1 г"
+    },
+    {
+        "tittle": "Салат из квашеной капусты по 1-74",
+        "callories": "76 кКал",
+        "proteins": "1,4 г",
+        "fats": "4,9 г",
+        "carbohydrates": "6 г"
+    },
+    {
+        "tittle": "Салат из моркови по 1-78",
+        "callories": "67 кКал",
+        "proteins": "1,3 г",
+        "fats": "2 г",
+        "carbohydrates": "10,7 г"
+    },
+    {
+        "tittle": "Салат из редиса по 1-64",
+        "callories": "67 кКал",
+        "proteins": "2,5 г",
+        "fats": "5 г",
+        "carbohydrates": "2,9 г"
+    },
+    {
+        "tittle": "Салат из свежих огурцов по 1-60",
+        "callories": "52 кКал",
+        "proteins": "1,2 г",
+        "fats": "4 г",
+        "carbohydrates": "2,7 г"
+    },
+    {
+        "tittle": "Салат из свежих помидоров и огурцов по 1-62",
+        "callories": "57 кКал",
+        "proteins": "1,4 г",
+        "fats": "4,1 г",
+        "carbohydrates": "3,3 г"
+    },
+    {
+        "tittle": "Салат из свежих помидоров по 1-62",
+        "callories": "59 кКал",
+        "proteins": "1,5 г",
+        "fats": "4,1 г",
+        "carbohydrates": "3,6 г"
+    },
+    {
+        "tittle": "Салат из свежих помидоров с перцем по 1-62",
+        "callories": "66 кКал",
+        "proteins": "0,9 г",
+        "fats": "4,7 г",
+        "carbohydrates": "4,3 г"
+    },
+    {
+        "tittle": "Салат из свеклы с сыром и чесноком по 1-76",
+        "callories": "178 кКал",
+        "proteins": "5,1 г",
+        "fats": "14,2 г",
+        "carbohydrates": "7,1 г"
+    },
+    {
+        "tittle": "Салат из соленых огурцов с луком по 1-60",
+        "callories": "61 кКал",
+        "proteins": "0,9 г",
+        "fats": "5 г",
+        "carbohydrates": "2,6 г"
+    },
+    {
+        "tittle": "Салат из цветной капусты, помидоров и зелени по 1-66",
+        "callories": "108 кКал",
+        "proteins": "1,5 г",
+        "fats": "8,7 г",
+        "carbohydrates": "5,6 г"
+    },
+    {
+        "tittle": "Салат картофельный с огурцами по 1-70",
+        "callories": "71 кКал",
+        "proteins": "1,7 г",
+        "fats": "3,2 г",
+        "carbohydrates": "8,6 г"
+    },
+    {
+        "tittle": "Салат романо (римский салат, ромен)",
+        "callories": "17 кКал",
+        "proteins": "1,23 г",
+        "fats": "0,3 г",
+        "carbohydrates": "1,19 г"
+    },
+    {
+        "tittle": "Салат спаржевый (стеблевой, уйсун), сырой",
+        "callories": "18 кКал",
+        "proteins": "0,85 г",
+        "fats": "0,3 г",
+        "carbohydrates": "1,95 г"
+    },
+    {
+        "tittle": "Салат эскариоль, вареный",
+        "callories": "15 кКал",
+        "proteins": "1,15 г",
+        "fats": "0,18 г",
+        "carbohydrates": "0,27 г"
+    },
+    {
+        "tittle": "Салат-латук головчатый (включая сорты бостон и бибб)",
+        "callories": "13 кКал",
+        "proteins": "1,35 г",
+        "fats": "0,22 г",
+        "carbohydrates": "1,13 г"
+    },
+    {
+        "tittle": "Свекла",
+        "callories": "43 кКал",
+        "proteins": "1,61 г",
+        "fats": "0,17 г",
+        "carbohydrates": "6,76 г"
+    },
+    {
+        "tittle": "Свекла",
+        "callories": "42 кКал",
+        "proteins": "1,5 г",
+        "fats": "0,1 г",
+        "carbohydrates": "8,8 г"
+    },
+    {
+        "tittle": "Свекла квашеная",
+        "callories": "32 кКал",
+        "proteins": "1,3 г",
+        "fats": "0,14 г",
+        "carbohydrates": "6 г"
+    },
+    {
+        "tittle": "Свекла маринованная, консервированная",
+        "callories": "65 кКал",
+        "proteins": "0,8 г",
+        "fats": "0,08 г",
+        "carbohydrates": "15,48 г"
+    },
+    {
+        "tittle": "Свекла отварная по 1-76",
+        "callories": "48 кКал",
+        "proteins": "1,8 г",
+        "fats": "0,1 г",
+        "carbohydrates": "9,8 г"
+    },
+    {
+        "tittle": "Свекла по-гарвардски, консервированная",
+        "callories": "73 кКал",
+        "proteins": "0,84 г",
+        "fats": "0,06 г",
+        "carbohydrates": "15,68 г"
+    },
+    {
+        "tittle": "Свекла сушеная",
+        "callories": "257 кКал",
+        "proteins": "9 г",
+        "fats": "0,6 г",
+        "carbohydrates": "56,6 г"
+    },
+    {
+        "tittle": "Свекла тушеная по 2-50",
+        "callories": "75 кКал",
+        "proteins": "1,6 г",
+        "fats": "3 г",
+        "carbohydrates": "10,3 г"
+    },
+    {
+        "tittle": "Свекла, вареная",
+        "callories": "44 кКал",
+        "proteins": "1,68 г",
+        "fats": "0,18 г",
+        "carbohydrates": "7,96 г"
+    },
+    {
+        "tittle": "Свекла, вареная, с солью",
+        "callories": "44 кКал",
+        "proteins": "1,68 г",
+        "fats": "0,18 г",
+        "carbohydrates": "7,96 г"
+    },
+    {
+        "tittle": "Свекла, консервированная",
+        "callories": "30 кКал",
+        "proteins": "0,73 г",
+        "fats": "0,09 г",
+        "carbohydrates": "5,94 г"
+    },
+    {
+        "tittle": "Свекла, консервированная, без добавления соли",
+        "callories": "28 кКал",
+        "proteins": "0,8 г",
+        "fats": "0,07 г",
+        "carbohydrates": "5,37 г"
+    },
+    {
+        "tittle": "Свекла, консервированная, сухой продукт без маринада",
+        "callories": "31 кКал",
+        "proteins": "0,91 г",
+        "fats": "0,14 г",
+        "carbohydrates": "5,41 г"
+    },
+    {
+        "tittle": "Свекла, тушенная с яблоками по 1-222",
+        "callories": "84 кКал",
+        "proteins": "1,3 г",
+        "fats": "3,9 г",
+        "carbohydrates": "10,7 г"
+    },
+    {
+        "tittle": "Свеклы листья (ботва свекольная)",
+        "callories": "22 кКал",
+        "proteins": "2,2 г",
+        "fats": "0,13 г",
+        "carbohydrates": "0,63 г"
+    },
+    {
+        "tittle": "Свеклы листья (ботва свекольная) вареные, без соли",
+        "callories": "27 кКал",
+        "proteins": "2,57 г",
+        "fats": "0,2 г",
+        "carbohydrates": "2,56 г"
+    },
+    {
+        "tittle": "Свеклы листья (ботва свекольная) вареные, с солью",
+        "callories": "27 кКал",
+        "proteins": "2,57 г",
+        "fats": "0,2 г",
+        "carbohydrates": "2,56 г"
+    },
+    {
+        "tittle": "Свекольные котлеты по 1-234",
+        "callories": "187 кКал",
+        "proteins": "4,1 г",
+        "fats": "8,1 г",
+        "carbohydrates": "24,1 г"
+    },
+    {
+        "tittle": "Сельдерей",
+        "callories": "14 кКал",
+        "proteins": "0,69 г",
+        "fats": "0,17 г",
+        "carbohydrates": "1,37 г"
+    },
+    {
+        "tittle": "Сельдерей",
+        "callories": "13 кКал",
+        "proteins": "0,9 г",
+        "fats": "0,1 г",
+        "carbohydrates": "2,1 г"
+    },
+    {
+        "tittle": "Сельдерей (корень)",
+        "callories": "34 кКал",
+        "proteins": "1,3 г",
+        "fats": "0,3 г",
+        "carbohydrates": "6,5 г"
+    },
+    {
+        "tittle": "Сельдерей вареный, без соли",
+        "callories": "18 кКал",
+        "proteins": "0,83 г",
+        "fats": "0,16 г",
+        "carbohydrates": "2,4 г"
+    },
+    {
+        "tittle": "Сельдерей вареный, с солью",
+        "callories": "18 кКал",
+        "proteins": "0,83 г",
+        "fats": "0,16 г",
+        "carbohydrates": "2,4 г"
+    },
+    {
+        "tittle": "Сельдерей, корень",
+        "callories": "42 кКал",
+        "proteins": "1,5 г",
+        "fats": "0,3 г",
+        "carbohydrates": "7,4 г"
+    },
+    {
+        "tittle": "Сельдерей, корень, вареный, без соли",
+        "callories": "27 кКал",
+        "proteins": "0,96 г",
+        "fats": "0,19 г",
+        "carbohydrates": "4,7 г"
+    },
+    {
+        "tittle": "Сельдерей, корень, вареный, с солью",
+        "callories": "27 кКал",
+        "proteins": "0,96 г",
+        "fats": "0,19 г",
+        "carbohydrates": "5,9 г"
+    },
+    {
+        "tittle": "Семена люцерны, проросшие",
+        "callories": "23 кКал",
+        "proteins": "3,99 г",
+        "fats": "0,69 г",
+        "carbohydrates": "0,2 г"
+    },
+    {
+        "tittle": "Сердцевина пальмы, консервированная",
+        "callories": "28 кКал",
+        "proteins": "2,52 г",
+        "fats": "0,62 г",
+        "carbohydrates": "2,22 г"
+    },
+    {
+        "tittle": "Сердцевина пальмы, сырая",
+        "callories": "115 кКал",
+        "proteins": "2,7 г",
+        "fats": "0,2 г",
+        "carbohydrates": "24,11 г"
+    },
+    {
+        "tittle": "Сесбания, цветы, приготовленные на пару без соли",
+        "callories": "22 кКал",
+        "proteins": "1,14 г",
+        "fats": "0,05 г",
+        "carbohydrates": "5,23 г"
+    },
+    {
+        "tittle": "Сесбания, цветы, приготовленные на пару с солью",
+        "callories": "21 кКал",
+        "proteins": "1,14 г",
+        "fats": "0,05 г",
+        "carbohydrates": "5,1 г"
+    },
+    {
+        "tittle": "Сесбания, цветы, сырые",
+        "callories": "27 кКал",
+        "proteins": "1,28 г",
+        "fats": "0,04 г",
+        "carbohydrates": "6,73 г"
+    },
+    {
+        "tittle": "Сладкий картофель, консервированный в вакуумной упаковке",
+        "callories": "91 кКал",
+        "proteins": "1,65 г",
+        "fats": "0,2 г",
+        "carbohydrates": "19,32 г"
+    },
+    {
+        "tittle": "Смесь овощей, замороженная, вареная, без соли",
+        "callories": "65 кКал",
+        "proteins": "2,86 г",
+        "fats": "0,15 г",
+        "carbohydrates": "8,69 г"
+    },
+    {
+        "tittle": "Смесь овощей, замороженная, вареная, с солью",
+        "callories": "60 кКал",
+        "proteins": "2,86 г",
+        "fats": "0,15 г",
+        "carbohydrates": "8,69 г"
+    },
+    {
+        "tittle": "Смесь овощей, замороженная, неприготовленная",
+        "callories": "72 кКал",
+        "proteins": "3,33 г",
+        "fats": "0,52 г",
+        "carbohydrates": "9,47 г"
+    },
+    {
+        "tittle": "Смесь овощей, консервированная",
+        "callories": "36 кКал",
+        "proteins": "1,42 г",
+        "fats": "0,25 г",
+        "carbohydrates": "3,33 г"
+    },
+    {
+        "tittle": "Смесь овощей, консервированная, сухой продукт без маринада",
+        "callories": "49 кКал",
+        "proteins": "2,59 г",
+        "fats": "0,25 г",
+        "carbohydrates": "6,26 г"
+    },
+    {
+        "tittle": "Спаржа",
+        "callories": "21 кКал",
+        "proteins": "1,9 г",
+        "fats": "0,1 г",
+        "carbohydrates": "3,1 г"
+    },
+    {
+        "tittle": "Спаржа, вареная",
+        "callories": "22 кКал",
+        "proteins": "2,4 г",
+        "fats": "0,22 г",
+        "carbohydrates": "2,11 г"
+    },
+    {
+        "tittle": "Спаржа, вареная, с солью",
+        "callories": "22 кКал",
+        "proteins": "2,4 г",
+        "fats": "0,22 г",
+        "carbohydrates": "2,11 г"
+    },
+    {
+        "tittle": "Спаржа, замороженная, вареная, без соли",
+        "callories": "18 кКал",
+        "proteins": "2,95 г",
+        "fats": "0,42 г",
+        "carbohydrates": "0,32 г"
+    },
+    {
+        "tittle": "Спаржа, замороженная, вареная, с солью",
+        "callories": "18 кКал",
+        "proteins": "2,95 г",
+        "fats": "0,42 г",
+        "carbohydrates": "0,32 г"
+    },
+    {
+        "tittle": "Спаржа, замороженная, неприготовленная",
+        "callories": "24 кКал",
+        "proteins": "3,23 г",
+        "fats": "0,23 г",
+        "carbohydrates": "2,2 г"
+    },
+    {
+        "tittle": "Спаржа, консервированная, без добавления соли",
+        "callories": "15 кКал",
+        "proteins": "1,8 г",
+        "fats": "0,18 г",
+        "carbohydrates": "1,48 г"
+    },
+    {
+        "tittle": "Спаржа, консервированная, стандартная упаковка",
+        "callories": "15 кКал",
+        "proteins": "1,8 г",
+        "fats": "0,18 г",
+        "carbohydrates": "1,48 г"
+    },
+    {
+        "tittle": "Спаржа, консервированная, сухой продукт без маринада",
+        "callories": "19 кКал",
+        "proteins": "2,14 г",
+        "fats": "0,65 г",
+        "carbohydrates": "0,86 г"
+    },
+    {
+        "tittle": "Спаржа, сырая",
+        "callories": "20 кКал",
+        "proteins": "2,2 г",
+        "fats": "0,12 г",
+        "carbohydrates": "1,78 г"
+    },
+    {
+        "tittle": "Стрелолист, вареный, без соли",
+        "callories": "78 кКал",
+        "proteins": "4,49 г",
+        "fats": "0,1 г",
+        "carbohydrates": "16,14 г"
+    },
+    {
+        "tittle": "Стрелолист, листья, вареные, с солью",
+        "callories": "78 кКал",
+        "proteins": "4,49 г",
+        "fats": "0,1 г",
+        "carbohydrates": "16,14 г"
+    },
+    {
+        "tittle": "Стрелолист, сырой",
+        "callories": "99 кКал",
+        "proteins": "5,33 г",
+        "fats": "0,29 г",
+        "carbohydrates": "20,23 г"
+    },
+    {
+        "tittle": "Суфле морковное по 1-250",
+        "callories": "189 кКал",
+        "proteins": "6,5 г",
+        "fats": "12,9 г",
+        "carbohydrates": "11,3 г"
+    },
+    {
+        "tittle": "Томатная паста, консервированная, без соли",
+        "callories": "82 кКал",
+        "proteins": "4,32 г",
+        "fats": "0,47 г",
+        "carbohydrates": "14,81 г"
+    },
+    {
+        "tittle": "Томатная паста. Консервы",
+        "callories": "102 кКал",
+        "proteins": "4,8 г",
+        "fats": "0,47 г",
+        "carbohydrates": "19 г"
+    },
+    {
+        "tittle": "Томатное пюре, консервированное, без соли",
+        "callories": "38 кКал",
+        "proteins": "1,65 г",
+        "fats": "0,21 г",
+        "carbohydrates": "7,08 г"
+    },
+    {
+        "tittle": "Томатное пюре, консервированное, с солью",
+        "callories": "38 кКал",
+        "proteins": "1,65 г",
+        "fats": "0,21 г",
+        "carbohydrates": "7,08 г"
+    },
+    {
+        "tittle": "Томатное пюре. Консервы",
+        "callories": "66 кКал",
+        "proteins": "3,6 г",
+        "fats": "0,21 г",
+        "carbohydrates": "11,8 г"
+    },
+    {
+        "tittle": "Томатный порошок",
+        "callories": "302 кКал",
+        "proteins": "12,91 г",
+        "fats": "0,44 г",
+        "carbohydrates": "58,18 г"
+    },
+    {
+        "tittle": "Томатный соус из отборных томатов, консервированный",
+        "callories": "32 кКал",
+        "proteins": "1,32 г",
+        "fats": "0,39 г",
+        "carbohydrates": "5,69 г"
+    },
+    {
+        "tittle": "Томатный соус по-испански, консервированный",
+        "callories": "33 кКал",
+        "proteins": "1,44 г",
+        "fats": "0,27 г",
+        "carbohydrates": "5,84 г"
+    },
+    {
+        "tittle": "Томатный соус с грибами, консервированный",
+        "callories": "35 кКал",
+        "proteins": "1,45 г",
+        "fats": "0,13 г",
+        "carbohydrates": "6,93 г"
+    },
+    {
+        "tittle": "Томатный соус с зеленью и сыром, консервированный",
+        "callories": "59 кКал",
+        "proteins": "2,13 г",
+        "fats": "1,93 г",
+        "carbohydrates": "8,04 г"
+    },
+    {
+        "tittle": "Томатный соус с луком, зеленым перцем и сельдерем, консервированный",
+        "callories": "41 кКал",
+        "proteins": "0,94 г",
+        "fats": "0,74 г",
+        "carbohydrates": "7,37 г"
+    },
+    {
+        "tittle": "Томатный соус с луком, консервированный",
+        "callories": "42 кКал",
+        "proteins": "1,56 г",
+        "fats": "0,19 г",
+        "carbohydrates": "8,14 г"
+    },
+    {
+        "tittle": "Томатный соус, без добавления соли",
+        "callories": "24 кКал",
+        "proteins": "1,2 г",
+        "fats": "0,3 г",
+        "carbohydrates": "3,81 г"
+    },
+    {
+        "tittle": "Томатный соус, консервированный",
+        "callories": "24 кКал",
+        "proteins": "1,2 г",
+        "fats": "0,3 г",
+        "carbohydrates": "3,81 г"
+    },
+    {
+        "tittle": "Топинамбур",
+        "callories": "61 кКал",
+        "proteins": "2,1 г",
+        "fats": "0,1 г",
+        "carbohydrates": "12,8 г"
+    },
+    {
+        "tittle": "Топинамбур, сырой",
+        "callories": "73 кКал",
+        "proteins": "2 г",
+        "fats": "0,01 г",
+        "carbohydrates": "15,84 г"
+    },
+    {
+        "tittle": "Турнепс с зеленью, замороженный, вареный, без соли",
+        "callories": "35 кКал",
+        "proteins": "2,99 г",
+        "fats": "0,38 г",
+        "carbohydrates": "1,75 г"
+    },
+    {
+        "tittle": "Турнепс с зеленью, замороженный, вареный, с солью",
+        "callories": "34 кКал",
+        "proteins": "2,99 г",
+        "fats": "0,38 г",
+        "carbohydrates": "1,64 г"
+    },
+    {
+        "tittle": "Турнепс с зеленью, замороженный, неприготовленный",
+        "callories": "21 кКал",
+        "proteins": "2,46 г",
+        "fats": "0,19 г",
+        "carbohydrates": "0,99 г"
+    },
+    {
+        "tittle": "Турнепс, вареный, без соли",
+        "callories": "22 кКал",
+        "proteins": "0,71 г",
+        "fats": "0,08 г",
+        "carbohydrates": "3,06 г"
+    },
+    {
+        "tittle": "Турнепс, вареный, с солью",
+        "callories": "22 кКал",
+        "proteins": "0,71 г",
+        "fats": "0,08 г",
+        "carbohydrates": "3,06 г"
+    },
+    {
+        "tittle": "Турнепс, замороженный, вареный, без соли",
+        "callories": "23 кКал",
+        "proteins": "1,53 г",
+        "fats": "0,24 г",
+        "carbohydrates": "2,35 г"
+    },
+    {
+        "tittle": "Турнепс, замороженный, вареный, с солью",
+        "callories": "21 кКал",
+        "proteins": "1,53 г",
+        "fats": "0,24 г",
+        "carbohydrates": "1,73 г"
+    },
+    {
+        "tittle": "Турнепс, замороженный, неприготовленный",
+        "callories": "16 кКал",
+        "proteins": "1,04 г",
+        "fats": "0,16 г",
+        "carbohydrates": "1,14 г"
+    },
+    {
+        "tittle": "Турнепс, зелень, вареная, без соли",
+        "callories": "20 кКал",
+        "proteins": "1,14 г",
+        "fats": "0,23 г",
+        "carbohydrates": "0,86 г"
+    },
+    {
+        "tittle": "Турнепс, зелень, вареная, с солью",
+        "callories": "20 кКал",
+        "proteins": "1,14 г",
+        "fats": "0,23 г",
+        "carbohydrates": "0,86 г"
+    },
+    {
+        "tittle": "Турнепс, зелень, замороженная, вареная, без соли",
+        "callories": "29 кКал",
+        "proteins": "3,35 г",
+        "fats": "0,42 г",
+        "carbohydrates": "1,58 г"
+    },
+    {
+        "tittle": "Турнепс, зелень, замороженная, вареная, с солью",
+        "callories": "29 кКал",
+        "proteins": "3,35 г",
+        "fats": "0,42 г",
+        "carbohydrates": "1,58 г"
+    },
+    {
+        "tittle": "Турнепс, зелень, замороженная, неприготовленная",
+        "callories": "22 кКал",
+        "proteins": "2,47 г",
+        "fats": "0,31 г",
+        "carbohydrates": "1,17 г"
+    },
+    {
+        "tittle": "Турнепс, зелень, консервированный",
+        "callories": "14 кКал",
+        "proteins": "1,36 г",
+        "fats": "0,3 г",
+        "carbohydrates": "0,72 г"
+    },
+    {
+        "tittle": "Турнепс, зелень, консервированный без добавления соли",
+        "callories": "19 кКал",
+        "proteins": "1,36 г",
+        "fats": "0,3 г",
+        "carbohydrates": "1,51 г"
+    },
+    {
+        "tittle": "Турнепс, зелень, сырая",
+        "callories": "32 кКал",
+        "proteins": "1,5 г",
+        "fats": "0,3 г",
+        "carbohydrates": "3,93 г"
+    },
+    {
+        "tittle": "Турнепс, репа, прерия, вареная, (индейцы северных великих равнин)",
+        "callories": "129 кКал",
+        "proteins": "1,64 г",
+        "fats": "0,32 г",
+        "carbohydrates": "22,79 г"
+    },
+    {
+        "tittle": "Турнепс, репа, прерия, сырая, (индейцы северных великих равнин)",
+        "callories": "156 кКал",
+        "proteins": "2,62 г",
+        "fats": "0,36 г",
+        "carbohydrates": "27,67 г"
+    },
+    {
+        "tittle": "Турнепс, сырой",
+        "callories": "28 кКал",
+        "proteins": "0,9 г",
+        "fats": "0,1 г",
+        "carbohydrates": "4,63 г"
+    },
+    {
+        "tittle": "Тыква",
+        "callories": "26 кКал",
+        "proteins": "1 г",
+        "fats": "0,1 г",
+        "carbohydrates": "6 г"
+    },
+    {
+        "tittle": "Тыква",
+        "callories": "22 кКал",
+        "proteins": "1 г",
+        "fats": "0,1 г",
+        "carbohydrates": "4,4 г"
+    },
+    {
+        "tittle": "Тыква вареная, без соли",
+        "callories": "20 кКал",
+        "proteins": "0,72 г",
+        "fats": "0,07 г",
+        "carbohydrates": "3,8 г"
+    },
+    {
+        "tittle": "Тыква вареная, с солью",
+        "callories": "18 кКал",
+        "proteins": "0,72 г",
+        "fats": "0,07 г",
+        "carbohydrates": "3,21 г"
+    },
+    {
+        "tittle": "Тыква голубая  (хаббард)",
+        "callories": "40 кКал",
+        "proteins": "2 г",
+        "fats": "0,5 г",
+        "carbohydrates": "4,8 г"
+    },
+    {
+        "tittle": "Тыква голубая (хаббард), печеная без соли",
+        "callories": "50 кКал",
+        "proteins": "2,48 г",
+        "fats": "0,62 г",
+        "carbohydrates": "5,91 г"
+    },
+    {
+        "tittle": "Тыква голубая (хаббард), печеная с солью",
+        "callories": "50 кКал",
+        "proteins": "2,48 г",
+        "fats": "0,62 г",
+        "carbohydrates": "5,91 г"
+    },
+    {
+        "tittle": "Тыква голубая (хаббард), пюре, без соли",
+        "callories": "30 кКал",
+        "proteins": "1,48 г",
+        "fats": "0,37 г",
+        "carbohydrates": "3,56 г"
+    },
+    {
+        "tittle": "Тыква голубая (хаббард), пюре, с солью",
+        "callories": "30 кКал",
+        "proteins": "1,48 г",
+        "fats": "0,37 г",
+        "carbohydrates": "3,56 г"
+    },
+    {
+        "tittle": "Тыква горлянка (бутылочная тыква, кабачок вьетнамский)",
+        "callories": "14 кКал",
+        "proteins": "0,62 г",
+        "fats": "0,02 г",
+        "carbohydrates": "2,89 г"
+    },
+    {
+        "tittle": "Тыква горлянка (бутылочная тыква, кабачок вьетнамский), вареная, без соли",
+        "callories": "15 кКал",
+        "proteins": "0,6 г",
+        "fats": "0,02 г",
+        "carbohydrates": "2,49 г"
+    },
+    {
+        "tittle": "Тыква горлянка (бутылочная тыква, кабачок вьетнамский), вареная, с солью",
+        "callories": "13 кКал",
+        "proteins": "0,6 г",
+        "fats": "0,02 г",
+        "carbohydrates": "1,9 г"
+    },
+    {
+        "tittle": "Тыква горлянка, сушеные стружки (Kanpyo)",
+        "callories": "258 кКал",
+        "proteins": "8,58 г",
+        "fats": "0,56 г",
+        "carbohydrates": "55,23 г"
+    },
+    {
+        "tittle": "Тыква жареная по 2-58",
+        "callories": "86 кКал",
+        "proteins": "1,7 г",
+        "fats": "5,7 г",
+        "carbohydrates": "6,9 г"
+    },
+    {
+        "tittle": "Тыква желудевая",
+        "callories": "40 кКал",
+        "proteins": "0,8 г",
+        "fats": "0,1 г",
+        "carbohydrates": "8,92 г"
+    },
+    {
+        "tittle": "Тыква желудевая, печеная без соли",
+        "callories": "56 кКал",
+        "proteins": "1,12 г",
+        "fats": "0,14 г",
+        "carbohydrates": "10,18 г"
+    },
+    {
+        "tittle": "Тыква желудевая, печеная с солью",
+        "callories": "56 кКал",
+        "proteins": "1,12 г",
+        "fats": "0,14 г",
+        "carbohydrates": "10,18 г"
+    },
+    {
+        "tittle": "Тыква желудевая, пюре, без соли",
+        "callories": "34 кКал",
+        "proteins": "0,67 г",
+        "fats": "0,08 г",
+        "carbohydrates": "6,19 г"
+    },
+    {
+        "tittle": "Тыква желудевая, пюре, с солью",
+        "callories": "34 кКал",
+        "proteins": "0,67 г",
+        "fats": "0,08 г",
+        "carbohydrates": "6,19 г"
+    },
+    {
+        "tittle": "Тыква крупноплодная, все сорта",
+        "callories": "34 кКал",
+        "proteins": "0,95 г",
+        "fats": "0,13 г",
+        "carbohydrates": "7,09 г"
+    },
+    {
+        "tittle": "Тыква крупноплодная, все сорта, вареная, с солью",
+        "callories": "37 кКал",
+        "proteins": "0,89 г",
+        "fats": "0,35 г",
+        "carbohydrates": "6,05 г"
+    },
+    {
+        "tittle": "Тыква крупноплодная, все сорта, печеная без соли",
+        "callories": "37 кКал",
+        "proteins": "0,89 г",
+        "fats": "0,35 г",
+        "carbohydrates": "6,05 г"
+    },
+    {
+        "tittle": "Тыква маринованная по 1-88",
+        "callories": "42 кКал",
+        "proteins": "0,6 г",
+        "fats": "0,1 г",
+        "carbohydrates": "8,9 г"
+    },
+    {
+        "tittle": "Тыква мускатная (грушевидная)",
+        "callories": "45 кКал",
+        "proteins": "1 г",
+        "fats": "0,1 г",
+        "carbohydrates": "9,69 г"
+    },
+    {
+        "tittle": "Тыква мускатная (грушевидная), замороженная, вареная, c солью",
+        "callories": "39 кКал",
+        "proteins": "1,23 г",
+        "fats": "0,07 г",
+        "carbohydrates": "10,04 г"
+    },
+    {
+        "tittle": "Тыква мускатная (грушевидная), замороженная, вареная, без соли",
+        "callories": "39 кКал",
+        "proteins": "1,23 г",
+        "fats": "0,07 г",
+        "carbohydrates": "10,05 г"
+    },
+    {
+        "tittle": "Тыква мускатная (грушевидная), замороженная, неприготовленная",
+        "callories": "57 кКал",
+        "proteins": "1,76 г",
+        "fats": "0,1 г",
+        "carbohydrates": "13,11 г"
+    },
+    {
+        "tittle": "Тыква мускатная (грушевидная), запеченная без соли",
+        "callories": "40 кКал",
+        "proteins": "0,9 г",
+        "fats": "0,09 г",
+        "carbohydrates": "7,29 г"
+    },
+    {
+        "tittle": "Тыква мускатная (грушевидная), запеченная с солью",
+        "callories": "40 кКал",
+        "proteins": "0,9 г",
+        "fats": "0,09 г",
+        "carbohydrates": "7,29 г"
+    },
+    {
+        "tittle": "Тыква отварная по 1-210",
+        "callories": "26 кКал",
+        "proteins": "1,2 г",
+        "fats": "0,1 г",
+        "carbohydrates": "4,9 г"
+    },
+    {
+        "tittle": "Тыква припущенная по 1-216",
+        "callories": "40 кКал",
+        "proteins": "1,2 г",
+        "fats": "1,7 г",
+        "carbohydrates": "4,8 г"
+    },
+    {
+        "tittle": "Тыква спагетти (макаронный кабачок)",
+        "callories": "31 кКал",
+        "proteins": "0,64 г",
+        "fats": "0,57 г",
+        "carbohydrates": "5,41 г"
+    },
+    {
+        "tittle": "Тыква спагетти (макаронный кабачок), вареная или печеная",
+        "callories": "27 кКал",
+        "proteins": "0,66 г",
+        "fats": "0,26 г",
+        "carbohydrates": "5,06 г"
+    },
+    {
+        "tittle": "Тыква спагетти (макаронный кабачок), вареная или печеная, без соли",
+        "callories": "27 кКал",
+        "proteins": "0,66 г",
+        "fats": "0,26 г",
+        "carbohydrates": "5,06 г"
+    },
+    {
+        "tittle": "Тыква, консервированная,  без соли",
+        "callories": "34 кКал",
+        "proteins": "1,1 г",
+        "fats": "0,28 г",
+        "carbohydrates": "5,19 г"
+    },
+    {
+        "tittle": "Тыква, консервированная,  с солью",
+        "callories": "34 кКал",
+        "proteins": "1,1 г",
+        "fats": "0,28 г",
+        "carbohydrates": "5,19 г"
+    },
+    {
+        "tittle": "Тыква, листья, вареные, без соли",
+        "callories": "21 кКал",
+        "proteins": "2,72 г",
+        "fats": "0,22 г",
+        "carbohydrates": "0,69 г"
+    },
+    {
+        "tittle": "Тыква, листья, вареные, с солью",
+        "callories": "21 кКал",
+        "proteins": "2,72 г",
+        "fats": "0,22 г",
+        "carbohydrates": "0,69 г"
+    },
+    {
+        "tittle": "Тыквенное пюре по 1-212",
+        "callories": "88 кКал",
+        "proteins": "1,7 г",
+        "fats": "6,2 г",
+        "carbohydrates": "6,3 г"
+    },
+    {
+        "tittle": "Тыквенные листья, сырые",
+        "callories": "19 кКал",
+        "proteins": "3,15 г",
+        "fats": "0,4 г",
+        "carbohydrates": "2,33 г"
+    },
+    {
+        "tittle": "Тыквенный пуддинг по 1-254",
+        "callories": "92 кКал",
+        "proteins": "3 г",
+        "fats": "3,2 г",
+        "carbohydrates": "12,3 г"
+    },
+    {
+        "tittle": "Укроп",
+        "callories": "40 кКал",
+        "proteins": "2,5 г",
+        "fats": "0,5 г",
+        "carbohydrates": "6,3 г"
+    },
+    {
+        "tittle": "Укроп, свежий",
+        "callories": "43 кКал",
+        "proteins": "3,46 г",
+        "fats": "1,12 г",
+        "carbohydrates": "4,92 г"
+    },
+    {
+        "tittle": "Фенхель (луковица), сырой",
+        "callories": "31 кКал",
+        "proteins": "1,24 г",
+        "fats": "0,2 г",
+        "carbohydrates": "4,2 г"
+    },
+    {
+        "tittle": "Физалис овощной",
+        "callories": "32 кКал",
+        "proteins": "0,96 г",
+        "fats": "1,02 г",
+        "carbohydrates": "3,94 г"
+    },
+    {
+        "tittle": "Хашбраун из картофеля, домашнего приготовления",
+        "callories": "265 кКал",
+        "proteins": "3 г",
+        "fats": "12,52 г",
+        "carbohydrates": "31,91 г"
+    },
+    {
+        "tittle": "Хашбраун из картофеля, замороженный, без добавок, неприготовленный",
+        "callories": "82 кКал",
+        "proteins": "2,06 г",
+        "fats": "0,62 г",
+        "carbohydrates": "16,32 г"
+    },
+    {
+        "tittle": "Хашбраун из картофеля, замороженный, без добавок, приготовленный с масло канолы",
+        "callories": "219 кКал",
+        "proteins": "2,65 г",
+        "fats": "11,59 г",
+        "carbohydrates": "25,31 г"
+    },
+    {
+        "tittle": "Хашбраун из картофеля, замороженный, с масляным соусом, неприготовленный",
+        "callories": "135 кКал",
+        "proteins": "1,87 г",
+        "fats": "6,66 г",
+        "carbohydrates": "15,38 г"
+    },
+    {
+        "tittle": "Хашбраун из картофеля, замороженный, с масляным соусом, приготовленный",
+        "callories": "178 кКал",
+        "proteins": "2,46 г",
+        "fats": "8,79 г",
+        "carbohydrates": "20,33 г"
+    },
+    {
+        "tittle": "Хикама (ямсфрут, мексиканская репа)",
+        "callories": "38 кКал",
+        "proteins": "0,72 г",
+        "fats": "0,09 г",
+        "carbohydrates": "3,92 г"
+    },
+    {
+        "tittle": "Хикама (ямсфрут, мексиканская репа) вареный с солью",
+        "callories": "36 кКал",
+        "proteins": "0,72 г",
+        "fats": "0,09 г",
+        "carbohydrates": "8,23 г"
+    },
+    {
+        "tittle": "Хикама (ямсфрут, мексиканская репа) вареный, без соли",
+        "callories": "38 кКал",
+        "proteins": "0,72 г",
+        "fats": "0,09 г",
+        "carbohydrates": "8,82 г"
+    },
+    {
+        "tittle": "Хризантема увенчанная, вареная, без соли",
+        "callories": "20 кКал",
+        "proteins": "1,64 г",
+        "fats": "0,09 г",
+        "carbohydrates": "2,01 г"
+    },
+    {
+        "tittle": "Хризантема увенчанная, вареная, с солью",
+        "callories": "20 кКал",
+        "proteins": "1,64 г",
+        "fats": "0,09 г",
+        "carbohydrates": "2,01 г"
+    },
+    {
+        "tittle": "Хризантема увенчанная, сырая",
+        "callories": "24 кКал",
+        "proteins": "3,36 г",
+        "fats": "0,56 г",
+        "carbohydrates": "0,02 г"
+    },
+    {
+        "tittle": "Хризантема, листья, сырые",
+        "callories": "24 кКал",
+        "proteins": "3,36 г",
+        "fats": "0,56 г",
+        "carbohydrates": "0,01 г"
+    },
+    {
+        "tittle": "Цветная капуста",
+        "callories": "25 кКал",
+        "proteins": "1,92 г",
+        "fats": "0,28 г",
+        "carbohydrates": "2,97 г"
+    },
+    {
+        "tittle": "Цветная капуста",
+        "callories": "30 кКал",
+        "proteins": "2,5 г",
+        "fats": "0,3 г",
+        "carbohydrates": "4,2 г"
+    },
+    {
+        "tittle": "Цветная капуста жареная по 1-238",
+        "callories": "47 кКал",
+        "proteins": "1,7 г",
+        "fats": "3,1 г",
+        "carbohydrates": "3 г"
+    },
+    {
+        "tittle": "Цветная капуста отварная по 1-210",
+        "callories": "22 кКал",
+        "proteins": "1,7 г",
+        "fats": "0,2 г",
+        "carbohydrates": "3,4 г"
+    },
+    {
+        "tittle": "Цветная капуста, вареная, без соли",
+        "callories": "23 кКал",
+        "proteins": "1,84 г",
+        "fats": "0,45 г",
+        "carbohydrates": "1,81 г"
+    },
+    {
+        "tittle": "Цветная капуста, вареная, с солью",
+        "callories": "23 кКал",
+        "proteins": "1,84 г",
+        "fats": "0,45 г",
+        "carbohydrates": "1,81 г"
+    },
+    {
+        "tittle": "Цветная капуста, замороженная, вареная, без соли",
+        "callories": "19 кКал",
+        "proteins": "1,61 г",
+        "fats": "0,22 г",
+        "carbohydrates": "1,05 г"
+    },
+    {
+        "tittle": "Цветная капуста, замороженная, вареная, с солью",
+        "callories": "17 кКал",
+        "proteins": "1,61 г",
+        "fats": "0,22 г",
+        "carbohydrates": "0,46 г"
+    },
+    {
+        "tittle": "Цветная капуста, замороженная, неприготовленная",
+        "callories": "24 кКал",
+        "proteins": "2,01 г",
+        "fats": "0,27 г",
+        "carbohydrates": "2,38 г"
+    },
+    {
+        "tittle": "Цветная капуста, зеленая, приготовленная без добавления соли",
+        "callories": "32 кКал",
+        "proteins": "3,04 г",
+        "fats": "0,31 г",
+        "carbohydrates": "2,98 г"
+    },
+    {
+        "tittle": "Цветная капуста, зеленая, приготовленная с солью",
+        "callories": "32 кКал",
+        "proteins": "3,04 г",
+        "fats": "0,31 г",
+        "carbohydrates": "2,98 г"
+    },
+    {
+        "tittle": "Цветная капуста, зеленая, сырая",
+        "callories": "31 кКал",
+        "proteins": "2,95 г",
+        "fats": "0,3 г",
+        "carbohydrates": "2,89 г"
+    },
+    {
+        "tittle": "Цветы тыквы, вареные, без соли",
+        "callories": "15 кКал",
+        "proteins": "1,09 г",
+        "fats": "0,08 г",
+        "carbohydrates": "2,4 г"
+    },
+    {
+        "tittle": "Цветы тыквы, вареные, с солью",
+        "callories": "15 кКал",
+        "proteins": "1,09 г",
+        "fats": "0,08 г",
+        "carbohydrates": "2,28 г"
+    },
+    {
+        "tittle": "Цветы тыквы, сырые",
+        "callories": "15 кКал",
+        "proteins": "1,03 г",
+        "fats": "0,07 г",
+        "carbohydrates": "3,28 г"
+    },
+    {
+        "tittle": "Цикорий бельгийский салатный (витлуф)",
+        "callories": "17 кКал",
+        "proteins": "0,9 г",
+        "fats": "0,1 г",
+        "carbohydrates": "0,9 г"
+    },
+    {
+        "tittle": "Цикорий салатный (эндивий)",
+        "callories": "17 кКал",
+        "proteins": "1,25 г",
+        "fats": "0,2 г",
+        "carbohydrates": "0,25 г"
+    },
+    {
+        "tittle": "Цукини с кожурой",
+        "callories": "17 кКал",
+        "proteins": "1,21 г",
+        "fats": "0,32 г",
+        "carbohydrates": "2,11 г"
+    },
+    {
+        "tittle": "Цукини с кожурой по-итальянски, консервированные",
+        "callories": "29 кКал",
+        "proteins": "1,03 г",
+        "fats": "0,11 г",
+        "carbohydrates": "6,85 г"
+    },
+    {
+        "tittle": "Цукини с кожурой, вареные, без соли",
+        "callories": "15 кКал",
+        "proteins": "1,14 г",
+        "fats": "0,36 г",
+        "carbohydrates": "1,69 г"
+    },
+    {
+        "tittle": "Цукини с кожурой, вареные, с солью",
+        "callories": "15 кКал",
+        "proteins": "1,14 г",
+        "fats": "0,36 г",
+        "carbohydrates": "1,69 г"
+    },
+    {
+        "tittle": "Цукини с кожурой, замороженные, вареные, без соли",
+        "callories": "17 кКал",
+        "proteins": "1,15 г",
+        "fats": "0,13 г",
+        "carbohydrates": "2,26 г"
+    },
+    {
+        "tittle": "Цукини с кожурой, замороженные, вареные, с солью",
+        "callories": "14 кКал",
+        "proteins": "1,15 г",
+        "fats": "0,13 г",
+        "carbohydrates": "1,67 г"
+    },
+    {
+        "tittle": "Цукини с кожурой, замороженные, неприготовленные",
+        "callories": "17 кКал",
+        "proteins": "1,16 г",
+        "fats": "0,13 г",
+        "carbohydrates": "2,28 г"
+    },
+    {
+        "tittle": "Цукини, молодые",
+        "callories": "21 кКал",
+        "proteins": "2,71 г",
+        "fats": "0,4 г",
+        "carbohydrates": "2,01 г"
+    },
+    {
+        "tittle": "Чайот (мексиканский огурец)",
+        "callories": "19 кКал",
+        "proteins": "0,82 г",
+        "fats": "0,13 г",
+        "carbohydrates": "2,81 г"
+    },
+    {
+        "tittle": "Чайот (мексиканский огурец) вареный, с солью",
+        "callories": "22 кКал",
+        "proteins": "0,62 г",
+        "fats": "0,48 г",
+        "carbohydrates": "1,7 г"
+    },
+    {
+        "tittle": "Чайот (мексиканский огурец), вареный, без соли",
+        "callories": "24 кКал",
+        "proteins": "0,62 г",
+        "fats": "0,48 г",
+        "carbohydrates": "2,29 г"
+    },
+    {
+        "tittle": "Черемша",
+        "callories": "34,9 кКал",
+        "proteins": "2,4 г",
+        "fats": "0,1 г",
+        "carbohydrates": "6,1 г"
+    },
+    {
+        "tittle": "Чеснок",
+        "callories": "149 кКал",
+        "proteins": "6,5 г",
+        "fats": "0,5 г",
+        "carbohydrates": "29,9 г"
+    },
+    {
+        "tittle": "Чеснок, зелень",
+        "callories": "46 кКал",
+        "proteins": "6,5 г",
+        "fats": "0,131 г",
+        "carbohydrates": "5,2 г"
+    },
+    {
+        "tittle": "Чеснок, сырой",
+        "callories": "149 кКал",
+        "proteins": "6,36 г",
+        "fats": "0,5 г",
+        "carbohydrates": "30,96 г"
+    },
+    {
+        "tittle": "Шницель из капусты по 1-236",
+        "callories": "118 кКал",
+        "proteins": "3,4 г",
+        "fats": "6,4 г",
+        "carbohydrates": "11,6 г"
+    },
+    {
+        "tittle": "Шпинат",
+        "callories": "23 кКал",
+        "proteins": "2,9 г",
+        "fats": "0,3 г",
+        "carbohydrates": "2 г"
+    },
+    {
+        "tittle": "Шпинат-пюре. Консервы",
+        "callories": "16 кКал",
+        "proteins": "2 г",
+        "fats": "0,1 г",
+        "carbohydrates": "2 г"
+    },
+    {
+        "tittle": "Шпинат, вареный, без соли",
+        "callories": "23 кКал",
+        "proteins": "2,97 г",
+        "fats": "0,26 г",
+        "carbohydrates": "1,35 г"
+    },
+    {
+        "tittle": "Шпинат, вареный, с солью",
+        "callories": "23 кКал",
+        "proteins": "2,97 г",
+        "fats": "0,26 г",
+        "carbohydrates": "1,35 г"
+    },
+    {
+        "tittle": "Шпинат, зелень, порезанный, замороженный,  вареный, с солью",
+        "callories": "34 кКал",
+        "proteins": "4,01 г",
+        "fats": "0,87 г",
+        "carbohydrates": "1,1 г"
+    },
+    {
+        "tittle": "Шпинат, консервированный, без добавления соли",
+        "callories": "19 кКал",
+        "proteins": "2,11 г",
+        "fats": "0,37 г",
+        "carbohydrates": "0,72 г"
+    },
+    {
+        "tittle": "Шпинат, консервированный, стандартная упаковка",
+        "callories": "19 кКал",
+        "proteins": "2,11 г",
+        "fats": "0,37 г",
+        "carbohydrates": "1,32 г"
+    },
+    {
+        "tittle": "Шпинат, консервированный, сухой продукт без маринада",
+        "callories": "23 кКал",
+        "proteins": "2,81 г",
+        "fats": "0,5 г",
+        "carbohydrates": "1 г"
+    },
+    {
+        "tittle": "Шпинат, порезанная зелень, замороженная, вареная, без соли",
+        "callories": "34 кКал",
+        "proteins": "4,01 г",
+        "fats": "0,87 г",
+        "carbohydrates": "1,1 г"
+    },
+    {
+        "tittle": "Шпинат, порезанная зелень, замороженная, неприготовленная",
+        "callories": "29 кКал",
+        "proteins": "3,63 г",
+        "fats": "0,57 г",
+        "carbohydrates": "1,31 г"
+    },
+    {
+        "tittle": "Шпинат, сырой",
+        "callories": "23 кКал",
+        "proteins": "2,86 г",
+        "fats": "0,39 г",
+        "carbohydrates": "1,43 г"
+    },
+    {
+        "tittle": "Шпинатное суфле",
+        "callories": "172 кКал",
+        "proteins": "7,89 г",
+        "fats": "12,95 г",
+        "carbohydrates": "5,2 г"
+    },
+    {
+        "tittle": "Щавель",
+        "callories": "22 кКал",
+        "proteins": "1,5 г",
+        "fats": "0,3 г",
+        "carbohydrates": "2,9 г"
+    },
+    {
+        "tittle": "Щавель, вареный, без соли",
+        "callories": "20 кКал",
+        "proteins": "1,83 г",
+        "fats": "0,64 г",
+        "carbohydrates": "0,33 г"
+    },
+    {
+        "tittle": "Щавель, вареный, с солью",
+        "callories": "20 кКал",
+        "proteins": "1,83 г",
+        "fats": "0,64 г",
+        "carbohydrates": "2,93 г"
+    },
+    {
+        "tittle": "Щавель, сырой",
+        "callories": "22 кКал",
+        "proteins": "2 г",
+        "fats": "0,7 г",
+        "carbohydrates": "0,3 г"
+    },
+    {
+        "tittle": "Эксалоп из картофеля со сливочным маслом, домашнего приготовления",
+        "callories": "88 кКал",
+        "proteins": "2,87 г",
+        "fats": "3,68 г",
+        "carbohydrates": "8,88 г"
+    },
+    {
+        "tittle": "Эксалоп картофельный с  маргарином, домашнего приготовления",
+        "callories": "88 кКал",
+        "proteins": "2,87 г",
+        "fats": "3,68 г",
+        "carbohydrates": "8,88 г"
+    },
+    {
+        "tittle": "Эксалоп картофельный, сухая смесь, неприготовленный",
+        "callories": "358 кКал",
+        "proteins": "7,77 г",
+        "fats": "4,59 г",
+        "carbohydrates": "65,33 г"
+    },
+    {
+        "tittle": "Эксалоп картофельный, сухая смесь, приготовленный с добавлением воды, молока и масла",
+        "callories": "93 кКал",
+        "proteins": "2,12 г",
+        "fats": "4,3 г",
+        "carbohydrates": "11,67 г"
+    },
+    {
+        "tittle": "Ямс горный гавайский, приготовленный на пару, без соли",
+        "callories": "82 кКал",
+        "proteins": "1,73 г",
+        "fats": "0,08 г",
+        "carbohydrates": "20 г"
+    },
+    {
+        "tittle": "Ямс горный гавайский, приготовленный на пару, с солью",
+        "callories": "82 кКал",
+        "proteins": "1,73 г",
+        "fats": "0,08 г",
+        "carbohydrates": "19,99 г"
+    },
+    {
+        "tittle": "Ямс горный гавайский, сырой",
+        "callories": "67 кКал",
+        "proteins": "1,34 г",
+        "fats": "0,1 г",
+        "carbohydrates": "13,8 г"
+    },
+    {
+        "tittle": "Ямс, вареный или печеный, без соли",
+        "callories": "116 кКал",
+        "proteins": "1,49 г",
+        "fats": "0,14 г",
+        "carbohydrates": "23,58 г"
+    },
+    {
+        "tittle": "Ямс, вареный или печеный, с солью",
+        "callories": "114 кКал",
+        "proteins": "1,49 г",
+        "fats": "0,14 г",
+        "carbohydrates": "23,09 г"
+    },
+    {
+        "tittle": "Ямс, сырой",
+        "callories": "118 кКал",
+        "proteins": "1,53 г",
+        "fats": "0,17 г",
+        "carbohydrates": "23,78 г"
+    }
+]

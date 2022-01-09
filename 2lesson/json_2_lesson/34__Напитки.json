@@ -1,0 +1,709 @@
+[
+    {
+        "tittle": "Абрикосовый газированный коктейль",
+        "callories": "36,4 кКал",
+        "proteins": "1 г",
+        "fats": "0,8 г",
+        "carbohydrates": "6,6 г"
+    },
+    {
+        "tittle": "Абрикосовый гоголь-моголь",
+        "callories": "85,5 кКал",
+        "proteins": "3,1 г",
+        "fats": "2,8 г",
+        "carbohydrates": "12,9 г"
+    },
+    {
+        "tittle": "Абрикосовый десертный напиток",
+        "callories": "86,1 кКал",
+        "proteins": "0,3 г",
+        "fats": "0,04 г",
+        "carbohydrates": "22,5 г"
+    },
+    {
+        "tittle": "Абрикосовый коктейль с поплавком",
+        "callories": "70,8 кКал",
+        "proteins": "2,7 г",
+        "fats": "2,7 г",
+        "carbohydrates": "9,4 г"
+    },
+    {
+        "tittle": "Апельсиновое молоко",
+        "callories": "78,2648 кКал",
+        "proteins": "3,0347 г",
+        "fats": "2,5187 г",
+        "carbohydrates": "10,6881 г"
+    },
+    {
+        "tittle": "Апельсиновый компот",
+        "callories": "57,2 кКал",
+        "proteins": "0,3 г",
+        "fats": "0,05 г",
+        "carbohydrates": "14,9 г"
+    },
+    {
+        "tittle": "Бурятский чай",
+        "callories": "94 кКал",
+        "proteins": "0,7 г",
+        "fats": "9,3 г",
+        "carbohydrates": "2,1 г"
+    },
+    {
+        "tittle": "Горячий абрикосовый напиток",
+        "callories": "53,7 кКал",
+        "proteins": "2,3 г",
+        "fats": "2,6 г",
+        "carbohydrates": "5,6 г"
+    },
+    {
+        "tittle": "Какао с молоком",
+        "callories": "102,8 кКал",
+        "proteins": "2,9 г",
+        "fats": "2,9 г",
+        "carbohydrates": "17,2 г"
+    },
+    {
+        "tittle": "Какао с молоком сгущенным",
+        "callories": "86,6 кКал",
+        "proteins": "2,2 г",
+        "fats": "2,4 г",
+        "carbohydrates": "15 г"
+    },
+    {
+        "tittle": "Квас из ревеня",
+        "callories": "34 кКал",
+        "proteins": "0,2 г",
+        "fats": "0,04 г",
+        "carbohydrates": "8,8 г"
+    },
+    {
+        "tittle": "Квас клюквенный",
+        "callories": "40,4 кКал",
+        "proteins": "0,1 г",
+        "fats": "0,03 г",
+        "carbohydrates": "10,6 г"
+    },
+    {
+        "tittle": "Квас по-тобольски",
+        "callories": "35,8 кКал",
+        "proteins": "0,6 г",
+        "fats": "0,1 г",
+        "carbohydrates": "8,6 г"
+    },
+    {
+        "tittle": "Квас хлебный из экстракта",
+        "callories": "4,3 кКал",
+        "proteins": "0,04 г",
+        "fats": "0,008 г",
+        "carbohydrates": "1,1 г"
+    },
+    {
+        "tittle": "Квас яблочный",
+        "callories": "36,7 кКал",
+        "proteins": "0,2 г",
+        "fats": "0,09 г",
+        "carbohydrates": "9,4 г"
+    },
+    {
+        "tittle": "Кефир с ревенем",
+        "callories": "55 кКал",
+        "proteins": "2,1 г",
+        "fats": "2,3 г",
+        "carbohydrates": "6,8 г"
+    },
+    {
+        "tittle": "Кефир, ацидофилин, простокваша, ряженка",
+        "callories": "55,9 кКал",
+        "proteins": "2,8 г",
+        "fats": "3,2 г",
+        "carbohydrates": "4,1 г"
+    },
+    {
+        "tittle": "Кисель апельсиновый",
+        "callories": "97,8 кКал",
+        "proteins": "2,7 г",
+        "fats": "2,1 г",
+        "carbohydrates": "18 г"
+    },
+    {
+        "tittle": "Кисель брусничный",
+        "callories": "75,2 кКал",
+        "proteins": "0,07 г",
+        "fats": "0,05 г",
+        "carbohydrates": "19,9 г"
+    },
+    {
+        "tittle": "Кисель из абрикосов",
+        "callories": "53,7 кКал",
+        "proteins": "0,1 г",
+        "fats": "0,01 г",
+        "carbohydrates": "14,2 г"
+    },
+    {
+        "tittle": "Кисель из земляники",
+        "callories": "51,1 кКал",
+        "proteins": "0,08 г",
+        "fats": "0,04 г",
+        "carbohydrates": "13,5 г"
+    },
+    {
+        "tittle": "Кисель из клюквы (густой)",
+        "callories": "55,4 кКал",
+        "proteins": "0,05 г",
+        "fats": "0,02 г",
+        "carbohydrates": "14,7 г"
+    },
+    {
+        "tittle": "Кисель из концентрата на плодовых или ягодных экстрактах",
+        "callories": "26,3 кКал",
+        "proteins": "0 г",
+        "fats": "0 г",
+        "carbohydrates": "7 г"
+    },
+    {
+        "tittle": "Кисель из овсяных хлопьев",
+        "callories": "130,6 кКал",
+        "proteins": "4 г",
+        "fats": "7,5 г",
+        "carbohydrates": "12,6 г"
+    },
+    {
+        "tittle": "Кисель из плодов и ягод свежих",
+        "callories": "55,2 кКал",
+        "proteins": "0,06 г",
+        "fats": "0,02 г",
+        "carbohydrates": "14,6 г"
+    },
+    {
+        "tittle": "Кисель из яблок (густой)",
+        "callories": "62,1 кКал",
+        "proteins": "0,09 г",
+        "fats": "0,08 г",
+        "carbohydrates": "16,3 г"
+    },
+    {
+        "tittle": "Кисель молочный",
+        "callories": "33,5 кКал",
+        "proteins": "0,9 г",
+        "fats": "1 г",
+        "carbohydrates": "5,5 г"
+    },
+    {
+        "tittle": "Кисель молочный (густой)",
+        "callories": "60,5 кКал",
+        "proteins": "3 г",
+        "fats": "3,3 г",
+        "carbohydrates": "4,9 г"
+    },
+    {
+        "tittle": "Кисель морковный",
+        "callories": "49,3 кКал",
+        "proteins": "0,3 г",
+        "fats": "0,02 г",
+        "carbohydrates": "12,8 г"
+    },
+    {
+        "tittle": "Коктейль \"Юпитер\"",
+        "callories": "82,5 кКал",
+        "proteins": "2,5 г",
+        "fats": "4,7 г",
+        "carbohydrates": "8,1 г"
+    },
+    {
+        "tittle": "Коктейль молочный",
+        "callories": "96,6 кКал",
+        "proteins": "2,9 г",
+        "fats": "4,3 г",
+        "carbohydrates": "12,5 г"
+    },
+    {
+        "tittle": "Коктейль с креветками",
+        "callories": "57,5 кКал",
+        "proteins": "3,1 г",
+        "fats": "4,5 г",
+        "carbohydrates": "1,2 г"
+    },
+    {
+        "tittle": "Компот из абрикосов",
+        "callories": "48,4 кКал",
+        "proteins": "0,2 г",
+        "fats": "0,02 г",
+        "carbohydrates": "12,7 г"
+    },
+    {
+        "tittle": "Компот из айвы",
+        "callories": "72,4 кКал",
+        "proteins": "0,1 г",
+        "fats": "0,1 г",
+        "carbohydrates": "18,9 г"
+    },
+    {
+        "tittle": "Компот из барбариса",
+        "callories": "111,7 кКал",
+        "proteins": "0 г",
+        "fats": "0 г",
+        "carbohydrates": "29,8 г"
+    },
+    {
+        "tittle": "Компот из вишни",
+        "callories": "53,5 кКал",
+        "proteins": "0,3 г",
+        "fats": "0,08 г",
+        "carbohydrates": "13,7 г"
+    },
+    {
+        "tittle": "Компот из моркови",
+        "callories": "34,1 кКал",
+        "proteins": "0,3 г",
+        "fats": "0,02 г",
+        "carbohydrates": "8,8 г"
+    },
+    {
+        "tittle": "Компот из плодов консервированных 2",
+        "callories": "41,3 кКал",
+        "proteins": "0,3 г",
+        "fats": "0,07 г",
+        "carbohydrates": "10,5 г"
+    },
+    {
+        "tittle": "Компот из свежих плодов",
+        "callories": "59,1 кКал",
+        "proteins": "0,1 г",
+        "fats": "0,1 г",
+        "carbohydrates": "15,3 г"
+    },
+    {
+        "tittle": "Компот из свеклы",
+        "callories": "49,2 кКал",
+        "proteins": "1 г",
+        "fats": "0,07 г",
+        "carbohydrates": "11,8 г"
+    },
+    {
+        "tittle": "Компот из смеси сухофруктов",
+        "callories": "55,6 кКал",
+        "proteins": "0,3 г",
+        "fats": "0 г",
+        "carbohydrates": "14,5 г"
+    },
+    {
+        "tittle": "Компот из тыквы и ревеня",
+        "callories": "36,5 кКал",
+        "proteins": "0,3 г",
+        "fats": "0,03 г",
+        "carbohydrates": "9,4 г"
+    },
+    {
+        "tittle": "Компот из черники",
+        "callories": "48,5 кКал",
+        "proteins": "0,4 г",
+        "fats": "0,2 г",
+        "carbohydrates": "12 г"
+    },
+    {
+        "tittle": "Компот из яблок и слив или из яблок и алычи",
+        "callories": "66,6 кКал",
+        "proteins": "0,2 г",
+        "fats": "0,1 г",
+        "carbohydrates": "17,3 г"
+    },
+    {
+        "tittle": "Костяничный кисель",
+        "callories": "37,5 кКал",
+        "proteins": "0,003 г",
+        "fats": "0 г",
+        "carbohydrates": "10 г"
+    },
+    {
+        "tittle": "Кофе на молоке",
+        "callories": "64,1 кКал",
+        "proteins": "1,4 г",
+        "fats": "1,5 г",
+        "carbohydrates": "12,1 г"
+    },
+    {
+        "tittle": "Кофе на молоке по-варшавски",
+        "callories": "72,5 кКал",
+        "proteins": "2 г",
+        "fats": "3 г",
+        "carbohydrates": "10,2 г"
+    },
+    {
+        "tittle": "Кофе на молоке сгущенном",
+        "callories": "254,3 кКал",
+        "proteins": "2,3 г",
+        "fats": "2,4 г",
+        "carbohydrates": "59,5 г"
+    },
+    {
+        "tittle": "Кофе по-восточному",
+        "callories": "61,7 кКал",
+        "proteins": "1,1 г",
+        "fats": "1,2 г",
+        "carbohydrates": "12,5 г"
+    },
+    {
+        "tittle": "Кофе черный 1-ый вариант (для кофеварки типа \"Экспресс\"",
+        "callories": "202,6 кКал",
+        "proteins": "14 г",
+        "fats": "14,5 г",
+        "carbohydrates": "4,1 г"
+    },
+    {
+        "tittle": "Кофе черный 2-ой вариант",
+        "callories": "10,7 кКал",
+        "proteins": "0,7 г",
+        "fats": "0,8 г",
+        "carbohydrates": "0,2 г"
+    },
+    {
+        "tittle": "Кофе черный с мороженым (глясе)",
+        "callories": "111,7 кКал",
+        "proteins": "1,9 г",
+        "fats": "4,1 г",
+        "carbohydrates": "17,9 г"
+    },
+    {
+        "tittle": "Кофейный холодный напиток",
+        "callories": "131,9 кКал",
+        "proteins": "1,9 г",
+        "fats": "10,9 г",
+        "carbohydrates": "7,1 г"
+    },
+    {
+        "tittle": "Креольский напиток",
+        "callories": "0 кКал",
+        "proteins": "0 г",
+        "fats": "0 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "tittle": "Крыжовник с кефиром",
+        "callories": "79,5 кКал",
+        "proteins": "3 г",
+        "fats": "4,7 г",
+        "carbohydrates": "6,6 г"
+    },
+    {
+        "tittle": "Лимонный кисель",
+        "callories": "60,1 кКал",
+        "proteins": "0,06 г",
+        "fats": "0,006 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "tittle": "Медовуха \"Зауральская\"",
+        "callories": "64,5 кКал",
+        "proteins": "1 г",
+        "fats": "0,2 г",
+        "carbohydrates": "15,6 г"
+    },
+    {
+        "tittle": "Молоко кипяченое",
+        "callories": "60,5 кКал",
+        "proteins": "3 г",
+        "fats": "3,3 г",
+        "carbohydrates": "4,9 г"
+    },
+    {
+        "tittle": "Молочно-абрикосовый коктейль",
+        "callories": "62 кКал",
+        "proteins": "2,7 г",
+        "fats": "2,8 г",
+        "carbohydrates": "7 г"
+    },
+    {
+        "tittle": "Молочный кисель из моркови",
+        "callories": "60,8 кКал",
+        "proteins": "2 г",
+        "fats": "1,9 г",
+        "carbohydrates": "9,5 г"
+    },
+    {
+        "tittle": "Молочный напиток с абрикосами",
+        "callories": "125 кКал",
+        "proteins": "1,8 г",
+        "fats": "6,3 г",
+        "carbohydrates": "16,2 г"
+    },
+    {
+        "tittle": "Морс брусничный",
+        "callories": "41,4 кКал",
+        "proteins": "0,06 г",
+        "fats": "0,04 г",
+        "carbohydrates": "10,9 г"
+    },
+    {
+        "tittle": "Напиток \"Лесная быль\"",
+        "callories": "67,6 кКал",
+        "proteins": "1,6 г",
+        "fats": "1,4 г",
+        "carbohydrates": "12,8 г"
+    },
+    {
+        "tittle": "Напиток \"Петровский\"",
+        "callories": "14,9 кКал",
+        "proteins": "0,2 г",
+        "fats": "0,02 г",
+        "carbohydrates": "3,7 г"
+    },
+    {
+        "tittle": "Напиток \"Фанта\"",
+        "callories": "27,6 кКал",
+        "proteins": "0,1 г",
+        "fats": "0,01 г",
+        "carbohydrates": "7,2 г"
+    },
+    {
+        "tittle": "Напиток апельсиновый",
+        "callories": "43 кКал",
+        "proteins": "0,03 г",
+        "fats": "0,006 г",
+        "carbohydrates": "11,4 г"
+    },
+    {
+        "tittle": "Напиток апельсиновый или лимонный",
+        "callories": "41,7 кКал",
+        "proteins": "0,08 г",
+        "fats": "0,02 г",
+        "carbohydrates": "11 г"
+    },
+    {
+        "tittle": "Напиток из айвы со сливками",
+        "callories": "37,7 кКал",
+        "proteins": "0,2 г",
+        "fats": "0,9 г",
+        "carbohydrates": "7,8 г"
+    },
+    {
+        "tittle": "Напиток из айвы со сметаной",
+        "callories": "32,7 кКал",
+        "proteins": "0,3 г",
+        "fats": "2,3 г",
+        "carbohydrates": "3 г"
+    },
+    {
+        "tittle": "Напиток из боярышника",
+        "callories": "30 кКал",
+        "proteins": "0 г",
+        "fats": "0 г",
+        "carbohydrates": "8 г"
+    },
+    {
+        "tittle": "Напиток из боярышника с овсяным отваром",
+        "callories": "42,4 кКал",
+        "proteins": "0,8 г",
+        "fats": "0,5 г",
+        "carbohydrates": "9,3 г"
+    },
+    {
+        "tittle": "Напиток из брусники",
+        "callories": "79,6 кКал",
+        "proteins": "0,3 г",
+        "fats": "0,2 г",
+        "carbohydrates": "20,5 г"
+    },
+    {
+        "tittle": "Напиток из варенья",
+        "callories": "19,4 кКал",
+        "proteins": "0 г",
+        "fats": "0 г",
+        "carbohydrates": "5,2 г"
+    },
+    {
+        "tittle": "Напиток из вишни с изюмом",
+        "callories": "46,1 кКал",
+        "proteins": "0,7 г",
+        "fats": "0,5 г",
+        "carbohydrates": "10,4 г"
+    },
+    {
+        "tittle": "Напиток из кураги",
+        "callories": "47,4 кКал",
+        "proteins": "0,4 г",
+        "fats": "0,02 г",
+        "carbohydrates": "12,1 г"
+    },
+    {
+        "tittle": "Напиток из сиропа",
+        "callories": "0 кКал",
+        "proteins": "0 г",
+        "fats": "0 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "tittle": "Напиток из тыквы",
+        "callories": "39,7 кКал",
+        "proteins": "0,2 г",
+        "fats": "0,02 г",
+        "carbohydrates": "10,3 г"
+    },
+    {
+        "tittle": "Напиток клюквенный",
+        "callories": "40,3 кКал",
+        "proteins": "0,05 г",
+        "fats": "0,02 г",
+        "carbohydrates": "10,6 г"
+    },
+    {
+        "tittle": "Напиток Рябинушка",
+        "callories": "41,1 кКал",
+        "proteins": "0,4 г",
+        "fats": "0,05 г",
+        "carbohydrates": "10,4 г"
+    },
+    {
+        "tittle": "Напиток яблочный",
+        "callories": "42,1 кКал",
+        "proteins": "0,05 г",
+        "fats": "0,05 г",
+        "carbohydrates": "11,1 г"
+    },
+    {
+        "tittle": "Напиток яблочный с медом",
+        "callories": "70,7 кКал",
+        "proteins": "0,3 г",
+        "fats": "0,1 г",
+        "carbohydrates": "18,3 г"
+    },
+    {
+        "tittle": "Настой барбарисовый",
+        "callories": "178,7 кКал",
+        "proteins": "0 г",
+        "fats": "0 г",
+        "carbohydrates": "47,7 г"
+    },
+    {
+        "tittle": "Ногайский чай (карачаево-черкесский национальный напиток)",
+        "callories": "105,4 кКал",
+        "proteins": "2,6 г",
+        "fats": "9,2 г",
+        "carbohydrates": "3,3 г"
+    },
+    {
+        "tittle": "Отвар из шиповника",
+        "callories": "18,8 кКал",
+        "proteins": "0,3 г",
+        "fats": "0,1 г",
+        "carbohydrates": "4,4 г"
+    },
+    {
+        "tittle": "Пинемень куслят (кисель овсяный - мордовское национальное блюдо)",
+        "callories": "54,9 кКал",
+        "proteins": "1,6 г",
+        "fats": "0,8 г",
+        "carbohydrates": "11,1 г"
+    },
+    {
+        "tittle": "Сбитень",
+        "callories": "58,1 кКал",
+        "proteins": "0,2 г",
+        "fats": "0,7 г",
+        "carbohydrates": "13,5 г"
+    },
+    {
+        "tittle": "Сбитень по Новониколаевски",
+        "callories": "68,7 кКал",
+        "proteins": "0,1 г",
+        "fats": "0,009 г",
+        "carbohydrates": "18,2 г"
+    },
+    {
+        "tittle": "Студенческий напиток",
+        "callories": "13,9 кКал",
+        "proteins": "1,2 г",
+        "fats": "0,03 г",
+        "carbohydrates": "2,3 г"
+    },
+    {
+        "tittle": "Тыквенный кисель",
+        "callories": "101,5 кКал",
+        "proteins": "1,9 г",
+        "fats": "5 г",
+        "carbohydrates": "13 г"
+    },
+    {
+        "tittle": "Хлебный квас",
+        "callories": "27 кКал",
+        "proteins": "0,2 г",
+        "fats": "0 г",
+        "carbohydrates": "5,2 г"
+    },
+    {
+        "tittle": "Чай брусничный",
+        "callories": "26,4 кКал",
+        "proteins": "0,02 г",
+        "fats": "0,02 г",
+        "carbohydrates": "7 г"
+    },
+    {
+        "tittle": "Чай из душицы",
+        "callories": "27,1 кКал",
+        "proteins": "0,01 г",
+        "fats": "0 г",
+        "carbohydrates": "7,2 г"
+    },
+    {
+        "tittle": "Чай рябиновый",
+        "callories": "9,2 кКал",
+        "proteins": "0,3 г",
+        "fats": "0,05 г",
+        "carbohydrates": "2 г"
+    },
+    {
+        "tittle": "Чай с лимоном",
+        "callories": "41,1 кКал",
+        "proteins": "0,2 г",
+        "fats": "0,05 г",
+        "carbohydrates": "10,6 г"
+    },
+    {
+        "tittle": "Чай с молоком или сливками",
+        "callories": "52,9 кКал",
+        "proteins": "0,9 г",
+        "fats": "0,8 г",
+        "carbohydrates": "11,3 г"
+    },
+    {
+        "tittle": "Чай с сахаром, вареньем, джемом, медом, повидлом",
+        "callories": "41,7 кКал",
+        "proteins": "0,2 г",
+        "fats": "0,05 г",
+        "carbohydrates": "10,8 г"
+    },
+    {
+        "tittle": "Чай с яблоками",
+        "callories": "17,2 кКал",
+        "proteins": "0,3 г",
+        "fats": "0,2 г",
+        "carbohydrates": "3,7 г"
+    },
+    {
+        "tittle": "Чай фруктовый с абрикосами",
+        "callories": "169,8 кКал",
+        "proteins": "4,7 г",
+        "fats": "0,4 г",
+        "carbohydrates": "39,4 г"
+    },
+    {
+        "tittle": "Черника с молоком",
+        "callories": "60 кКал",
+        "proteins": "2,2 г",
+        "fats": "2,3 г",
+        "carbohydrates": "8,2 г"
+    },
+    {
+        "tittle": "Яблочный пунш",
+        "callories": "75 кКал",
+        "proteins": "0,3 г",
+        "fats": "0,3 г",
+        "carbohydrates": "19,1 г"
+    },
+    {
+        "tittle": "Ягодная наливка",
+        "callories": "124,1 кКал",
+        "proteins": "0,6 г",
+        "fats": "0,4 г",
+        "carbohydrates": "31,6 г"
+    }
+]

@@ -1,0 +1,303 @@
+[
+    {
+        "tittle": "Fitness Батончик с Цельными Злаками [Nestle (Нестле)]",
+        "callories": "88 кКал",
+        "proteins": "1,3 г",
+        "fats": "1,6 г",
+        "carbohydrates": "16,4 г"
+    },
+    {
+        "tittle": "Fitness Батончик с Цельными Злаками и Клубникой [Nestle (Нестле)]",
+        "callories": "87 кКал",
+        "proteins": "1,4 г",
+        "fats": "1,6 г",
+        "carbohydrates": "16,2 г"
+    },
+    {
+        "tittle": "Fitness Батончик с Цельными Злаками и Шоколадом [Nestle (Нестле)]",
+        "callories": "88 кКал",
+        "proteins": "1,3 г",
+        "fats": "1,7 г",
+        "carbohydrates": "16,3 г"
+    },
+    {
+        "tittle": "Fitness Хлопья из Цельной Пшеницы [Nestle (Нестле)]",
+        "callories": "352 кКал",
+        "proteins": "9,2 г",
+        "fats": "2,2 г",
+        "carbohydrates": "73,9 г"
+    },
+    {
+        "tittle": "Nuts [Nestle (Нестле)]",
+        "callories": "247 кКал",
+        "proteins": "3 г",
+        "fats": "12 г",
+        "carbohydrates": "31 г"
+    },
+    {
+        "tittle": "Батончик Nestle Fitness с цельными злаками и клубникой [Nestle (Нестле)]",
+        "callories": "369 кКал",
+        "proteins": "5,8 г",
+        "fats": "6,7 г",
+        "carbohydrates": "68,9 г"
+    },
+    {
+        "tittle": "Готовый завтрак Nestle Kosmostars звездочки и галактики медовые [Nestle (Нестле)]",
+        "callories": "400 кКал",
+        "proteins": "7,2 г",
+        "fats": "5 г",
+        "carbohydrates": "76,2 г"
+    },
+    {
+        "tittle": "Гречневая каша Nestle безмолочная [Nestle (Нестле)]",
+        "callories": "377 кКал",
+        "proteins": "11 г",
+        "fats": "3 г",
+        "carbohydrates": "76,5 г"
+    },
+    {
+        "tittle": "Гречневая каша Nestle безмолочная с черносливом [Nestle (Нестле)]",
+        "callories": "377 кКал",
+        "proteins": "11 г",
+        "fats": "3 г",
+        "carbohydrates": "76,5 г"
+    },
+    {
+        "tittle": "Гречневая каша Nestle молочная [Nestle (Нестле)]",
+        "callories": "410 кКал",
+        "proteins": "14 г",
+        "fats": "10 г",
+        "carbohydrates": "66 г"
+    },
+    {
+        "tittle": "Гречневая каша Nestle молочная с курагой [Nestle (Нестле)]",
+        "callories": "410 кКал",
+        "proteins": "14 г",
+        "fats": "10 г",
+        "carbohydrates": "66 г"
+    },
+    {
+        "tittle": "Каша 3 злака Nestle молочная с яблоком и грушей [Nestle (Нестле)]",
+        "callories": "416 кКал",
+        "proteins": "14 г",
+        "fats": "10 г",
+        "carbohydrates": "67,5 г"
+    },
+    {
+        "tittle": "Каша 5 злаков Nestle молочная с яблоком и бананом [Nestle (Нестле)]",
+        "callories": "418 кКал",
+        "proteins": "14 г",
+        "fats": "10 г",
+        "carbohydrates": "68 г"
+    },
+    {
+        "tittle": "Кукурузные Хлопья Хрутка [Nestle (Нестле)]",
+        "callories": "375 кКал",
+        "proteins": "6,5 г",
+        "fats": "0,9 г",
+        "carbohydrates": "85,4 г"
+    },
+    {
+        "tittle": "Мороженое Maxibon Страчателла [Nestle (Нестле)]",
+        "callories": "314 кКал",
+        "proteins": "3,4 г",
+        "fats": "15 г",
+        "carbohydrates": "40,5 г"
+    },
+    {
+        "tittle": "Мороженое Nestle Extreme Пломбир с чёрной смородиной [Nestle (Нестле)]",
+        "callories": "262 кКал",
+        "proteins": "2,6 г",
+        "fats": "12,6 г",
+        "carbohydrates": "35,5 г"
+    },
+    {
+        "tittle": "Мороженое Nestle Extreme Тропик [Nestle (Нестле)]",
+        "callories": "236 кКал",
+        "proteins": "2,4 г",
+        "fats": "7,5 г",
+        "carbohydrates": "39 г"
+    },
+    {
+        "tittle": "Мороженое Nestle Maxibon с печеньем и орехами [Nestle (Нестле)]",
+        "callories": "307 кКал",
+        "proteins": "3,6 г",
+        "fats": "15 г",
+        "carbohydrates": "39,2 г"
+    },
+    {
+        "tittle": "Мороженое Nestle Maxibon Страчателла [Nestle (Нестле)]",
+        "callories": "307 кКал",
+        "proteins": "3,6 г",
+        "fats": "15 г",
+        "carbohydrates": "39,4 г"
+    },
+    {
+        "tittle": "Овсяная каша Nestle безмолочная [Nestle (Нестле)]",
+        "callories": "382 кКал",
+        "proteins": "10 г",
+        "fats": "6 г",
+        "carbohydrates": "72 г"
+    },
+    {
+        "tittle": "Овсяная каша Nestle молочная с грушей и бананом [Nestle (Нестле)]",
+        "callories": "406 кКал",
+        "proteins": "14 г",
+        "fats": "10 г",
+        "carbohydrates": "65 г"
+    },
+    {
+        "tittle": "Овсяная каша Nestle молочная с яблоком и абрикосом [Nestle (Нестле)]",
+        "callories": "406 кКал",
+        "proteins": "14 г",
+        "fats": "10 г",
+        "carbohydrates": "65 г"
+    },
+    {
+        "tittle": "Пломбир 48 Копеек [Nestle (Нестле)]",
+        "callories": "221 кКал",
+        "proteins": "2,7 г",
+        "fats": "13,5 г",
+        "carbohydrates": "21,7 г"
+    },
+    {
+        "tittle": "Пшеничная каша Nestle молочная с бананом [Nestle (Нестле)]",
+        "callories": "414 кКал",
+        "proteins": "15 г",
+        "fats": "10 г",
+        "carbohydrates": "66 г"
+    },
+    {
+        "tittle": "Пшеничная каша Nestle молочная с тыквой [Nestle (Нестле)]",
+        "callories": "414 кКал",
+        "proteins": "15 г",
+        "fats": "10 г",
+        "carbohydrates": "66 г"
+    },
+    {
+        "tittle": "Пшеничная каша Nestle молочная с яблоком [Nestle (Нестле)]",
+        "callories": "414 кКал",
+        "proteins": "15 г",
+        "fats": "10 г",
+        "carbohydrates": "66 г"
+    },
+    {
+        "tittle": "Рисовая каша Nestle безмолочная [Nestle (Нестле)]",
+        "callories": "381 кКал",
+        "proteins": "6,5 г",
+        "fats": "1 г",
+        "carbohydrates": "86,5 г"
+    },
+    {
+        "tittle": "Рисовая каша Nestle молочная с бананом [Nestle (Нестле)]",
+        "callories": "422 кКал",
+        "proteins": "12 г",
+        "fats": "10 г",
+        "carbohydrates": "70,9 г"
+    },
+    {
+        "tittle": "Рисовая каша Nestle молочная с яблоком [Nestle (Нестле)]",
+        "callories": "422 кКал",
+        "proteins": "12 г",
+        "fats": "10 г",
+        "carbohydrates": "70,9 г"
+    },
+    {
+        "tittle": "Фитнес Батончик [Nestle (Нестле)]",
+        "callories": "87 кКал",
+        "proteins": "1,4 г",
+        "fats": "1,6 г",
+        "carbohydrates": "16,2 г"
+    },
+    {
+        "tittle": "Хлопья Fitness [Nestle (Нестле)]",
+        "callories": "106 кКал",
+        "proteins": "2,6 г",
+        "fats": "0,6 г",
+        "carbohydrates": "22,53 г"
+    },
+    {
+        "tittle": "Хлопья Fitness с Фруктами [Nestle (Нестле)]",
+        "callories": "364 кКал",
+        "proteins": "6,4 г",
+        "fats": "2,8 г",
+        "carbohydrates": "75,5 г"
+    },
+    {
+        "tittle": "Хлопья Fitness Темный Шоколад [Nestle (Нестле)]",
+        "callories": "380 кКал",
+        "proteins": "8,2 г",
+        "fats": "7,3 г",
+        "carbohydrates": "70,3 г"
+    },
+    {
+        "tittle": "Хлопья Fitness Фрукты, Ягоды и Орехи [Nestle (Нестле)]",
+        "callories": "350 кКал",
+        "proteins": "6,5 г",
+        "fats": "2,9 г",
+        "carbohydrates": "74,6 г"
+    },
+    {
+        "tittle": "Хлопья Nestle Fitness из цельной пшеницы [Nestle (Нестле)]",
+        "callories": "357 кКал",
+        "proteins": "8,3 г",
+        "fats": "2 г",
+        "carbohydrates": "76,4 г"
+    },
+    {
+        "tittle": "Хлопья Nestle Fitness с тёмным шоколадом [Nestle (Нестле)]",
+        "callories": "384 кКал",
+        "proteins": "8 г",
+        "fats": "6,7 г",
+        "carbohydrates": "72,9 г"
+    },
+    {
+        "tittle": "Хлопья Nestle Fitness с фруктами [Nestle (Нестле)]",
+        "callories": "352 кКал",
+        "proteins": "6,4 г",
+        "fats": "2,6 г",
+        "carbohydrates": "75,7 г"
+    },
+    {
+        "tittle": "Хлопья Фитнесс [Nestle (Нестле)]",
+        "callories": "353 кКал",
+        "proteins": "8,6 г",
+        "fats": "0,9 г",
+        "carbohydrates": "17,1 г"
+    },
+    {
+        "tittle": "Шоколад Nestle After Eight [Nestle (Нестле)]",
+        "callories": "428 кКал",
+        "proteins": "2,5 г",
+        "fats": "12,8 г",
+        "carbohydrates": "74,4 г"
+    },
+    {
+        "tittle": "Шоколад Nestle for Men [Nestle (Нестле)]",
+        "callories": "555 кКал",
+        "proteins": "7,5 г",
+        "fats": "33,8 г",
+        "carbohydrates": "54,9 г"
+    },
+    {
+        "tittle": "Шоколад Nestle for Men с фундуком [Nestle (Нестле)]",
+        "callories": "572 кКал",
+        "proteins": "8,6 г",
+        "fats": "36,5 г",
+        "carbohydrates": "47,8 г"
+    },
+    {
+        "tittle": "Шоколад Nestle for Men с цельным миндалем [Nestle (Нестле)]",
+        "callories": "560 кКал",
+        "proteins": "8,6 г",
+        "fats": "35,8 г",
+        "carbohydrates": "51,1 г"
+    },
+    {
+        "tittle": "Шоколад Nestle Nesquik [Nestle (Нестле)]",
+        "callories": "485 кКал",
+        "proteins": "5,9 г",
+        "fats": "22,1 г",
+        "carbohydrates": "65,6 г"
+    }
+]

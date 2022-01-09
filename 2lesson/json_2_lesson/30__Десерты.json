@@ -1,0 +1,1367 @@
+[
+    {
+        "tittle": "Абрикосовое суфле",
+        "callories": "116,2208 кКал",
+        "proteins": "5,6456 г",
+        "fats": "0,0347 г",
+        "carbohydrates": "23,1126 г"
+    },
+    {
+        "tittle": "Апельсиновые корзиночки с кремом",
+        "callories": "118,9 кКал",
+        "proteins": "3,1 г",
+        "fats": "8 г",
+        "carbohydrates": "9,2 г"
+    },
+    {
+        "tittle": "Апельсиновый десерт",
+        "callories": "56,7 кКал",
+        "proteins": "0,7 г",
+        "fats": "0,2 г",
+        "carbohydrates": "14 г"
+    },
+    {
+        "tittle": "Апельсины в ванильном соусе",
+        "callories": "68,7 кКал",
+        "proteins": "2,4 г",
+        "fats": "1,7 г",
+        "carbohydrates": "11,6 г"
+    },
+    {
+        "tittle": "Безе",
+        "callories": "234,4 кКал",
+        "proteins": "1 г",
+        "fats": "0 г",
+        "carbohydrates": "61,4 г"
+    },
+    {
+        "tittle": "Безе",
+        "callories": "304,8 кКал",
+        "proteins": "2,3 г",
+        "fats": "0 г",
+        "carbohydrates": "78,8 г"
+    },
+    {
+        "tittle": "Бисквит из яичных белков",
+        "callories": "319,2 кКал",
+        "proteins": "11,1 г",
+        "fats": "12,3 г",
+        "carbohydrates": "43,7 г"
+    },
+    {
+        "tittle": "Блинчики из овсяных хлопьев",
+        "callories": "170,1 кКал",
+        "proteins": "5,2 г",
+        "fats": "9,2 г",
+        "carbohydrates": "17,7 г"
+    },
+    {
+        "tittle": "Блинчики с маком",
+        "callories": "214,3 кКал",
+        "proteins": "7,4 г",
+        "fats": "10,6 г",
+        "carbohydrates": "23,7 г"
+    },
+    {
+        "tittle": "Блинчики с морковью",
+        "callories": "105,4 кКал",
+        "proteins": "4,2 г",
+        "fats": "5,3 г",
+        "carbohydrates": "11 г"
+    },
+    {
+        "tittle": "Блинчики с мясным, ливерным, творожным, яблочным фаршем, джемом, повидлом или вареньем",
+        "callories": "278,3 кКал",
+        "proteins": "13,7 г",
+        "fats": "18,1 г",
+        "carbohydrates": "16,1 г"
+    },
+    {
+        "tittle": "Блинчики-полуфабрикат (оболочка)",
+        "callories": "153 кКал",
+        "proteins": "6,4 г",
+        "fats": "4,8 г",
+        "carbohydrates": "22,6 г"
+    },
+    {
+        "tittle": "Блины",
+        "callories": "232,5 кКал",
+        "proteins": "6,1 г",
+        "fats": "12,3 г",
+        "carbohydrates": "26 г"
+    },
+    {
+        "tittle": "Блины гречневые",
+        "callories": "229,1 кКал",
+        "proteins": "6,8 г",
+        "fats": "13,1 г",
+        "carbohydrates": "22,3 г"
+    },
+    {
+        "tittle": "Блины гурьевские",
+        "callories": "178,6 кКал",
+        "proteins": "6,5 г",
+        "fats": "8,6 г",
+        "carbohydrates": "19,9 г"
+    },
+    {
+        "tittle": "Блины дехканские",
+        "callories": "210,2 кКал",
+        "proteins": "7 г",
+        "fats": "1,1 г",
+        "carbohydrates": "45,8 г"
+    },
+    {
+        "tittle": "Блины из вареного картофеля",
+        "callories": "189,3 кКал",
+        "proteins": "4 г",
+        "fats": "11,9 г",
+        "carbohydrates": "17,6 г"
+    },
+    {
+        "tittle": "Блины из капусты",
+        "callories": "154,4 кКал",
+        "proteins": "4 г",
+        "fats": "12,2 г",
+        "carbohydrates": "7,7 г"
+    },
+    {
+        "tittle": "Блины из тыквы",
+        "callories": "138,3 кКал",
+        "proteins": "2,6 г",
+        "fats": "8,3 г",
+        "carbohydrates": "14,3 г"
+    },
+    {
+        "tittle": "Блины красные",
+        "callories": "174,7 кКал",
+        "proteins": "4,5 г",
+        "fats": "13,1 г",
+        "carbohydrates": "10,3 г"
+    },
+    {
+        "tittle": "Блины кукурузные (чечено-ингушское национальное блюдо)",
+        "callories": "221 кКал",
+        "proteins": "6,1 г",
+        "fats": "11,8 г",
+        "carbohydrates": "24 г"
+    },
+    {
+        "tittle": "Блины с квашенной капустой",
+        "callories": "106,6 кКал",
+        "proteins": "3,4 г",
+        "fats": "3,3 г",
+        "carbohydrates": "16,8 г"
+    },
+    {
+        "tittle": "Блины славянские",
+        "callories": "218 кКал",
+        "proteins": "9,3 г",
+        "fats": "8,7 г",
+        "carbohydrates": "27,2 г"
+    },
+    {
+        "tittle": "Блины со сладким соусом по-староелецки",
+        "callories": "291,7 кКал",
+        "proteins": "6,6 г",
+        "fats": "20,7 г",
+        "carbohydrates": "21,1 г"
+    },
+    {
+        "tittle": "Блины-скородумки",
+        "callories": "127,2 кКал",
+        "proteins": "4,8 г",
+        "fats": "5,8 г",
+        "carbohydrates": "14,9 г"
+    },
+    {
+        "tittle": "Брусника свежая с сахаром",
+        "callories": "146,9 кКал",
+        "proteins": "0,5 г",
+        "fats": "0,3 г",
+        "carbohydrates": "37,8 г"
+    },
+    {
+        "tittle": "Ванильный крем",
+        "callories": "190,6 кКал",
+        "proteins": "4,5 г",
+        "fats": "12,8 г",
+        "carbohydrates": "15,2 г"
+    },
+    {
+        "tittle": "Ванильный соус",
+        "callories": "72,1 кКал",
+        "proteins": "3,5 г",
+        "fats": "2,8 г",
+        "carbohydrates": "8,8 г"
+    },
+    {
+        "tittle": "Вафли",
+        "callories": "210,9 кКал",
+        "proteins": "5,5 г",
+        "fats": "6,5 г",
+        "carbohydrates": "34,9 г"
+    },
+    {
+        "tittle": "Вафли на вафельнице",
+        "callories": "319,3 кКал",
+        "proteins": "4,8 г",
+        "fats": "18,6 г",
+        "carbohydrates": "35,5 г"
+    },
+    {
+        "tittle": "Взбитый лимонный соус",
+        "callories": "112,4 кКал",
+        "proteins": "2 г",
+        "fats": "1,2 г",
+        "carbohydrates": "25 г"
+    },
+    {
+        "tittle": "Взбитый шоколадный соус",
+        "callories": "114,7 кКал",
+        "proteins": "5 г",
+        "fats": "4,6 г",
+        "carbohydrates": "14,3 г"
+    },
+    {
+        "tittle": "Взбитый яблочный соус",
+        "callories": "82,4 кКал",
+        "proteins": "2,6 г",
+        "fats": "2,4 г",
+        "carbohydrates": "13,4 г"
+    },
+    {
+        "tittle": "Вишневый мусс",
+        "callories": "150,7 кКал",
+        "proteins": "5,9 г",
+        "fats": "0,1 г",
+        "carbohydrates": "33,7 г"
+    },
+    {
+        "tittle": "Галушки яблочные",
+        "callories": "89,1 кКал",
+        "proteins": "3,2 г",
+        "fats": "1,6 г",
+        "carbohydrates": "16,5 г"
+    },
+    {
+        "tittle": "Груши, начиненные творогом",
+        "callories": "65,4 кКал",
+        "proteins": "2,2 г",
+        "fats": "2,5 г",
+        "carbohydrates": "9,1 г"
+    },
+    {
+        "tittle": "Густой шоколадный соус",
+        "callories": "316,6 кКал",
+        "proteins": "2,1 г",
+        "fats": "18 г",
+        "carbohydrates": "39,1 г"
+    },
+    {
+        "tittle": "Десерт \"Птичье молоко\"",
+        "callories": "288,9 кКал",
+        "proteins": "5,1 г",
+        "fats": "13,8 г",
+        "carbohydrates": "38,5 г"
+    },
+    {
+        "tittle": "Десерт из сметаны \"Радуга\"",
+        "callories": "185,6 кКал",
+        "proteins": "3,9 г",
+        "fats": "14,7 г",
+        "carbohydrates": "10 г"
+    },
+    {
+        "tittle": "Десерт молочный (чувашское национальное блюдо)",
+        "callories": "222,4 кКал",
+        "proteins": "5,1 г",
+        "fats": "5,5 г",
+        "carbohydrates": "40,7 г"
+    },
+    {
+        "tittle": "Желе из барбариса",
+        "callories": "218,3 кКал",
+        "proteins": "0 г",
+        "fats": "0 г",
+        "carbohydrates": "58,2 г"
+    },
+    {
+        "tittle": "Желе из водяники",
+        "callories": "67,4 кКал",
+        "proteins": "2,6 г",
+        "fats": "0,01 г",
+        "carbohydrates": "15,1 г"
+    },
+    {
+        "tittle": "Желе из кишмиша",
+        "callories": "247 кКал",
+        "proteins": "0 г",
+        "fats": "0 г",
+        "carbohydrates": "65,9 г"
+    },
+    {
+        "tittle": "Желе из лимонов, апельсинов, мандаринов (лимон)",
+        "callories": "69,4 кКал",
+        "proteins": "2,6 г",
+        "fats": "0,03 г",
+        "carbohydrates": "15,6 г"
+    },
+    {
+        "tittle": "Желе из молока",
+        "callories": "192,1 кКал",
+        "proteins": "6,3 г",
+        "fats": "11,1 г",
+        "carbohydrates": "17,9 г"
+    },
+    {
+        "tittle": "Желе из плодов или ягод свежих",
+        "callories": "69,1 кКал",
+        "proteins": "2,5 г",
+        "fats": "0,04 г",
+        "carbohydrates": "15,6 г"
+    },
+    {
+        "tittle": "Желе из сиропа плодового или ягодного",
+        "callories": "10,5 кКал",
+        "proteins": "2,6 г",
+        "fats": "0,01 г",
+        "carbohydrates": "0,02 г"
+    },
+    {
+        "tittle": "Желе из сливок",
+        "callories": "249 кКал",
+        "proteins": "6,4 г",
+        "fats": "12 г",
+        "carbohydrates": "30,9 г"
+    },
+    {
+        "tittle": "Желе из экстракта плодового или ягодного, или из сока плодового или ягодного натурального (сок)",
+        "callories": "82,3 кКал",
+        "proteins": "2,7 г",
+        "fats": "0,1 г",
+        "carbohydrates": "18,9 г"
+    },
+    {
+        "tittle": "Желе лимонное",
+        "callories": "87,6 кКал",
+        "proteins": "2,8 г",
+        "fats": "0,02 г",
+        "carbohydrates": "20,3 г"
+    },
+    {
+        "tittle": "Желе мясное или рыбное",
+        "callories": "140 кКал",
+        "proteins": "21,7 г",
+        "fats": "5,7 г",
+        "carbohydrates": "0,6 г"
+    },
+    {
+        "tittle": "Желе с плодами свежими и консервированными",
+        "callories": "53,7 кКал",
+        "proteins": "2,1 г",
+        "fats": "0,1 г",
+        "carbohydrates": "11,7 г"
+    },
+    {
+        "tittle": "Изюм или чернослив, или курага в медовом желе (башкирское национальное блюдо)",
+        "callories": "137,2 кКал",
+        "proteins": "2,8 г",
+        "fats": "0,2 г",
+        "carbohydrates": "33,2 г"
+    },
+    {
+        "tittle": "Клубника с творогом",
+        "callories": "77,6 кКал",
+        "proteins": "6,5 г",
+        "fats": "1,1 г",
+        "carbohydrates": "11,1 г"
+    },
+    {
+        "tittle": "Клубничный \"снег\"",
+        "callories": "152,7 кКал",
+        "proteins": "3,2 г",
+        "fats": "0,2 г",
+        "carbohydrates": "36,8 г"
+    },
+    {
+        "tittle": "Клубничный пудинг",
+        "callories": "75,6 кКал",
+        "proteins": "2 г",
+        "fats": "1,4 г",
+        "carbohydrates": "14,6 г"
+    },
+    {
+        "tittle": "Клюквенный мусс",
+        "callories": "71 кКал",
+        "proteins": "1,2 г",
+        "fats": "0,08 г",
+        "carbohydrates": "17,5 г"
+    },
+    {
+        "tittle": "Клюквенный соус",
+        "callories": "96,9 кКал",
+        "proteins": "0,6 г",
+        "fats": "7,5 г",
+        "carbohydrates": "7,1 г"
+    },
+    {
+        "tittle": "Коврижка \"Диетическая\"",
+        "callories": "154,7 кКал",
+        "proteins": "5 г",
+        "fats": "3,8 г",
+        "carbohydrates": "26,8 г"
+    },
+    {
+        "tittle": "Козинаки",
+        "callories": "419,4 кКал",
+        "proteins": "2,4 г",
+        "fats": "19,8 г",
+        "carbohydrates": "61,8 г"
+    },
+    {
+        "tittle": "Кофейный крем",
+        "callories": "181,2 кКал",
+        "proteins": "5,5 г",
+        "fats": "10,1 г",
+        "carbohydrates": "18,3 г"
+    },
+    {
+        "tittle": "Крем ванильный из сметаны",
+        "callories": "200 кКал",
+        "proteins": "4,1 г",
+        "fats": "12,2 г",
+        "carbohydrates": "19,7 г"
+    },
+    {
+        "tittle": "Крем ванильный, шоколадный, кофейный",
+        "callories": "174,2 кКал",
+        "proteins": "4,5 г",
+        "fats": "10,6 г",
+        "carbohydrates": "16,2 г"
+    },
+    {
+        "tittle": "Крем из клубники",
+        "callories": "73,4 кКал",
+        "proteins": "2,9 г",
+        "fats": "1,9 г",
+        "carbohydrates": "11,8 г"
+    },
+    {
+        "tittle": "Крем из клюквы и тыквы",
+        "callories": "178,7 кКал",
+        "proteins": "3,8 г",
+        "fats": "6,7 г",
+        "carbohydrates": "27,6 г"
+    },
+    {
+        "tittle": "Крем из ревеня",
+        "callories": "174,9 кКал",
+        "proteins": "2,1 г",
+        "fats": "6,6 г",
+        "carbohydrates": "28,5 г"
+    },
+    {
+        "tittle": "Крем из ржаного хлеба",
+        "callories": "154,5 кКал",
+        "proteins": "4,1 г",
+        "fats": "5,7 г",
+        "carbohydrates": "23,1 г"
+    },
+    {
+        "tittle": "Крем из смородины",
+        "callories": "176,4 кКал",
+        "proteins": "3,6 г",
+        "fats": "3,1 г",
+        "carbohydrates": "35,6 г"
+    },
+    {
+        "tittle": "Крем из черники",
+        "callories": "119,1 кКал",
+        "proteins": "5,7 г",
+        "fats": "2,5 г",
+        "carbohydrates": "19,6 г"
+    },
+    {
+        "tittle": "Крем твороженный",
+        "callories": "135,8 кКал",
+        "proteins": "3,8 г",
+        "fats": "3 г",
+        "carbohydrates": "24,8 г"
+    },
+    {
+        "tittle": "Крем ягодный",
+        "callories": "179,6 кКал",
+        "proteins": "3,3 г",
+        "fats": "11,3 г",
+        "carbohydrates": "17,2 г"
+    },
+    {
+        "tittle": "Крем-крокант",
+        "callories": "199,8 кКал",
+        "proteins": "4,6 г",
+        "fats": "6,5 г",
+        "carbohydrates": "32,8 г"
+    },
+    {
+        "tittle": "Крем-мокко",
+        "callories": "193,9 кКал",
+        "proteins": "5,7 г",
+        "fats": "8,9 г",
+        "carbohydrates": "24,4 г"
+    },
+    {
+        "tittle": "Кулага",
+        "callories": "92,7 кКал",
+        "proteins": "1,4 г",
+        "fats": "0,4 г",
+        "carbohydrates": "22,1 г"
+    },
+    {
+        "tittle": "Лантутики",
+        "callories": "227,9 кКал",
+        "proteins": "8,4 г",
+        "fats": "12,1 г",
+        "carbohydrates": "22,7 г"
+    },
+    {
+        "tittle": "Лимонное пирожное",
+        "callories": "219,9 кКал",
+        "proteins": "5,3 г",
+        "fats": "12,2 г",
+        "carbohydrates": "23,8 г"
+    },
+    {
+        "tittle": "Лимонный крем",
+        "callories": "177,4 кКал",
+        "proteins": "6,5 г",
+        "fats": "10,2 г",
+        "carbohydrates": "15,8 г"
+    },
+    {
+        "tittle": "Лимонный снежок",
+        "callories": "218,6 кКал",
+        "proteins": "7,6 г",
+        "fats": "4,8 г",
+        "carbohydrates": "38,7 г"
+    },
+    {
+        "tittle": "Лимонный соус",
+        "callories": "149,9 кКал",
+        "proteins": "1,5 г",
+        "fats": "13,3 г",
+        "carbohydrates": "6,4 г"
+    },
+    {
+        "tittle": "Лимонный соус",
+        "callories": "173,1 кКал",
+        "proteins": "4,1 г",
+        "fats": "14,9 г",
+        "carbohydrates": "6,1 г"
+    },
+    {
+        "tittle": "Лимонный соус",
+        "callories": "56 кКал",
+        "proteins": "0,03 г",
+        "fats": "0,003 г",
+        "carbohydrates": "14,9 г"
+    },
+    {
+        "tittle": "Лимонный творог",
+        "callories": "238,7 кКал",
+        "proteins": "9,8 г",
+        "fats": "13,9 г",
+        "carbohydrates": "19,7 г"
+    },
+    {
+        "tittle": "Малина или земляника с молоком, сметаной или сливками",
+        "callories": "78,9 кКал",
+        "proteins": "1,8 г",
+        "fats": "1,9 г",
+        "carbohydrates": "14,6 г"
+    },
+    {
+        "tittle": "Мармелад из абрикосов",
+        "callories": "198,9 кКал",
+        "proteins": "0,5 г",
+        "fats": "0,05 г",
+        "carbohydrates": "52,4 г"
+    },
+    {
+        "tittle": "Мармелад из абрикосов в кожице",
+        "callories": "183,6 кКал",
+        "proteins": "0,5 г",
+        "fats": "0,06 г",
+        "carbohydrates": "48,3 г"
+    },
+    {
+        "tittle": "Мармелад из брусники и яблок",
+        "callories": "112,7 кКал",
+        "proteins": "0,5 г",
+        "fats": "0,3 г",
+        "carbohydrates": "28,7 г"
+    },
+    {
+        "tittle": "Мармелад из черники",
+        "callories": "57,6 кКал",
+        "proteins": "1 г",
+        "fats": "0,6 г",
+        "carbohydrates": "13 г"
+    },
+    {
+        "tittle": "Медовая горка",
+        "callories": "270,4 кКал",
+        "proteins": "5,8 г",
+        "fats": "1,5 г",
+        "carbohydrates": "62,5 г"
+    },
+    {
+        "tittle": "Мороженое \"Сюрприз\"",
+        "callories": "194,3 кКал",
+        "proteins": "3,6 г",
+        "fats": "6,3 г",
+        "carbohydrates": "32,7 г"
+    },
+    {
+        "tittle": "Мороженое с плодами или ягодами консервированными",
+        "callories": "222,9 кКал",
+        "proteins": "4,5 г",
+        "fats": "15,5 г",
+        "carbohydrates": "17,5 г"
+    },
+    {
+        "tittle": "Мусс из растворимого кофе",
+        "callories": "104,3 кКал",
+        "proteins": "4,1 г",
+        "fats": "1,5 г",
+        "carbohydrates": "19,9 г"
+    },
+    {
+        "tittle": "Мусс из ревеня",
+        "callories": "87,6 кКал",
+        "proteins": "0,9 г",
+        "fats": "0,07 г",
+        "carbohydrates": "22,2 г"
+    },
+    {
+        "tittle": "Мусс из ржаной муки",
+        "callories": "94,9 кКал",
+        "proteins": "0,9 г",
+        "fats": "0,1 г",
+        "carbohydrates": "24,1 г"
+    },
+    {
+        "tittle": "Мусс из смородины",
+        "callories": "113,3 кКал",
+        "proteins": "2,1 г",
+        "fats": "0,06 г",
+        "carbohydrates": "27,8 г"
+    },
+    {
+        "tittle": "Мусс из тыквы",
+        "callories": "91,7 кКал",
+        "proteins": "2,1 г",
+        "fats": "0,07 г",
+        "carbohydrates": "22,1 г"
+    },
+    {
+        "tittle": "Мусс клюквенный",
+        "callories": "81,9 кКал",
+        "proteins": "2,3 г",
+        "fats": "0,06 г",
+        "carbohydrates": "19,3 г"
+    },
+    {
+        "tittle": "Мусс лимонный",
+        "callories": "115,1 кКал",
+        "proteins": "2,4 г",
+        "fats": "0,03 г",
+        "carbohydrates": "28,1 г"
+    },
+    {
+        "tittle": "Мусс яблочный (на крупе манной)",
+        "callories": "81,1 кКал",
+        "proteins": "0,9 г",
+        "fats": "0,2 г",
+        "carbohydrates": "20,3 г"
+    },
+    {
+        "tittle": "Оладьи",
+        "callories": "201,1 кКал",
+        "proteins": "7,4 г",
+        "fats": "8,9 г",
+        "carbohydrates": "24,5 г"
+    },
+    {
+        "tittle": "Оладьи",
+        "callories": "322,2 кКал",
+        "proteins": "10 г",
+        "fats": "13,6 г",
+        "carbohydrates": "42,7 г"
+    },
+    {
+        "tittle": "Оладьи из моркови",
+        "callories": "141,2 кКал",
+        "proteins": "3 г",
+        "fats": "9,8 г",
+        "carbohydrates": "11 г"
+    },
+    {
+        "tittle": "Оладьи из тыквы",
+        "callories": "180,2 кКал",
+        "proteins": "4,4 г",
+        "fats": "13 г",
+        "carbohydrates": "12,2 г"
+    },
+    {
+        "tittle": "Оладьи с изюмом",
+        "callories": "334,9 кКал",
+        "proteins": "8,4 г",
+        "fats": "15 г",
+        "carbohydrates": "44,4 г"
+    },
+    {
+        "tittle": "Оладьи с яблоками",
+        "callories": "113,8 кКал",
+        "proteins": "4,3 г",
+        "fats": "2,6 г",
+        "carbohydrates": "19,5 г"
+    },
+    {
+        "tittle": "Оладьи с яблоками",
+        "callories": "306,2 кКал",
+        "proteins": "9,2 г",
+        "fats": "13,3 г",
+        "carbohydrates": "39,8 г"
+    },
+    {
+        "tittle": "Омлет с  яблоками",
+        "callories": "121,4 кКал",
+        "proteins": "3,5 г",
+        "fats": "4,9 г",
+        "carbohydrates": "16,8 г"
+    },
+    {
+        "tittle": "Омлет с яблоками",
+        "callories": "177,7 кКал",
+        "proteins": "8,6 г",
+        "fats": "14,1 г",
+        "carbohydrates": "4,4 г"
+    },
+    {
+        "tittle": "Омлет с яблоками",
+        "callories": "86 кКал",
+        "proteins": "3,5 г",
+        "fats": "5,1 г",
+        "carbohydrates": "6,9 г"
+    },
+    {
+        "tittle": "Ореховый крем",
+        "callories": "105,9 кКал",
+        "proteins": "5,4 г",
+        "fats": "4,3 г",
+        "carbohydrates": "12,2 г"
+    },
+    {
+        "tittle": "Орешки творожные по-русски",
+        "callories": "271,2 кКал",
+        "proteins": "8,9 г",
+        "fats": "17 г",
+        "carbohydrates": "22,1 г"
+    },
+    {
+        "tittle": "Пастила из ежевики",
+        "callories": "174 кКал",
+        "proteins": "0,8 г",
+        "fats": "0,3 г",
+        "carbohydrates": "44,8 г"
+    },
+    {
+        "tittle": "Пастила из калины",
+        "callories": "197,5 кКал",
+        "proteins": "0 г",
+        "fats": "0 г",
+        "carbohydrates": "52,7 г"
+    },
+    {
+        "tittle": "Пирожное \"Кокетка\"",
+        "callories": "418,1 кКал",
+        "proteins": "18,7 г",
+        "fats": "29,4 г",
+        "carbohydrates": "21 г"
+    },
+    {
+        "tittle": "Плавающие острова",
+        "callories": "94,9 кКал",
+        "proteins": "3,8 г",
+        "fats": "3,1 г",
+        "carbohydrates": "13,8 г"
+    },
+    {
+        "tittle": "Пудинг из ревеня",
+        "callories": "187 кКал",
+        "proteins": "4,5 г",
+        "fats": "6,3 г",
+        "carbohydrates": "29,9 г"
+    },
+    {
+        "tittle": "Пудинг из риса и ревеня",
+        "callories": "155 кКал",
+        "proteins": "3,6 г",
+        "fats": "7,9 г",
+        "carbohydrates": "18,6 г"
+    },
+    {
+        "tittle": "Пудинг из сыра",
+        "callories": "184,2 кКал",
+        "proteins": "9 г",
+        "fats": "13,2 г",
+        "carbohydrates": "7,9 г"
+    },
+    {
+        "tittle": "Пудинг из творога, запеченный",
+        "callories": "312,5 кКал",
+        "proteins": "11 г",
+        "fats": "19,7 г",
+        "carbohydrates": "24,3 г"
+    },
+    {
+        "tittle": "Пудинг на сметане",
+        "callories": "254,3 кКал",
+        "proteins": "5,8 г",
+        "fats": "15,3 г",
+        "carbohydrates": "24,9 г"
+    },
+    {
+        "tittle": "Пудинг ореховый",
+        "callories": "229,4 кКал",
+        "proteins": "7,1 г",
+        "fats": "7,7 г",
+        "carbohydrates": "35,1 г"
+    },
+    {
+        "tittle": "Пудинг рисовый, манный, пшенный",
+        "callories": "189,6 кКал",
+        "proteins": "3,4 г",
+        "fats": "5,1 г",
+        "carbohydrates": "34,7 г"
+    },
+    {
+        "tittle": "Пудинг с грушами",
+        "callories": "131,2 кКал",
+        "proteins": "3,6 г",
+        "fats": "3,5 г",
+        "carbohydrates": "22,7 г"
+    },
+    {
+        "tittle": "Пудинг сливочный с орехами",
+        "callories": "307,1 кКал",
+        "proteins": "7,6 г",
+        "fats": "20 г",
+        "carbohydrates": "25,6 г"
+    },
+    {
+        "tittle": "Пудинг сухарный",
+        "callories": "213,3 кКал",
+        "proteins": "6,4 г",
+        "fats": "5,1 г",
+        "carbohydrates": "37,8 г"
+    },
+    {
+        "tittle": "Ревень с сахаром",
+        "callories": "99,6 кКал",
+        "proteins": "0,5 г",
+        "fats": "0,08 г",
+        "carbohydrates": "25,8 г"
+    },
+    {
+        "tittle": "Ревень с сухарями и сливками",
+        "callories": "100,4 кКал",
+        "proteins": "1,4 г",
+        "fats": "6,5 г",
+        "carbohydrates": "9,8 г"
+    },
+    {
+        "tittle": "Самбук абрикосовый",
+        "callories": "115,1 кКал",
+        "proteins": "2 г",
+        "fats": "0,07 г",
+        "carbohydrates": "28,4 г"
+    },
+    {
+        "tittle": "Самбук из абрикосов",
+        "callories": "86,5 кКал",
+        "proteins": "1,7 г",
+        "fats": "0,06 г",
+        "carbohydrates": "21,1 г"
+    },
+    {
+        "tittle": "Самбук яблочный или сливовый",
+        "callories": "90,3 кКал",
+        "proteins": "1,8 г",
+        "fats": "0,2 г",
+        "carbohydrates": "21,6 г"
+    },
+    {
+        "tittle": "Сгущенка по-русски",
+        "callories": "120,4 кКал",
+        "proteins": "2,3 г",
+        "fats": "2,5 г",
+        "carbohydrates": "23,7 г"
+    },
+    {
+        "tittle": "Сельдерей на десерт",
+        "callories": "0 кКал",
+        "proteins": "0 г",
+        "fats": "0 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "tittle": "Сладкий молочный соус",
+        "callories": "84,1 кКал",
+        "proteins": "3,4 г",
+        "fats": "2,8 г",
+        "carbohydrates": "12,1 г"
+    },
+    {
+        "tittle": "Сладкое блюдо из риса и творога",
+        "callories": "236,4 кКал",
+        "proteins": "11,1 г",
+        "fats": "5,7 г",
+        "carbohydrates": "37,6 г"
+    },
+    {
+        "tittle": "Сливки или сметана взбитые",
+        "callories": "231,3 кКал",
+        "proteins": "2,4 г",
+        "fats": "17,3 г",
+        "carbohydrates": "17,5 г"
+    },
+    {
+        "tittle": "Сливовый соус",
+        "callories": "42,4 кКал",
+        "proteins": "0,09 г",
+        "fats": "0,03 г",
+        "carbohydrates": "11,1 г"
+    },
+    {
+        "tittle": "Смородина с медом и миндалем",
+        "callories": "191,4 кКал",
+        "proteins": "2,6 г",
+        "fats": "7,2 г",
+        "carbohydrates": "31 г"
+    },
+    {
+        "tittle": "Смородиновый \"снег\"",
+        "callories": "111,5 кКал",
+        "proteins": "1,3 г",
+        "fats": "0,1 г",
+        "carbohydrates": "28,1 г"
+    },
+    {
+        "tittle": "Снежки",
+        "callories": "138,2 кКал",
+        "proteins": "4 г",
+        "fats": "3,7 г",
+        "carbohydrates": "23,7 г"
+    },
+    {
+        "tittle": "Соус абрикосовый",
+        "callories": "250,9 кКал",
+        "proteins": "0,5 г",
+        "fats": "0,06 г",
+        "carbohydrates": "66,2 г"
+    },
+    {
+        "tittle": "Соус земляничный или малиновый, или вишневый",
+        "callories": "244,5 кКал",
+        "proteins": "0,5 г",
+        "fats": "0,2 г",
+        "carbohydrates": "64,1 г"
+    },
+    {
+        "tittle": "Соус из брусники и сыра",
+        "callories": "208,5 кКал",
+        "proteins": "9,1 г",
+        "fats": "16,3 г",
+        "carbohydrates": "6,8 г"
+    },
+    {
+        "tittle": "Соус из изюма и миндаля",
+        "callories": "144,2 кКал",
+        "proteins": "4,4 г",
+        "fats": "6,8 г",
+        "carbohydrates": "17,4 г"
+    },
+    {
+        "tittle": "Соус из какао",
+        "callories": "95,9 кКал",
+        "proteins": "3,9 г",
+        "fats": "3,5 г",
+        "carbohydrates": "13 г"
+    },
+    {
+        "tittle": "Соус из крыжовника",
+        "callories": "35 кКал",
+        "proteins": "0,4 г",
+        "fats": "0,2 г",
+        "carbohydrates": "8,5 г"
+    },
+    {
+        "tittle": "Соус из яблок и брусники",
+        "callories": "174,9 кКал",
+        "proteins": "0,3 г",
+        "fats": "0,3 г",
+        "carbohydrates": "45,7 г"
+    },
+    {
+        "tittle": "Соус клюквенный",
+        "callories": "67,3 кКал",
+        "proteins": "0,08 г",
+        "fats": "0,03 г",
+        "carbohydrates": "17,8 г"
+    },
+    {
+        "tittle": "Соус сметанный",
+        "callories": "382 кКал",
+        "proteins": "3,3 г",
+        "fats": "35,3 г",
+        "carbohydrates": "13,7 г"
+    },
+    {
+        "tittle": "Соус яблочный",
+        "callories": "61,1 кКал",
+        "proteins": "0,1 г",
+        "fats": "0,09 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "tittle": "Суфле",
+        "callories": "203,2 кКал",
+        "proteins": "5,4 г",
+        "fats": "12,2 г",
+        "carbohydrates": "19,1 г"
+    },
+    {
+        "tittle": "Суфле ванильное, шоколадное, ореховое",
+        "callories": "212,1 кКал",
+        "proteins": "5,6 г",
+        "fats": "13,5 г",
+        "carbohydrates": "18,2 г"
+    },
+    {
+        "tittle": "Сырники с морковью",
+        "callories": "248 кКал",
+        "proteins": "9,6 г",
+        "fats": "14,1 г",
+        "carbohydrates": "22,1 г"
+    },
+    {
+        "tittle": "Творог апельсиновый",
+        "callories": "196,8 кКал",
+        "proteins": "6,1 г",
+        "fats": "11,7 г",
+        "carbohydrates": "17,8 г"
+    },
+    {
+        "tittle": "Творожный соус",
+        "callories": "118,8 кКал",
+        "proteins": "8,4 г",
+        "fats": "7,7 г",
+        "carbohydrates": "4,2 г"
+    },
+    {
+        "tittle": "Торт \"Вишня в сотах\"",
+        "callories": "234,2 кКал",
+        "proteins": "3,5 г",
+        "fats": "15 г",
+        "carbohydrates": "22,7 г"
+    },
+    {
+        "tittle": "Торт \"Катерина\"",
+        "callories": "381,2 кКал",
+        "proteins": "4,7 г",
+        "fats": "22,9 г",
+        "carbohydrates": "41,6 г"
+    },
+    {
+        "tittle": "Торт \"Медовый\"",
+        "callories": "322,7 кКал",
+        "proteins": "3,7 г",
+        "fats": "16,6 г",
+        "carbohydrates": "42,4 г"
+    },
+    {
+        "tittle": "Торт \"Мужской идеал\"",
+        "callories": "307,8 кКал",
+        "proteins": "6,7 г",
+        "fats": "8,7 г",
+        "carbohydrates": "54,1 г"
+    },
+    {
+        "tittle": "Торт \"Негр\"",
+        "callories": "268,7 кКал",
+        "proteins": "4,4 г",
+        "fats": "15,4 г",
+        "carbohydrates": "29,9 г"
+    },
+    {
+        "tittle": "Торт \"Почти \"Прага\"",
+        "callories": "350,9 кКал",
+        "proteins": "4,2 г",
+        "fats": "20,5 г",
+        "carbohydrates": "39,9 г"
+    },
+    {
+        "tittle": "Торт \"Прага\"",
+        "callories": "283,5 кКал",
+        "proteins": "5,9 г",
+        "fats": "12,6 г",
+        "carbohydrates": "39 г"
+    },
+    {
+        "tittle": "Торт \"Снежная горка\"",
+        "callories": "150,1 кКал",
+        "proteins": "1 г",
+        "fats": "11,4 г",
+        "carbohydrates": "11,6 г"
+    },
+    {
+        "tittle": "Торт \"Шоколадная мазурка\"",
+        "callories": "301,4 кКал",
+        "proteins": "7,6 г",
+        "fats": "7,6 г",
+        "carbohydrates": "54 г"
+    },
+    {
+        "tittle": "Торт бисквитный с орехами",
+        "callories": "355,3 кКал",
+        "proteins": "11,4 г",
+        "fats": "15 г",
+        "carbohydrates": "46,5 г"
+    },
+    {
+        "tittle": "Торт Зебра»",
+        "callories": "270,8 кКал",
+        "proteins": "8,5 г",
+        "fats": "12,9 г",
+        "carbohydrates": "32 г"
+    },
+    {
+        "tittle": "Торт из картофеля с творогом",
+        "callories": "169 кКал",
+        "proteins": "9,1 г",
+        "fats": "3,9 г",
+        "carbohydrates": "25,9 г"
+    },
+    {
+        "tittle": "Торт из тыквы",
+        "callories": "212,5 кКал",
+        "proteins": "2,6 г",
+        "fats": "14,5 г",
+        "carbohydrates": "19 г"
+    },
+    {
+        "tittle": "Торт картофельный",
+        "callories": "190,5 кКал",
+        "proteins": "5,6 г",
+        "fats": "5,7 г",
+        "carbohydrates": "31,2 г"
+    },
+    {
+        "tittle": "Торт печёночный",
+        "callories": "200 кКал",
+        "proteins": "8,1 г",
+        "fats": "14,5 г",
+        "carbohydrates": "10 г"
+    },
+    {
+        "tittle": "Торт Прага»",
+        "callories": "326,4 кКал",
+        "proteins": "6,5 г",
+        "fats": "17,3 г",
+        "carbohydrates": "38,7 г"
+    },
+    {
+        "tittle": "Торт Черный принц»",
+        "callories": "14,8 кКал",
+        "proteins": "0,2 г",
+        "fats": "1,1 г",
+        "carbohydrates": "1,2 г"
+    },
+    {
+        "tittle": "Тыква с орехами",
+        "callories": "111,4 кКал",
+        "proteins": "3,6 г",
+        "fats": "0,07 г",
+        "carbohydrates": "25,8 г"
+    },
+    {
+        "tittle": "Тыква с ревенем",
+        "callories": "51,7 кКал",
+        "proteins": "0,8 г",
+        "fats": "0,09 г",
+        "carbohydrates": "12,8 г"
+    },
+    {
+        "tittle": "Тыква с фруктами",
+        "callories": "81,1 кКал",
+        "proteins": "1,7 г",
+        "fats": "2,4 г",
+        "carbohydrates": "14,1 г"
+    },
+    {
+        "tittle": "Тыква, запеченная с фруктами, по-ижевски (удмуртское национальное блюдо)",
+        "callories": "106,8 кКал",
+        "proteins": "1,5 г",
+        "fats": "3,7 г",
+        "carbohydrates": "17,9 г"
+    },
+    {
+        "tittle": "Тыквенный крем",
+        "callories": "144,8 кКал",
+        "proteins": "4 г",
+        "fats": "11,2 г",
+        "carbohydrates": "7,4 г"
+    },
+    {
+        "tittle": "Фаршированные яблоки",
+        "callories": "58,1 кКал",
+        "proteins": "3,3 г",
+        "fats": "1,9 г",
+        "carbohydrates": "7,5 г"
+    },
+    {
+        "tittle": "Фруктовый маседуан",
+        "callories": "205,3 кКал",
+        "proteins": "0,4 г",
+        "fats": "0,1 г",
+        "carbohydrates": "54 г"
+    },
+    {
+        "tittle": "Холодное из абрикосов",
+        "callories": "127 кКал",
+        "proteins": "1,8 г",
+        "fats": "10,8 г",
+        "carbohydrates": "6 г"
+    },
+    {
+        "tittle": "Чернослив со сливками или сметаной взбитыми",
+        "callories": "271,8 кКал",
+        "proteins": "2,5 г",
+        "fats": "12,6 г",
+        "carbohydrates": "39,6 г"
+    },
+    {
+        "tittle": "Шоколадное мороженое",
+        "callories": "268,7 кКал",
+        "proteins": "4,4 г",
+        "fats": "15,8 г",
+        "carbohydrates": "29,1 г"
+    },
+    {
+        "tittle": "Шоколадный крем",
+        "callories": "272,4 кКал",
+        "proteins": "3,8 г",
+        "fats": "12,7 г",
+        "carbohydrates": "38,1 г"
+    },
+    {
+        "tittle": "Шоколадный пудинг",
+        "callories": "192,4 кКал",
+        "proteins": "4,5 г",
+        "fats": "9,3 г",
+        "carbohydrates": "24,2 г"
+    },
+    {
+        "tittle": "Шоколадный соус",
+        "callories": "139,9 кКал",
+        "proteins": "2,8 г",
+        "fats": "7,7 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "tittle": "Шульо мелна (блины овсяные - марийское национальное блюдо)",
+        "callories": "195,4 кКал",
+        "proteins": "5,5 г",
+        "fats": "10,5 г",
+        "carbohydrates": "21 г"
+    },
+    {
+        "tittle": "Яблоки в грильяже",
+        "callories": "146,1 кКал",
+        "proteins": "0,3 г",
+        "fats": "2,8 г",
+        "carbohydrates": "31,9 г"
+    },
+    {
+        "tittle": "Яблоки в желе",
+        "callories": "111,1 кКал",
+        "proteins": "3 г",
+        "fats": "3,4 г",
+        "carbohydrates": "18,3 г"
+    },
+    {
+        "tittle": "Яблоки печеные",
+        "callories": "65,8 кКал",
+        "proteins": "0,6 г",
+        "fats": "1,4 г",
+        "carbohydrates": "13,6 г"
+    },
+    {
+        "tittle": "Яблоки печеные",
+        "callories": "169,1 кКал",
+        "proteins": "0,5 г",
+        "fats": "0,4 г",
+        "carbohydrates": "43,6 г"
+    },
+    {
+        "tittle": "Яблоки печеные с брусникой",
+        "callories": "105,8 кКал",
+        "proteins": "0,3 г",
+        "fats": "0,3 г",
+        "carbohydrates": "27,2 г"
+    },
+    {
+        "tittle": "Яблоки со взбитыми сливками",
+        "callories": "113,9 кКал",
+        "proteins": "1,9 г",
+        "fats": "5 г",
+        "carbohydrates": "16,4 г"
+    },
+    {
+        "tittle": "Яблоки, фаршированные морковью",
+        "callories": "78,4 кКал",
+        "proteins": "0,8 г",
+        "fats": "2,8 г",
+        "carbohydrates": "13,4 г"
+    },
+    {
+        "tittle": "Яблочно-сливочный соус",
+        "callories": "97,1 кКал",
+        "proteins": "1,2 г",
+        "fats": "6,1 г",
+        "carbohydrates": "10,1 г"
+    },
+    {
+        "tittle": "Яблочный крем",
+        "callories": "112,8 кКал",
+        "proteins": "0,6 г",
+        "fats": "4,7 г",
+        "carbohydrates": "18,2 г"
+    },
+    {
+        "tittle": "Ягодный мусс",
+        "callories": "167 кКал",
+        "proteins": "1,2 г",
+        "fats": "0,8 г",
+        "carbohydrates": "41,2 г"
+    },
+    {
+        "tittle": "Яичный мусс",
+        "callories": "142,3 кКал",
+        "proteins": "5,9 г",
+        "fats": "3,5 г",
+        "carbohydrates": "23,4 г"
+    }
+]

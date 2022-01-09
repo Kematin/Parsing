@@ -1,0 +1,198 @@
+[
+    {
+        "tittle": "Абрикосовый джем",
+        "callories": "209,5561 кКал",
+        "proteins": "0,4589 г",
+        "fats": "0,0551 г",
+        "carbohydrates": "51,4907 г"
+    },
+    {
+        "tittle": "Варенье грушевое",
+        "callories": "214,6 кКал",
+        "proteins": "0,1 г",
+        "fats": "0,1 г",
+        "carbohydrates": "56,8 г"
+    },
+    {
+        "tittle": "Варенье из абрикосов по-венгерски",
+        "callories": "241,5 кКал",
+        "proteins": "0,3 г",
+        "fats": "0,04 г",
+        "carbohydrates": "64 г"
+    },
+    {
+        "tittle": "Варенье из айвы",
+        "callories": "221,8 кКал",
+        "proteins": "0,1 г",
+        "fats": "0,1 г",
+        "carbohydrates": "58,7 г"
+    },
+    {
+        "tittle": "Варенье из арбузных корок",
+        "callories": "219,9 кКал",
+        "proteins": "0,2 г",
+        "fats": "0,03 г",
+        "carbohydrates": "58,4 г"
+    },
+    {
+        "tittle": "Варенье из барбариса",
+        "callories": "203,7 кКал",
+        "proteins": "0 г",
+        "fats": "0 г",
+        "carbohydrates": "54,3 г"
+    },
+    {
+        "tittle": "Варенье из брусники",
+        "callories": "160,8 кКал",
+        "proteins": "0,4 г",
+        "fats": "0,3 г",
+        "carbohydrates": "41,9 г"
+    },
+    {
+        "tittle": "Варенье из брусники",
+        "callories": "244,3 кКал",
+        "proteins": "0,2 г",
+        "fats": "0,1 г",
+        "carbohydrates": "64,6 г"
+    },
+    {
+        "tittle": "Варенье из брусники и яблок",
+        "callories": "247,1 кКал",
+        "proteins": "0,2 г",
+        "fats": "0,1 г",
+        "carbohydrates": "65,4 г"
+    },
+    {
+        "tittle": "Варенье из брусники по-белорусски",
+        "callories": "191,1 кКал",
+        "proteins": "0,2 г",
+        "fats": "0,1 г",
+        "carbohydrates": "50,4 г"
+    },
+    {
+        "tittle": "Варенье из брусники с корицей и гвоздикой",
+        "callories": "243,7 кКал",
+        "proteins": "0,2 г",
+        "fats": "0,1 г",
+        "carbohydrates": "64,4 г"
+    },
+    {
+        "tittle": "Варенье из вишни без косточек",
+        "callories": "219,4 кКал",
+        "proteins": "0,3 г",
+        "fats": "0,07 г",
+        "carbohydrates": "58 г"
+    },
+    {
+        "tittle": "Варенье из водяники",
+        "callories": "217,8 кКал",
+        "proteins": "0,06 г",
+        "fats": "0,05 г",
+        "carbohydrates": "57,9 г"
+    },
+    {
+        "tittle": "Варенье из голубики и малины",
+        "callories": "229,1 кКал",
+        "proteins": "0,2 г",
+        "fats": "0,1 г",
+        "carbohydrates": "60,5 г"
+    },
+    {
+        "tittle": "Варенье из жимолости",
+        "callories": "218,2 кКал",
+        "proteins": "0 г",
+        "fats": "0 г",
+        "carbohydrates": "58,2 г"
+    },
+    {
+        "tittle": "Варенье из кишмиша",
+        "callories": "295,9 кКал",
+        "proteins": "0 г",
+        "fats": "0 г",
+        "carbohydrates": "78,9 г"
+    },
+    {
+        "tittle": "Варенье из спелых абрикосов",
+        "callories": "160,9 кКал",
+        "proteins": "0,7 г",
+        "fats": "1,1 г",
+        "carbohydrates": "39,6 г"
+    },
+    {
+        "tittle": "Варенье из цедры",
+        "callories": "174,3 кКал",
+        "proteins": "0,4 г",
+        "fats": "0,04 г",
+        "carbohydrates": "45,9 г"
+    },
+    {
+        "tittle": "Джем грушевый",
+        "callories": "211,7 кКал",
+        "proteins": "0,2 г",
+        "fats": "0,2 г",
+        "carbohydrates": "55,9 г"
+    },
+    {
+        "tittle": "Джем из айвы",
+        "callories": "222,8 кКал",
+        "proteins": "0,2 г",
+        "fats": "0,1 г",
+        "carbohydrates": "58,9 г"
+    },
+    {
+        "tittle": "Джем из боярышника и яблок",
+        "callories": "89,4 кКал",
+        "proteins": "0,1 г",
+        "fats": "0,1 г",
+        "carbohydrates": "23,5 г"
+    },
+    {
+        "tittle": "Джем из черной бузины",
+        "callories": "189 кКал",
+        "proteins": "0 г",
+        "fats": "0 г",
+        "carbohydrates": "50,4 г"
+    },
+    {
+        "tittle": "Засахаренный кишмиш протертый",
+        "callories": "257,1 кКал",
+        "proteins": "0 г",
+        "fats": "0 г",
+        "carbohydrates": "68,6 г"
+    },
+    {
+        "tittle": "Облепиховое варенье",
+        "callories": "164,6 кКал",
+        "proteins": "0,7 г",
+        "fats": "3,7 г",
+        "carbohydrates": "34,4 г"
+    },
+    {
+        "tittle": "Повидло из абрикосов",
+        "callories": "241,5 кКал",
+        "proteins": "0,3 г",
+        "fats": "0,04 г",
+        "carbohydrates": "64 г"
+    },
+    {
+        "tittle": "Повидло из айвы",
+        "callories": "216 кКал",
+        "proteins": "0,3 г",
+        "fats": "0,2 г",
+        "carbohydrates": "56,8 г"
+    },
+    {
+        "tittle": "Повидло из боярышника",
+        "callories": "167,8 кКал",
+        "proteins": "0 г",
+        "fats": "0 г",
+        "carbohydrates": "44,7 г"
+    },
+    {
+        "tittle": "Пюре из черной бузины",
+        "callories": "170,1 кКал",
+        "proteins": "0 г",
+        "fats": "0 г",
+        "carbohydrates": "45,4 г"
+    }
+]

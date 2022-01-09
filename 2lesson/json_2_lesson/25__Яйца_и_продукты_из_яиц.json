@@ -1,0 +1,310 @@
+[
+    {
+        "tittle": "Заменитель яйца, жидкий или замороженный, обезжиренный",
+        "callories": "48 кКал",
+        "proteins": "10 г",
+        "fats": "0 г",
+        "carbohydrates": "2 г"
+    },
+    {
+        "tittle": "Заменитель яйца, порошок",
+        "callories": "444 кКал",
+        "proteins": "55,5 г",
+        "fats": "13 г",
+        "carbohydrates": "21,8 г"
+    },
+    {
+        "tittle": "Меланж",
+        "callories": "157 кКал",
+        "proteins": "12,7 г",
+        "fats": "11,5 г",
+        "carbohydrates": "0,7 г"
+    },
+    {
+        "tittle": "Омлет из яичного порошка, по 1-316",
+        "callories": "200 кКал",
+        "proteins": "10,3 г",
+        "fats": "17 г",
+        "carbohydrates": "1,6 г"
+    },
+    {
+        "tittle": "Эгног (напиток из взбитых яиц с сахаром, ромом или вином)",
+        "callories": "88 кКал",
+        "proteins": "4,55 г",
+        "fats": "4,19 г",
+        "carbohydrates": "8,05 г"
+    },
+    {
+        "tittle": "Яичница глазунья, по 1-312",
+        "callories": "243 кКал",
+        "proteins": "12,9 г",
+        "fats": "20,9 г",
+        "carbohydrates": "0,9 г"
+    },
+    {
+        "tittle": "Яичница-болтунья",
+        "callories": "149 кКал",
+        "proteins": "9,99 г",
+        "fats": "10,98 г",
+        "carbohydrates": "1,61 г"
+    },
+    {
+        "tittle": "Яичница-болтунья, замороженная",
+        "callories": "131 кКал",
+        "proteins": "13,1 г",
+        "fats": "5,6 г",
+        "carbohydrates": "7,5 г"
+    },
+    {
+        "tittle": "Яичный белок куриный",
+        "callories": "48 кКал",
+        "proteins": "11,1 г",
+        "fats": "0,17 г",
+        "carbohydrates": "1 г"
+    },
+    {
+        "tittle": "Яичный белок куриный",
+        "callories": "52 кКал",
+        "proteins": "10,9 г",
+        "fats": "0,17 г",
+        "carbohydrates": "0,73 г"
+    },
+    {
+        "tittle": "Яичный белок куриный, замороженный",
+        "callories": "48 кКал",
+        "proteins": "10,2 г",
+        "fats": "0 г",
+        "carbohydrates": "1,04 г"
+    },
+    {
+        "tittle": "Яичный белок куриный, сушеный",
+        "callories": "350 кКал",
+        "proteins": "82,4 г",
+        "fats": "1,8 г",
+        "carbohydrates": "1,2 г"
+    },
+    {
+        "tittle": "Яичный белок куриный, сушеный",
+        "callories": "382 кКал",
+        "proteins": "81,1 г",
+        "fats": "0 г",
+        "carbohydrates": "7,8 г"
+    },
+    {
+        "tittle": "Яичный белок куриный, сушеный, в хлопьях, со сниженной глюкозой",
+        "callories": "351 кКал",
+        "proteins": "76,92 г",
+        "fats": "0,04 г",
+        "carbohydrates": "4,17 г"
+    },
+    {
+        "tittle": "Яичный белок куриный, сушеный, порошок, со сниженной глюкозой",
+        "callories": "376 кКал",
+        "proteins": "82,4 г",
+        "fats": "0,04 г",
+        "carbohydrates": "4,47 г"
+    },
+    {
+        "tittle": "Яичный белок куриный, сушеный, стабилизированный, со сниженной глюкозой",
+        "callories": "357 кКал",
+        "proteins": "84,08 г",
+        "fats": "0,32 г",
+        "carbohydrates": "4,51 г"
+    },
+    {
+        "tittle": "Яичный желток куриный",
+        "callories": "322 кКал",
+        "proteins": "15,86 г",
+        "fats": "26,54 г",
+        "carbohydrates": "3,59 г"
+    },
+    {
+        "tittle": "Яичный желток куриный",
+        "callories": "354 кКал",
+        "proteins": "16,2 г",
+        "fats": "31,2 г",
+        "carbohydrates": "3,59 г"
+    },
+    {
+        "tittle": "Яичный желток куриный замороженный",
+        "callories": "296 кКал",
+        "proteins": "15,53 г",
+        "fats": "25,6 г",
+        "carbohydrates": "0,81 г"
+    },
+    {
+        "tittle": "Яичный желток куриный замороженный, подслащенный",
+        "callories": "307 кКал",
+        "proteins": "13,87 г",
+        "fats": "22,82 г",
+        "carbohydrates": "10,95 г"
+    },
+    {
+        "tittle": "Яичный желток куриный, замороженный, подсоленый",
+        "callories": "275 кКал",
+        "proteins": "14,07 г",
+        "fats": "22,93 г",
+        "carbohydrates": "1,77 г"
+    },
+    {
+        "tittle": "Яичный желток куриный, сушеный",
+        "callories": "612 кКал",
+        "proteins": "31,1 г",
+        "fats": "52,2 г",
+        "carbohydrates": "4,7 г"
+    },
+    {
+        "tittle": "Яичный желток куриный, сушеный",
+        "callories": "669 кКал",
+        "proteins": "33,63 г",
+        "fats": "59,13 г",
+        "carbohydrates": "0,66 г"
+    },
+    {
+        "tittle": "Яичный микс (удовлетворяющий стандартам министерства сельского хозяйства США)",
+        "callories": "555 кКал",
+        "proteins": "35,6 г",
+        "fats": "34,5 г",
+        "carbohydrates": "23,97 г"
+    },
+    {
+        "tittle": "Яичный порошок",
+        "callories": "542 кКал",
+        "proteins": "46 г",
+        "fats": "37,3 г",
+        "carbohydrates": "4,5 г"
+    },
+    {
+        "tittle": "Яйцо гусиное",
+        "callories": "185 кКал",
+        "proteins": "13,87 г",
+        "fats": "13,27 г",
+        "carbohydrates": "1,35 г"
+    },
+    {
+        "tittle": "Яйцо индюшиное",
+        "callories": "171 кКал",
+        "proteins": "13,68 г",
+        "fats": "11,88 г",
+        "carbohydrates": "1,15 г"
+    },
+    {
+        "tittle": "Яйцо куриное",
+        "callories": "143 кКал",
+        "proteins": "12,56 г",
+        "fats": "9,51 г",
+        "carbohydrates": "0,72 г"
+    },
+    {
+        "tittle": "Яйцо куриное",
+        "callories": "157 кКал",
+        "proteins": "12,7 г",
+        "fats": "11,5 г",
+        "carbohydrates": "0,7 г"
+    },
+    {
+        "tittle": "Яйцо куриное вареное вкрутую",
+        "callories": "158,7 кКал",
+        "proteins": "12,828 г",
+        "fats": "11,616 г",
+        "carbohydrates": "0,707 г"
+    },
+    {
+        "tittle": "Яйцо куриное вареное вкрутую",
+        "callories": "155 кКал",
+        "proteins": "12,58 г",
+        "fats": "10,61 г",
+        "carbohydrates": "1,12 г"
+    },
+    {
+        "tittle": "Яйцо куриное вареное всмятку",
+        "callories": "158,7 кКал",
+        "proteins": "12,828 г",
+        "fats": "11,616 г",
+        "carbohydrates": "0,707 г"
+    },
+    {
+        "tittle": "Яйцо куриное жареное",
+        "callories": "196 кКал",
+        "proteins": "13,61 г",
+        "fats": "14,84 г",
+        "carbohydrates": "0,83 г"
+    },
+    {
+        "tittle": "Яйцо куриное жареное (без масла)",
+        "callories": "174,6 кКал",
+        "proteins": "14,598 г",
+        "fats": "12,557 г",
+        "carbohydrates": "0,805 г"
+    },
+    {
+        "tittle": "Яйцо куриное сушеное",
+        "callories": "592 кКал",
+        "proteins": "48,05 г",
+        "fats": "43,9 г",
+        "carbohydrates": "1,13 г"
+    },
+    {
+        "tittle": "Яйцо куриное, замороженное",
+        "callories": "147 кКал",
+        "proteins": "12,33 г",
+        "fats": "9,95 г",
+        "carbohydrates": "1,01 г"
+    },
+    {
+        "tittle": "Яйцо куриное, замороженное, подсоленное",
+        "callories": "138 кКал",
+        "proteins": "10,97 г",
+        "fats": "10,07 г",
+        "carbohydrates": "0,83 г"
+    },
+    {
+        "tittle": "Яйцо куриное, омлет",
+        "callories": "154 кКал",
+        "proteins": "10,57 г",
+        "fats": "11,66 г",
+        "carbohydrates": "0,64 г"
+    },
+    {
+        "tittle": "Яйцо куриное, пашот",
+        "callories": "143 кКал",
+        "proteins": "12,51 г",
+        "fats": "9,47 г",
+        "carbohydrates": "0,71 г"
+    },
+    {
+        "tittle": "Яйцо куриное, сушеное, стабилизированное, обогащенное глюкозой",
+        "callories": "615 кКал",
+        "proteins": "48,17 г",
+        "fats": "43,95 г",
+        "carbohydrates": "2,38 г"
+    },
+    {
+        "tittle": "Яйцо перепелиное",
+        "callories": "158 кКал",
+        "proteins": "13,05 г",
+        "fats": "11,09 г",
+        "carbohydrates": "0,41 г"
+    },
+    {
+        "tittle": "Яйцо перепелиное",
+        "callories": "168 кКал",
+        "proteins": "11,9 г",
+        "fats": "13,1 г",
+        "carbohydrates": "0,6 г"
+    },
+    {
+        "tittle": "Яйцо под майонезом, по 1-86",
+        "callories": "256 кКал",
+        "proteins": "4,1 г",
+        "fats": "24,5 г",
+        "carbohydrates": "4,7 г"
+    },
+    {
+        "tittle": "Яйцо утиное",
+        "callories": "185 кКал",
+        "proteins": "12,81 г",
+        "fats": "13,77 г",
+        "carbohydrates": "1,45 г"
+    }
+]
