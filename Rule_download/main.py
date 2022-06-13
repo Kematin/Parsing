@@ -27,13 +27,22 @@ class Parser:
         return soup
 
     
-    def download_image(self, url, name, num):
+    def download(self, url, num):
         try:
             response = requests.get(url=url)
 
-            with open(f'Photos/{self.category_name}/{name}.png', 'wb') as f:
-                f.write(response.content)
-            return f'Image #{num} was download'
+            if url.count('.jpg') == 1: 
+                with open(f'Content/{self.category_name}/Photo_{num}.jpg', 'wb') as f:
+                    f.write(response.content)
+                return f'Photo #{num} was download'
+
+            elif url.count('.mp4') == 1: 
+                with open(f'Content/{self.category_name}/Video_{num}.mp4', 'wb') as f:
+                    f.write(response.content)
+                return f'Video #{num} was download'
+
+            else:
+                return f'Error'
         
         except Exception as e:
             return 'Error'
@@ -42,7 +51,7 @@ class Parser:
             pass
 
 
-    def __set_url(self, url):
+    def __set_url(self, url):        
         if len(url) > 40:
             return url
         else:
@@ -51,7 +60,7 @@ class Parser:
 
     def create_folder(self, foldername):
         try:
-            os.mkdir(f'Photos/{foldername}')
+            os.mkdir(f'Content/{foldername}')
             with open(f'HTML/{foldername}.html', 'r'):
                 print('File already create')
 
@@ -65,6 +74,7 @@ class Parser:
 
 
     def main(self):
+        self.create_folder(self.category_name)
         soup = self.open_page(self.category_name)
         groups = soup.find_all('app-post-preview', class_='ng-star-inserted')
         hrefs = [self.default_url + group.find('a', class_='boxInner').get('href') for group in groups]
@@ -77,11 +87,11 @@ class Parser:
             try:
                 url = soup.find('img', class_='img shadow-base').get('src')
             except AttributeError:
-                print('You try download video, not photo')
+                video = soup.find('video')
+                url = video.find('source').get('src')
 
             image = self.__set_url(url)
-            print(self.download_image(image, href[-1:-4:-1], hrefs.index(href) + 1))
-            sleep(0.5)
+            print(self.download(image, hrefs.index(href) + 1))
 
 
 def test():
